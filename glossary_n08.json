@@ -1,0 +1,102 @@
+{
+ "unit": "n08",
+ "status": "proposed-owner-confirm",
+ "entries": [
+  {
+   "term": "world",
+   "occurrences": 80,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "buddha",
+   "occurrences": 65,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "death",
+   "occurrences": 26,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "where",
+   "occurrences": 20,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "answer",
+   "occurrences": 18,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "yamaka",
+   "occurrences": 16,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "liberated",
+   "occurrences": 16,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "universe",
+   "occurrences": 12,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "rohitassa",
+   "occurrences": 11,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "happens",
+   "occurrences": 9,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "exactly",
+   "occurrences": 8,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "people",
+   "occurrences": 8,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "mistake",
+   "occurrences": 7,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "actually",
+   "occurrences": 7,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "someone",
+   "occurrences": 5,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "assassin",
+   "occurrences": 5,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+# Casting sheet n01 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b50 [granny?] “Why have you complicated this so much that you've forgotten what the original terms are pointi
+- b64 [man?] “This is my body.”
+- b65 [man?] “This is my pain.”
+- b66 [man?] “This is the sort of person I am.”
+- b67 [man?] “This is the terrible thing that happened to me.”
+- b68 [man?] “This is the future I deserve.”
+- b103 [man?] “North?”
+- b104 [man?] “South?”
+- b105 [man?] “Has it entered a higher dimension?”
+- b106 [man?] “Perhaps its fiery essence is floating invisibly above the forest?”
+- b132 [man?] “What magnificent permanent thing will I become when I finally stop craving?”
+- b134 [granny?] “What if the demand to become something permanent is itself part of the fuel?”
+- b145 [man?] “Brilliant. And what's the next achievement?”
+- b193 [granny?] “There is a whirlpool.”
+- b293 [man?] “Who is making that noise?”
+- b294 [man?] “Why are they so inconsiderate?”
+- b295 [man?] “Why can't I get any peace?”
+- b296 [man?] “This always happens to me.”
+- b304 [man?] “Everything is an illusion, therefore nothing matters.”
+- b306 [man?] “I must extinguish every sensation and become unconscious.”
+- b312 [man?] “What amazing thing can I obtain through meditation?”
+- b314 [man?] “What am I continuously feeding?”
+- b330 [man?] “Mate.”
+- b331 [granny?] “The fire has gone out.”
+- b332 [granny?] “Perhaps examine what was keeping it burning.”

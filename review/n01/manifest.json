@@ -1,0 +1,31 @@
+{
+ "unit": "n01",
+ "files": {
+  "storyboards/storyboard_n01.json": {
+   "sha256": "ecceb1866bd0513c",
+   "bytes": 94489
+  },
+  "chapters/n01.md": {
+   "sha256": "0f4102dbcd4da3c6",
+   "bytes": 26041
+  },
+  "overrides_n01.json": {
+   "sha256": "6f250a5647637d7e",
+   "bytes": 384
+  },
+  "glossary_n01.json": {
+   "sha256": "1decdc9ce2ff9621",
+   "bytes": 1586
+  },
+  "casting/cast_n01.md": {
+   "sha256": "ebdf5f8b2b0fdfc4",
+   "bytes": 1536
+  },
+  "drops_n01.json": {
+   "sha256": "44136fa355b3678a",
+   "bytes": 2
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "opening": "owner override: cold open on Sri Lanka 1988, preamble filed at process/"
+}

@@ -1,0 +1,102 @@
+{
+ "unit": "n07",
+ "status": "proposed-owner-confirm",
+ "entries": [
+  {
+   "term": "buddha",
+   "occurrences": 65,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "happiness",
+   "occurrences": 42,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "person",
+   "occurrences": 38,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "something",
+   "occurrences": 33,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "craving",
+   "occurrences": 27,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "pleasure",
+   "occurrences": 26,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "arahant",
+   "occurrences": 23,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "become",
+   "occurrences": 22,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "without",
+   "occurrences": 18,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "still",
+   "occurrences": 14,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "exhausted",
+   "occurrences": 10,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "arrangement",
+   "occurrences": 8,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "travelling",
+   "occurrences": 8,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "require",
+   "occurrences": 7,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "trying",
+   "occurrences": 7,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  },
+  {
+   "term": "better",
+   "occurrences": 6,
+   "gloss": "",
+   "source": "heading-derived candidate"
+  }
+ ]
+}

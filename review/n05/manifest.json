@@ -1,0 +1,31 @@
+{
+ "unit": "n05",
+ "files": {
+  "storyboards/storyboard_n05.json": {
+   "sha256": "f1b31cf9007b5284",
+   "bytes": 367528
+  },
+  "chapters/n05.md": {
+   "sha256": "c8495e7af9375e89",
+   "bytes": 74976
+  },
+  "overrides_n05.json": {
+   "sha256": "c34fad046a77b622",
+   "bytes": 1177
+  },
+  "casting/cast_n05.md": {
+   "sha256": "2bd8399d42dd4a7b",
+   "bytes": 3754
+  },
+  "drops_n05.json": {
+   "sha256": "f25baa6d044159dc",
+   "bytes": 112
+  },
+  "glossary_n05.json": {
+   "sha256": "c61c49b79c0d9991",
+   "bytes": 1826
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "heading-candidates-glosses-empty-owner-confirms"
+}
