@@ -77,6 +77,13 @@ empty). LEFT deliberately: mid-text Tantrasara refs in Paramarthasara
 wallpaper (author rhythm — say the word); Paramarthasara openers already
 varied per direction. All 10 storyboards green, sheets + manifests fresh.
 
+## Motion bank (owner-made, 2026-11-08)
+10 GIFs from R2 ayoutube → process/image-bank/motion/. Nine uniform
+310x414 12-frame pencil-engraving pieces (dog-at-water #1 confirmed) +
+358px engraved vortex forming-to-calm. Style: blue-ink engraving on
+white — house aesthetic match. First frames double as still emblems;
+motion needs the builder decision before rendering.
+
 ## Images (2026-11-08)
 Scan n01: 8 white gaps (301s opening … 448s whirlpool). Seal drafts for
 all 8 at process/proposed_draws_n01.md (small-on-white geometry).
