@@ -145,3 +145,5 @@ holds.lane_for routing, render-path parametrization (NEW-LANE §4).
 ## Next (autonomous, gates decide)
 storyboard n01 → casting sheets → provisional cast → glossaries →
 review packs → approval → render (video path busy: shiva chain running).
+
+House visual law: videofactory/docs/VISUALS.md (ladder: Deva+gloss → GIF motifs → drawn landscapes; white law).
