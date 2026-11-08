@@ -147,3 +147,9 @@ storyboard n01 → casting sheets → provisional cast → glossaries →
 review packs → approval → render (video path busy: shiva chain running).
 
 House visual law: videofactory/docs/VISUALS.md (ladder: Deva+gloss → GIF motifs → drawn landscapes; white law).
+
+## Om intro (2026-11-08)
+Source: bookfactory media/youtube_short_jWTj7Gk_o5Q.mp3 (45s, 3 chants;
+silence map: chant1 ends 13.2s, chant2 starts 17.1s). First cut 0-14.5s
+(lossless -c copy on render box, Rule 8), verified clean tail into
+silence. Staged: assets/om-intro-first-chant.mp3 (342KB).
