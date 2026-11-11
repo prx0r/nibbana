@@ -1,0 +1,65 @@
+{
+ "b794": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/cinema_2x15s.mp4",
+  "complete_bid": "b795",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n08 cinema motif \u2013 liberated death \u2013 sandcastles destroyed, cinema recalled, Mara mustering \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b30": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/hands-sand_2x15s.mp4",
+  "complete_bid": "b31",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n08 hands-sand motif \u2013 liberated death \u2013 sandcastles destroyed, cinema recalled, Mara mustering \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b800": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/cinema_2x15s.mp4",
+  "complete_bid": "b801",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n08 cinema motif \u2013 liberated death \u2013 sandcastles destroyed, cinema recalled, Mara mustering \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b36": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/hands-sand_2x15s.mp4",
+  "complete_bid": "b37",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n08 hands-sand motif \u2013 liberated death \u2013 sandcastles destroyed, cinema recalled, Mara mustering \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b19": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b20",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n08 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b25": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b26",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n08 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b588": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/passbook_2x15s.mp4",
+  "complete_bid": "b589",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n08 passbook \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b626": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/mara-army_2x15s.mp4",
+  "complete_bid": "b627",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n08 mara-army \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b627": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/mara-army_2x15s.mp4",
+  "complete_bid": "b628",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n08 mara-army \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

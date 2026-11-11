@@ -1,0 +1,79 @@
+{
+ "b121": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/donkey-carrot_2x15s.mp4",
+  "complete_bid": "b122",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n04 donkey-carrot motif \u2013 machinery running \u2013 donkey-carrot pursuit, pond-jewel, mirror \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b123": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/donkey-carrot_2x15s.mp4",
+  "complete_bid": "b124",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n04 donkey-carrot motif \u2013 machinery running \u2013 donkey-carrot pursuit, pond-jewel, mirror \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b29": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/pond-water_2x15s.mp4",
+  "complete_bid": "b30",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n04 pond-water motif \u2013 machinery running \u2013 donkey-carrot pursuit, pond-jewel, mirror \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b201": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/hand-mirror_2x15s.mp4",
+  "complete_bid": "b202",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n04 hand-mirror motif \u2013 machinery running \u2013 donkey-carrot pursuit, pond-jewel, mirror \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b203": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/hand-mirror_2x15s.mp4",
+  "complete_bid": "b204",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n04 hand-mirror motif \u2013 machinery running \u2013 donkey-carrot pursuit, pond-jewel, mirror \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b41": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/pond-water_2x15s.mp4",
+  "complete_bid": "b42",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n04 pond-water motif \u2013 machinery running \u2013 donkey-carrot pursuit, pond-jewel, mirror \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b4": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b5",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n04 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b9": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b10",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n04 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b30": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/jewel-pond_2x15s.mp4",
+  "complete_bid": "b31",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n04 jewel-pond \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b254": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/carpenter-tools_2x15s.mp4",
+  "complete_bid": "b255",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n04 carpenter-tools \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b255": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/carpenter-tools_2x15s.mp4",
+  "complete_bid": "b256",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n04 carpenter-tools \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

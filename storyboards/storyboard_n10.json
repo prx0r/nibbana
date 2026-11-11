@@ -39,8 +39,8 @@
    "section": "If you know the prison is constructed, how do you stop build",
    "type": "narration",
    "voice": "granny",
-   "text": "**The answer: You stop treating the processes that create bondage as things you must possess, defend or become. But the way to accomplish that is not another act of blind renunciation. It is a disciplined, intelligent, progressively refined training that finally makes its own compulsive continuation unnecessary.**",
-   "directed": "**The answer: You stop treating the processes that create bondage as things you must possess, defend or become. But the way to accomplish that is not another act of blind renunciation. It is a disciplined, intelligent, progressively refined training that finally makes its own compulsive continuation unnecessary.**"
+   "text": "The answer: You stop treating the processes that create bondage as things you must possess, defend or become. But the way to accomplish that is not another act of blind renunciation. It is a disciplined, intelligent, progressively refined training that finally makes its own compulsive continuation unnecessary.",
+   "directed": "The answer: You stop treating the processes that create bondage as things you must possess, defend or become. But the way to accomplish that is not another act of blind renunciation. It is a disciplined, intelligent, progressively refined training that finally makes its own compulsive continuation unnecessary."
   },
   {
    "id": "b5",
@@ -167,8 +167,8 @@
    "section": "If you know the prison is constructed, how do you stop build",
    "type": "narration",
    "voice": "granny",
-   "text": "**What do you actually do when you see yourself participating in the machinery?**",
-   "directed": "**What do you actually do when you see yourself participating in the machinery?**"
+   "text": "What do you actually do when you see yourself participating in the machinery?",
+   "directed": "What do you actually do when you see yourself participating in the machinery?"
   },
   {
    "id": "b21",
@@ -271,8 +271,8 @@
    "section": "If you know the prison is constructed, how do you stop build",
    "type": "narration",
    "voice": "granny",
-   "text": "**You cannot begin by pretending you have already finished.**",
-   "directed": "**You cannot begin by pretending you have already finished.**"
+   "text": "You cannot begin by pretending you have already finished.",
+   "directed": "You cannot begin by pretending you have already finished."
   },
   {
    "id": "b34",
@@ -399,16 +399,16 @@
    "section": "If you know the prison is constructed, how do you stop build",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda's answer is a masterpiece of practical Buddhist intelligence\\:",
-   "directed": "[short pause] Nanananda's answer is a masterpiece of practical Buddhist intelligence\\:"
+   "text": "Nanananda's answer is a masterpiece of practical Buddhist intelligence:",
+   "directed": "[short pause] Nanananda's answer is a masterpiece of practical Buddhist intelligence:"
   },
   {
    "id": "b50",
    "section": "If you know the prison is constructed, how do you stop build",
    "type": "narration",
    "voice": "granny",
-   "text": "**Use what is necessary. Understand what it does. Do not mistake the means for the destination. And relinquish the means when their work is complete.**",
-   "directed": "**Use what is necessary. Understand what it does. Do not mistake the means for the destination. And relinquish the means when their work is complete.**"
+   "text": "Use what is necessary. Understand what it does. Do not mistake the means for the destination. And relinquish the means when their work is complete.",
+   "directed": "Use what is necessary. Understand what it does. Do not mistake the means for the destination. And relinquish the means when their work is complete."
   },
   {
    "id": "b51",
@@ -455,8 +455,8 @@
    "section": "1\\. Even the planet isn't permanent. What the heck are you p",
    "type": "title",
    "voice": "granny",
-   "text": "1\\. Even the planet isn't permanent. What the heck are you planning to preserve?",
-   "directed": "[long pause] 1\\. Even the planet isn't permanent. What the heck are you planning to preserve?"
+   "text": "1. Even the planet isn't permanent. What the heck are you planning to preserve?",
+   "directed": "[long pause] 1. Even the planet isn't permanent. What the heck are you planning to preserve?"
   },
   {
    "id": "b57",
@@ -471,8 +471,8 @@
    "section": "1\\. Even the planet isn't permanent. What the heck are you p",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda has contrasted the gradual emergence of a world described in the *Agganna Sutta* with the destruction of a world described in the *Seven Suns Sutta*\\.",
-   "directed": "Nanananda has contrasted the gradual emergence of a world described in the *Agganna Sutta* with the destruction of a world described in the *Seven Suns Sutta*\\."
+   "text": "Nanananda has contrasted the gradual emergence of a world described in the Agganna Sutta with the destruction of a world described in the Seven Suns Sutta.",
+   "directed": "Nanananda has contrasted the gradual emergence of a world described in the Agganna Sutta with the destruction of a world described in the Seven Suns Sutta."
   },
   {
    "id": "b59",
@@ -519,8 +519,8 @@
    "section": "1\\. Even the planet isn't permanent. What the heck are you p",
    "type": "narration",
    "voice": "granny",
-   "text": "And now he recalls Sariputta's teaching in the *Greater Simile of the Elephant's Footprint*, MN 28.",
-   "directed": "And now he recalls Sariputta's teaching in the *Greater Simile of the Elephant's Footprint*, MN 28."
+   "text": "And now he recalls Sariputta's teaching in the Greater Simile of the Elephant's Footprint, MN 28.",
+   "directed": "And now he recalls Sariputta's teaching in the Greater Simile of the Elephant's Footprint, MN 28."
   },
   {
    "id": "b65",
@@ -535,8 +535,8 @@
    "section": "1\\. Even the planet isn't permanent. What the heck are you p",
    "type": "narration",
    "voice": "granny",
-   "text": "Analayo's materials provide the corresponding Chinese *Madhyama-agama* passage, MA 30, which likewise contrasts the impermanence of the great earth with the vulnerability of the human body. \\[buddhistinquiry.org; Namo tassa bhagavato arahato sammàsambuddhassa\\]",
-   "directed": "Analayo's materials provide the corresponding Chinese *Madhyama-agama* passage, MA 30, which likewise contrasts the impermanence of the great earth with the vulnerability of the human body. \\[buddhistinquiry.org; Namo tassa bhagavato arahato sammàsambuddhassa\\]"
+   "text": "Analayo's materials provide the corresponding Chinese Madhyama-agama passage, MA 30, which likewise contrasts the impermanence of the great earth with the vulnerability of the human body. [buddhistinquiry.org; Namo tassa bhagavato arahato sammàsambuddhassa]",
+   "directed": "Analayo's materials provide the corresponding Chinese Madhyama-agama passage, MA 30, which likewise contrasts the impermanence of the great earth with the vulnerability of the human body. [buddhistinquiry.org; Namo tassa bhagavato arahato sammàsambuddhassa]"
   },
   {
    "id": "b67",
@@ -639,8 +639,8 @@
    "section": "1\\. Even the planet isn't permanent. What the heck are you p",
    "type": "narration",
    "voice": "granny",
-   "text": "**You've asked a vulnerable organism to provide an unconditional guarantee of existence.**",
-   "directed": "**You've asked a vulnerable organism to provide an unconditional guarantee of existence.**"
+   "text": "You've asked a vulnerable organism to provide an unconditional guarantee of existence.",
+   "directed": "You've asked a vulnerable organism to provide an unconditional guarantee of existence."
   },
   {
    "id": "b80",
@@ -735,8 +735,8 @@
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "title",
    "voice": "granny",
-   "text": "2\\. The carpenter has to become the critic of his own work",
-   "directed": "[long pause] 2\\. The carpenter has to become the critic of his own work"
+   "text": "2. The carpenter has to become the critic of his own work",
+   "directed": "[long pause] 2. The carpenter has to become the critic of his own work"
   },
   {
    "id": "b92",
@@ -919,8 +919,8 @@
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "narration",
    "voice": "granny",
-   "text": "The practitioner must learn to examine their own experience without automatically defending it as *me* or *mine*\\.",
-   "directed": "The practitioner must learn to examine their own experience without automatically defending it as *me* or *mine*\\."
+   "text": "The practitioner must learn to examine their own experience without automatically defending it as me or mine.",
+   "directed": "The practitioner must learn to examine their own experience without automatically defending it as me or mine."
   },
   {
    "id": "b115",
@@ -1079,16 +1079,16 @@
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "narration",
    "voice": "granny",
-   "text": "**The relevant question isn't whether the experience makes you look good. It's what the experience reveals about its conditions.**",
-   "directed": "**The relevant question isn't whether the experience makes you look good. It's what the experience reveals about its conditions.**"
+   "text": "The relevant question isn't whether the experience makes you look good. It's what the experience reveals about its conditions.",
+   "directed": "The relevant question isn't whether the experience makes you look good. It's what the experience reveals about its conditions."
   },
   {
    "id": "b135",
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "narration",
    "voice": "granny",
-   "text": "### Looking at the body without immediately becoming the body",
-   "directed": "### Looking at the body without immediately becoming the body"
+   "text": "Looking at the body without immediately becoming the body",
+   "directed": "Looking at the body without immediately becoming the body"
   },
   {
    "id": "b136",
@@ -1263,8 +1263,8 @@
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "narration",
    "voice": "granny",
-   "text": "**Painful feeling is one thing. The fabrication of a wounded permanent self around it is another.**",
-   "directed": "**Painful feeling is one thing. The fabrication of a wounded permanent self around it is another.**"
+   "text": "Painful feeling is one thing. The fabrication of a wounded permanent self around it is another.",
+   "directed": "Painful feeling is one thing. The fabrication of a wounded permanent self around it is another."
   },
   {
    "id": "b158",
@@ -1279,8 +1279,8 @@
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "narration",
    "voice": "granny",
-   "text": "Not merely\\:",
-   "directed": "[short pause] Not merely\\:"
+   "text": "Not merely:",
+   "directed": "[short pause] Not merely:"
   },
   {
    "id": "b160",
@@ -1295,8 +1295,8 @@
    "section": "2\\. The carpenter has to become the critic of his own work",
    "type": "narration",
    "voice": "granny",
-   "text": "But\\:",
-   "directed": "[short pause] But\\:"
+   "text": "But:",
+   "directed": "[short pause] But:"
   },
   {
    "id": "b162",
@@ -1383,8 +1383,8 @@
    "section": "3\\. The razor of not taking things personally",
    "type": "title",
    "voice": "granny",
-   "text": "3\\. The razor of not taking things personally",
-   "directed": "[long pause] 3\\. The razor of not taking things personally"
+   "text": "3. The razor of not taking things personally",
+   "directed": "[long pause] 3. The razor of not taking things personally"
   },
   {
    "id": "b173",
@@ -1535,8 +1535,8 @@
    "section": "3\\. The razor of not taking things personally",
    "type": "narration",
    "voice": "granny",
-   "text": "Not insofar as it creates an increasingly elaborate intellectual object called *The Ultimate Doctrine of Not-Self*\\.",
-   "directed": "Not insofar as it creates an increasingly elaborate intellectual object called *The Ultimate Doctrine of Not-Self*\\."
+   "text": "Not insofar as it creates an increasingly elaborate intellectual object called The Ultimate Doctrine of Not-Self.",
+   "directed": "Not insofar as it creates an increasingly elaborate intellectual object called The Ultimate Doctrine of Not-Self."
   },
   {
    "id": "b192",
@@ -1551,8 +1551,8 @@
    "section": "3\\. The razor of not taking things personally",
    "type": "narration",
    "voice": "granny",
-   "text": "**Even the teaching against grasping must not become something you grasp.**",
-   "directed": "**Even the teaching against grasping must not become something you grasp.**"
+   "text": "Even the teaching against grasping must not become something you grasp.",
+   "directed": "Even the teaching against grasping must not become something you grasp."
   },
   {
    "id": "b194",
@@ -1663,8 +1663,8 @@
    "section": "3\\. The razor of not taking things personally",
    "type": "narration",
    "voice": "granny",
-   "text": "**If you use thoughts to understand thoughts, how do you avoid producing more of the very activity you're trying to overcome?**",
-   "directed": "**If you use thoughts to understand thoughts, how do you avoid producing more of the very activity you're trying to overcome?**"
+   "text": "If you use thoughts to understand thoughts, how do you avoid producing more of the very activity you're trying to overcome?",
+   "directed": "If you use thoughts to understand thoughts, how do you avoid producing more of the very activity you're trying to overcome?"
   },
   {
    "id": "b208",
@@ -1679,16 +1679,16 @@
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "title",
    "voice": "granny",
-   "text": "4\\. The path isn't an instant deletion button. It's a relay of increasingly useful tools.",
-   "directed": "[long pause] 4\\. The path isn't an instant deletion button. It's a relay of increasingly useful tools."
+   "text": "4. The path isn't an instant deletion button. It's a relay of increasingly useful tools.",
+   "directed": "[long pause] 4. The path isn't an instant deletion button. It's a relay of increasingly useful tools."
   },
   {
    "id": "b210",
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "narration",
    "voice": "granny",
-   "text": "Imagine someone announces\\:",
-   "directed": "[short pause] Imagine someone announces\\:"
+   "text": "Imagine someone announces:",
+   "directed": "[short pause] Imagine someone announces:"
   },
   {
    "id": "b211",
@@ -1823,16 +1823,16 @@
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Use the skill that is presently available to cultivate a better condition, and use that condition to approach the next stage.**",
-   "directed": "**Use the skill that is presently available to cultivate a better condition, and use that condition to approach the next stage.**"
+   "text": "Use the skill that is presently available to cultivate a better condition, and use that condition to approach the next stage.",
+   "directed": "Use the skill that is presently available to cultivate a better condition, and use that condition to approach the next stage."
   },
   {
    "id": "b228",
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "narration",
    "voice": "granny",
-   "text": "He calls the path both *pragmatic* and *relative*\\.",
-   "directed": "He calls the path both *pragmatic* and *relative*\\."
+   "text": "He calls the path both pragmatic and relative.",
+   "directed": "He calls the path both pragmatic and relative."
   },
   {
    "id": "b229",
@@ -1911,8 +1911,8 @@
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The danger of demanding immediate perfection",
-   "directed": "### The danger of demanding immediate perfection"
+   "text": "The danger of demanding immediate perfection",
+   "directed": "The danger of demanding immediate perfection"
   },
   {
    "id": "b239",
@@ -2015,8 +2015,8 @@
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "narration",
    "voice": "granny",
-   "text": "Can you eventually understand the underlying conceit through which the whole experience becomes an attack upon *me*?",
-   "directed": "Can you eventually understand the underlying conceit through which the whole experience becomes an attack upon *me*?"
+   "text": "Can you eventually understand the underlying conceit through which the whole experience becomes an attack upon me?",
+   "directed": "Can you eventually understand the underlying conceit through which the whole experience becomes an attack upon me?"
   },
   {
    "id": "b252",
@@ -2047,8 +2047,8 @@
    "section": "4\\. The path isn't an instant deletion button. It's a relay ",
    "type": "narration",
    "voice": "granny",
-   "text": "**The path is gradual because the conditions of bondage are established deeply enough that they require systematic cultivation.**",
-   "directed": "**The path is gradual because the conditions of bondage are established deeply enough that they require systematic cultivation.**"
+   "text": "The path is gradual because the conditions of bondage are established deeply enough that they require systematic cultivation.",
+   "directed": "The path is gradual because the conditions of bondage are established deeply enough that they require systematic cultivation."
   },
   {
    "id": "b256",
@@ -2095,8 +2095,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "title",
    "voice": "granny",
-   "text": "5\\. Even unhappiness can sometimes be worth cultivating",
-   "directed": "[long pause] 5\\. Even unhappiness can sometimes be worth cultivating"
+   "text": "5. Even unhappiness can sometimes be worth cultivating",
+   "directed": "[long pause] 5. Even unhappiness can sometimes be worth cultivating"
   },
   {
    "id": "b262",
@@ -2175,8 +2175,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda draws on the *Sakkapanha Sutta*, DN 21, and interprets it as a description of graded training rather than a command to eliminate every feeling indiscriminately.",
-   "directed": "Nanananda draws on the *Sakkapanha Sutta*, DN 21, and interprets it as a description of graded training rather than a command to eliminate every feeling indiscriminately."
+   "text": "Nanananda draws on the Sakkapanha Sutta, DN 21, and interprets it as a description of graded training rather than a command to eliminate every feeling indiscriminately.",
+   "directed": "Nanananda draws on the Sakkapanha Sutta, DN 21, and interprets it as a description of graded training rather than a command to eliminate every feeling indiscriminately."
   },
   {
    "id": "b272",
@@ -2335,8 +2335,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "**The question is not merely whether a state feels pleasant. It is what the state is helping the mind become free from.**",
-   "directed": "**The question is not merely whether a state feels pleasant. It is what the state is helping the mind become free from.**"
+   "text": "The question is not merely whether a state feels pleasant. It is what the state is helping the mind become free from.",
+   "directed": "The question is not merely whether a state feels pleasant. It is what the state is helping the mind become free from."
   },
   {
    "id": "b292",
@@ -2375,8 +2375,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "### The army of Mara turns out to be much closer than expected",
-   "directed": "### The army of Mara turns out to be much closer than expected"
+   "text": "The army of Mara turns out to be much closer than expected",
+   "directed": "The army of Mara turns out to be much closer than expected"
   },
   {
    "id": "b297",
@@ -2399,8 +2399,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda stresses that the meditator's immediate struggle often concerns the *thinking and proliferation* surrounding these conditions.",
-   "directed": "Nanananda stresses that the meditator's immediate struggle often concerns the *thinking and proliferation* surrounding these conditions."
+   "text": "Nanananda stresses that the meditator's immediate struggle often concerns the thinking and proliferation surrounding these conditions.",
+   "directed": "Nanananda stresses that the meditator's immediate struggle often concerns the thinking and proliferation surrounding these conditions."
   },
   {
    "id": "b300",
@@ -2463,8 +2463,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "Now he takes up the phrase *noble silence* and interprets a special thought-free concentration as the fruition attainment of arahantship.",
-   "directed": "Now he takes up the phrase *noble silence* and interprets a special thought-free concentration as the fruition attainment of arahantship."
+   "text": "Now he takes up the phrase noble silence and interprets a special thought-free concentration as the fruition attainment of arahantship.",
+   "directed": "Now he takes up the phrase noble silence and interprets a special thought-free concentration as the fruition attainment of arahantship."
   },
   {
    "id": "b308",
@@ -2487,8 +2487,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "**Analayo's comparative notes supply an important qualification\\:** a Chinese parallel, SA 501, identifies noble silence with the second absorption, where applied and sustained thought have subsided. That supports a more conventional meditative interpretation rather than Nanananda's exclusive emphasis on arahant fruition.",
-   "directed": "**Analayo's comparative notes supply an important qualification\\:** a Chinese parallel, SA 501, identifies noble silence with the second absorption, where applied and sustained thought have subsided. That supports a more conventional meditative interpretation rather than Nanananda's exclusive emphasis on arahant fruition."
+   "text": "Analayo's comparative notes supply an important qualification: a Chinese parallel, SA 501, identifies noble silence with the second absorption, where applied and sustained thought have subsided. That supports a more conventional meditative interpretation rather than Nanananda's exclusive emphasis on arahant fruition.",
+   "directed": "Analayo's comparative notes supply an important qualification: a Chinese parallel, SA 501, identifies noble silence with the second absorption, where applied and sustained thought have subsided. That supports a more conventional meditative interpretation rather than Nanananda's exclusive emphasis on arahant fruition."
   },
   {
    "id": "b311",
@@ -2551,8 +2551,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "### The first great practical conclusion",
-   "directed": "### The first great practical conclusion"
+   "text": "The first great practical conclusion",
+   "directed": "The first great practical conclusion"
   },
   {
    "id": "b319",
@@ -2607,8 +2607,8 @@
    "section": "5\\. Even unhappiness can sometimes be worth cultivating",
    "type": "narration",
    "voice": "granny",
-   "text": "**You don't escape the prison by punching every brick. You investigate what keeps producing the walls.**",
-   "directed": "**You don't escape the prison by punching every brick. You investigate what keeps producing the walls.**"
+   "text": "You don't escape the prison by punching every brick. You investigate what keeps producing the walls.",
+   "directed": "You don't escape the prison by punching every brick. You investigate what keeps producing the walls."
   },
   {
    "id": "b326",
@@ -2663,16 +2663,16 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "title",
    "voice": "granny",
-   "text": "6\\. There are thirty-six ways to make yourself miserable-or begin escaping.",
-   "directed": "[long pause] 6\\. There are thirty-six ways to make yourself miserable-or begin escaping."
+   "text": "6. There are thirty-six ways to make yourself miserable-or begin escaping.",
+   "directed": "[long pause] 6. There are thirty-six ways to make yourself miserable-or begin escaping."
   },
   {
    "id": "b333",
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda starts Sermon 30 with the *Analysis of the Six Sense Fields*, MN 137.",
-   "directed": "Nanananda starts Sermon 30 with the *Analysis of the Six Sense Fields*, MN 137."
+   "text": "Nanananda starts Sermon 30 with the Analysis of the Six Sense Fields, MN 137.",
+   "directed": "Nanananda starts Sermon 30 with the Analysis of the Six Sense Fields, MN 137."
   },
   {
    "id": "b334",
@@ -2759,8 +2759,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "It's that **the same sensory encounter can lead the mind in profoundly different directions**\\.",
-   "directed": "It's that **the same sensory encounter can lead the mind in profoundly different directions**\\."
+   "text": "It's that the same sensory encounter can lead the mind in profoundly different directions.",
+   "directed": "It's that the same sensory encounter can lead the mind in profoundly different directions."
   },
   {
    "id": "b345",
@@ -2879,8 +2879,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "**What has changed is the significance you impose upon the object.**",
-   "directed": "**What has changed is the significance you impose upon the object.**"
+   "text": "What has changed is the significance you impose upon the object.",
+   "directed": "What has changed is the significance you impose upon the object."
   },
   {
    "id": "b360",
@@ -2911,8 +2911,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The misery that can be spiritually useful",
-   "directed": "### The misery that can be spiritually useful"
+   "text": "The misery that can be spiritually useful",
+   "directed": "The misery that can be spiritually useful"
   },
   {
    "id": "b364",
@@ -3103,16 +3103,16 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "And the mind immediately declares\\:",
-   "directed": "[short pause] And the mind immediately declares\\:"
+   "text": "And the mind immediately declares:",
+   "directed": "[short pause] And the mind immediately declares:"
   },
   {
    "id": "b388",
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "**\"SOMETHING HAS GONE WRONG. I'M SUPPOSED TO BE BECOMING HAPPIER.\"**",
-   "directed": "**\"SOMETHING HAS GONE WRONG. I'M SUPPOSED TO BE BECOMING HAPPIER.\"**"
+   "text": "\"SOMETHING HAS GONE WRONG. I'M SUPPOSED TO BE BECOMING HAPPIER.\"",
+   "directed": "\"SOMETHING HAS GONE WRONG. I'M SUPPOSED TO BE BECOMING HAPPIER.\""
   },
   {
    "id": "b389",
@@ -3183,8 +3183,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Two kinds of equanimity: one is wisdom, the other is ignorance wearing a very convincing disguise",
-   "directed": "### Two kinds of equanimity: one is wisdom, the other is ignorance wearing a very convincing disguise"
+   "text": "Two kinds of equanimity: one is wisdom, the other is ignorance wearing a very convincing disguise",
+   "directed": "Two kinds of equanimity: one is wisdom, the other is ignorance wearing a very convincing disguise"
   },
   {
    "id": "b398",
@@ -3223,16 +3223,16 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "And you might conclude\\:",
-   "directed": "[short pause] And you might conclude\\:"
+   "text": "And you might conclude:",
+   "directed": "[short pause] And you might conclude:"
   },
   {
    "id": "b403",
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "dialogue",
    "voice": "granny",
-   "text": "\"Ah\\! Equanimity.\"",
-   "directed": "[short pause] \"Ah\\! Equanimity.\""
+   "text": "\"Ah! Equanimity.\"",
+   "directed": "[short pause] \"Ah! Equanimity.\""
   },
   {
    "id": "b404",
@@ -3367,8 +3367,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Peace without understanding can be another comfortable room inside the prison.**",
-   "directed": "**Peace without understanding can be another comfortable room inside the prison.**"
+   "text": "Peace without understanding can be another comfortable room inside the prison.",
+   "directed": "Peace without understanding can be another comfortable room inside the prison."
   },
   {
    "id": "b421",
@@ -3415,8 +3415,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "They may announce\\:",
-   "directed": "[short pause] They may announce\\:"
+   "text": "They may announce:",
+   "directed": "[short pause] They may announce:"
   },
   {
    "id": "b427",
@@ -3487,8 +3487,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Non-identification.**",
-   "directed": "**Non-identification.**"
+   "text": "Non-identification.",
+   "directed": "Non-identification."
   },
   {
    "id": "b436",
@@ -3551,8 +3551,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The ladder that removes its own rungs",
-   "directed": "### The ladder that removes its own rungs"
+   "text": "The ladder that removes its own rungs",
+   "directed": "The ladder that removes its own rungs"
   },
   {
    "id": "b444",
@@ -3671,8 +3671,8 @@
    "section": "6\\. There are thirty-six ways to make yourself miserable-or ",
    "type": "narration",
    "voice": "granny",
-   "text": "**The means have value because of what they enable-not because they must remain forever.**",
-   "directed": "**The means have value because of what they enable-not because they must remain forever.**"
+   "text": "The means have value because of what they enable-not because they must remain forever.",
+   "directed": "The means have value because of what they enable-not because they must remain forever."
   },
   {
    "id": "b459",
@@ -3711,8 +3711,8 @@
    "section": "7\\. The Buddha who crossed the flood without stopping or str",
    "type": "title",
    "voice": "granny",
-   "text": "7\\. The Buddha who crossed the flood without stopping or struggling",
-   "directed": "[long pause] 7\\. The Buddha who crossed the flood without stopping or struggling"
+   "text": "7. The Buddha who crossed the flood without stopping or struggling",
+   "directed": "[long pause] 7. The Buddha who crossed the flood without stopping or struggling"
   },
   {
    "id": "b464",
@@ -3847,8 +3847,8 @@
    "section": "7\\. The Buddha who crossed the flood without stopping or str",
    "type": "narration",
    "voice": "granny",
-   "text": "This is the *Oghatarana Sutta*, SN 1.1, which Nanananda makes central to his account of the middle path.",
-   "directed": "This is the *Oghatarana Sutta*, SN 1.1, which Nanananda makes central to his account of the middle path."
+   "text": "This is the Oghatarana Sutta, SN 1.1, which Nanananda makes central to his account of the middle path.",
+   "directed": "This is the Oghatarana Sutta, SN 1.1, which Nanananda makes central to his account of the middle path."
   },
   {
    "id": "b481",
@@ -3951,8 +3951,8 @@
    "section": "7\\. The Buddha who crossed the flood without stopping or str",
    "type": "narration",
    "voice": "granny",
-   "text": "**The path requires striving, not the compulsive struggling that reinforces bondage.**",
-   "directed": "**The path requires striving, not the compulsive struggling that reinforces bondage.**"
+   "text": "The path requires striving, not the compulsive struggling that reinforces bondage.",
+   "directed": "The path requires striving, not the compulsive struggling that reinforces bondage."
   },
   {
    "id": "b494",
@@ -3967,8 +3967,8 @@
    "section": "7\\. The Buddha who crossed the flood without stopping or str",
    "type": "narration",
    "voice": "granny",
-   "text": "### The meditator who tried to defeat himself",
-   "directed": "### The meditator who tried to defeat himself"
+   "text": "The meditator who tried to defeat himself",
+   "directed": "The meditator who tried to defeat himself"
   },
   {
    "id": "b496",
@@ -4239,8 +4239,8 @@
    "section": "7\\. The Buddha who crossed the flood without stopping or str",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why the whirlpool is such a perfect analogy",
-   "directed": "### Why the whirlpool is such a perfect analogy"
+   "text": "Why the whirlpool is such a perfect analogy",
+   "directed": "Why the whirlpool is such a perfect analogy"
   },
   {
    "id": "b530",
@@ -4327,8 +4327,8 @@
    "section": "7\\. The Buddha who crossed the flood without stopping or str",
    "type": "narration",
    "voice": "granny",
-   "text": "**You cannot end a self-reinforcing process merely by becoming its most enthusiastic participant.**",
-   "directed": "**You cannot end a self-reinforcing process merely by becoming its most enthusiastic participant.**"
+   "text": "You cannot end a self-reinforcing process merely by becoming its most enthusiastic participant.",
+   "directed": "You cannot end a self-reinforcing process merely by becoming its most enthusiastic participant."
   },
   {
    "id": "b541",
@@ -4399,8 +4399,8 @@
    "section": "8\\. The Buddha appears to announce that everything works and",
    "type": "title",
    "voice": "granny",
-   "text": "8\\. The Buddha appears to announce that everything works and nothing works",
-   "directed": "[long pause] 8\\. The Buddha appears to announce that everything works and nothing works"
+   "text": "8. The Buddha appears to announce that everything works and nothing works",
+   "directed": "[long pause] 8. The Buddha appears to announce that everything works and nothing works"
   },
   {
    "id": "b550",
@@ -4511,8 +4511,8 @@
    "section": "8\\. The Buddha appears to announce that everything works and",
    "type": "narration",
    "voice": "granny",
-   "text": "**You need the tools, but you must not grasp the tools as the goal.**",
-   "directed": "**You need the tools, but you must not grasp the tools as the goal.**"
+   "text": "You need the tools, but you must not grasp the tools as the goal.",
+   "directed": "You need the tools, but you must not grasp the tools as the goal."
   },
   {
    "id": "b564",
@@ -4703,8 +4703,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "title",
    "voice": "granny",
-   "text": "9\\. Seven chariots, one destination, and a king who doesn't keep the horses",
-   "directed": "[long pause] 9\\. Seven chariots, one destination, and a king who doesn't keep the horses"
+   "text": "9. Seven chariots, one destination, and a king who doesn't keep the horses",
+   "directed": "[long pause] 9. Seven chariots, one destination, and a king who doesn't keep the horses"
   },
   {
    "id": "b588",
@@ -4863,8 +4863,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "But then Sariputta asks whether any of the seven purifications **is** that Nibbana.",
-   "directed": "But then Sariputta asks whether any of the seven purifications **is** that Nibbana."
+   "text": "But then Sariputta asks whether any of the seven purifications is that Nibbana.",
+   "directed": "But then Sariputta asks whether any of the seven purifications is that Nibbana."
   },
   {
    "id": "b608",
@@ -4991,8 +4991,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "Now suppose somebody asks\\:",
-   "directed": "[short pause] Now suppose somebody asks\\:"
+   "text": "Now suppose somebody asks:",
+   "directed": "[short pause] Now suppose somebody asks:"
   },
   {
    "id": "b624",
@@ -5063,8 +5063,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "This is the *Rathavinita Sutta*, MN 24. Analayo's Sermon 30 materials compare the Pali version with MA 9, which preserves the dialogue and the underlying relay-of-chariots structure. \\[Namo tassa bhagavato arahato sammàsambuddhassa; The Nibbana Sermons 23 to 33 by Bhikkhu K Nanananda\\]",
-   "directed": "This is the *Rathavinita Sutta*, MN 24. Analayo's Sermon 30 materials compare the Pali version with MA 9, which preserves the dialogue and the underlying relay-of-chariots structure. \\[Namo tassa bhagavato arahato sammàsambuddhassa; The Nibbana Sermons 23 to 33 by Bhikkhu K Nanananda\\]"
+   "text": "This is the Rathavinita Sutta, MN 24. Analayo's Sermon 30 materials compare the Pali version with MA 9, which preserves the dialogue and the underlying relay-of-chariots structure. [Namo tassa bhagavato arahato sammàsambuddhassa; The Nibbana Sermons 23 to 33 by Bhikkhu K Nanananda]",
+   "directed": "This is the Rathavinita Sutta, MN 24. Analayo's Sermon 30 materials compare the Pali version with MA 9, which preserves the dialogue and the underlying relay-of-chariots structure. [Namo tassa bhagavato arahato sammàsambuddhassa; The Nibbana Sermons 23 to 33 by Bhikkhu K Nanananda]"
   },
   {
    "id": "b633",
@@ -5079,8 +5079,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "**A stage can be necessary without being final.**",
-   "directed": "**A stage can be necessary without being final.**"
+   "text": "A stage can be necessary without being final.",
+   "directed": "A stage can be necessary without being final."
   },
   {
    "id": "b635",
@@ -5151,8 +5151,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The king who became a collector of enlightened vehicles",
-   "directed": "### The king who became a collector of enlightened vehicles"
+   "text": "The king who became a collector of enlightened vehicles",
+   "directed": "The king who became a collector of enlightened vehicles"
   },
   {
    "id": "b644",
@@ -5303,8 +5303,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Each stage is to be understood and used without being made into the ultimate possession of an independent self.**",
-   "directed": "**Each stage is to be understood and used without being made into the ultimate possession of an independent self.**"
+   "text": "Each stage is to be understood and used without being made into the ultimate possession of an independent self.",
+   "directed": "Each stage is to be understood and used without being made into the ultimate possession of an independent self."
   },
   {
    "id": "b663",
@@ -5327,8 +5327,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "The Pali *Rathavinita* describes seven purifications. Other traditions, including the Chinese *Madhyama-agama* counterpart, preserve differences in how aspects of purification are enumerated or expressed.",
-   "directed": "The Pali *Rathavinita* describes seven purifications. Other traditions, including the Chinese *Madhyama-agama* counterpart, preserve differences in how aspects of purification are enumerated or expressed."
+   "text": "The Pali Rathavinita describes seven purifications. Other traditions, including the Chinese Madhyama-agama counterpart, preserve differences in how aspects of purification are enumerated or expressed.",
+   "directed": "The Pali Rathavinita describes seven purifications. Other traditions, including the Chinese Madhyama-agama counterpart, preserve differences in how aspects of purification are enumerated or expressed."
   },
   {
    "id": "b666",
@@ -5391,8 +5391,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The second half of the problem",
-   "directed": "### The second half of the problem"
+   "text": "The second half of the problem",
+   "directed": "The second half of the problem"
   },
   {
    "id": "b674",
@@ -5439,8 +5439,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "The answer cannot simply be\\:",
-   "directed": "[short pause] The answer cannot simply be\\:"
+   "text": "The answer cannot simply be:",
+   "directed": "[short pause] The answer cannot simply be:"
   },
   {
    "id": "b680",
@@ -5527,8 +5527,8 @@
    "section": "9\\. Seven chariots, one destination, and a king who doesn't ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Actually noticing what is happening.**",
-   "directed": "**Actually noticing what is happening.**"
+   "text": "Actually noticing what is happening.",
+   "directed": "Actually noticing what is happening."
   },
   {
    "id": "b691",
@@ -5543,16 +5543,16 @@
    "section": "10\\. You have been given a raft. Please stop trying to make ",
    "type": "title",
    "voice": "granny",
-   "text": "10\\. You have been given a raft. Please stop trying to make it your personality.",
-   "directed": "[long pause] 10\\. You have been given a raft. Please stop trying to make it your personality."
+   "text": "10. You have been given a raft. Please stop trying to make it your personality.",
+   "directed": "[long pause] 10. You have been given a raft. Please stop trying to make it your personality."
   },
   {
    "id": "b693",
    "section": "10\\. You have been given a raft. Please stop trying to make ",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda opens Sermon 31 by returning to the raft from the *Alagaddupama Sutta*, MN 22.",
-   "directed": "Nanananda opens Sermon 31 by returning to the raft from the *Alagaddupama Sutta*, MN 22."
+   "text": "Nanananda opens Sermon 31 by returning to the raft from the Alagaddupama Sutta, MN 22.",
+   "directed": "Nanananda opens Sermon 31 by returning to the raft from the Alagaddupama Sutta, MN 22."
   },
   {
    "id": "b694",
@@ -5711,8 +5711,8 @@
    "section": "10\\. You have been given a raft. Please stop trying to make ",
    "type": "narration",
    "voice": "granny",
-   "text": "You are **a practitioner**\\.",
-   "directed": "You are **a practitioner**\\."
+   "text": "You are a practitioner.",
+   "directed": "You are a practitioner."
   },
   {
    "id": "b714",
@@ -5847,8 +5847,8 @@
    "section": "10\\. You have been given a raft. Please stop trying to make ",
    "type": "narration",
    "voice": "granny",
-   "text": "**How do you know whether the raft is actually taking you anywhere?**",
-   "directed": "**How do you know whether the raft is actually taking you anywhere?**"
+   "text": "How do you know whether the raft is actually taking you anywhere?",
+   "directed": "How do you know whether the raft is actually taking you anywhere?"
   },
   {
    "id": "b731",
@@ -5863,8 +5863,8 @@
    "section": "11\\. The monk who rejected pleasure because he wanted someth",
    "type": "title",
    "voice": "granny",
-   "text": "11\\. The monk who rejected pleasure because he wanted something he could actually know",
-   "directed": "[long pause] 11\\. The monk who rejected pleasure because he wanted something he could actually know"
+   "text": "11. The monk who rejected pleasure because he wanted something he could actually know",
+   "directed": "[long pause] 11. The monk who rejected pleasure because he wanted something he could actually know"
   },
   {
    "id": "b733",
@@ -5975,8 +5975,8 @@
    "section": "11\\. The monk who rejected pleasure because he wanted someth",
    "type": "narration",
    "voice": "granny",
-   "text": "Suppose someone tells you\\:",
-   "directed": "[short pause] Suppose someone tells you\\:"
+   "text": "Suppose someone tells you:",
+   "directed": "[short pause] Suppose someone tells you:"
   },
   {
    "id": "b747",
@@ -6111,8 +6111,8 @@
    "section": "11\\. The monk who rejected pleasure because he wanted someth",
    "type": "narration",
    "voice": "granny",
-   "text": "**The teaching should not require you to postpone every meaningful test of its value until you're dead.**",
-   "directed": "**The teaching should not require you to postpone every meaningful test of its value until you're dead.**"
+   "text": "The teaching should not require you to postpone every meaningful test of its value until you're dead.",
+   "directed": "The teaching should not require you to postpone every meaningful test of its value until you're dead."
   },
   {
    "id": "b764",
@@ -6159,8 +6159,8 @@
    "section": "11\\. The monk who rejected pleasure because he wanted someth",
    "type": "narration",
    "voice": "granny",
-   "text": "### The real danger of spiritual optimism",
-   "directed": "### The real danger of spiritual optimism"
+   "text": "The real danger of spiritual optimism",
+   "directed": "The real danger of spiritual optimism"
   },
   {
    "id": "b770",
@@ -6215,8 +6215,8 @@
    "section": "11\\. The monk who rejected pleasure because he wanted someth",
    "type": "narration",
    "voice": "granny",
-   "text": "And they announce\\:",
-   "directed": "[short pause] And they announce\\:"
+   "text": "And they announce:",
+   "directed": "[short pause] And they announce:"
   },
   {
    "id": "b777",
@@ -6311,8 +6311,8 @@
    "section": "12\\. Four foundations of mindfulness: Stop guessing what is ",
    "type": "title",
    "voice": "granny",
-   "text": "12\\. Four foundations of mindfulness: Stop guessing what is happening.",
-   "directed": "[long pause] 12\\. Four foundations of mindfulness: Stop guessing what is happening."
+   "text": "12. Four foundations of mindfulness: Stop guessing what is happening.",
+   "directed": "[long pause] 12. Four foundations of mindfulness: Stop guessing what is happening."
   },
   {
    "id": "b789",
@@ -6375,8 +6375,8 @@
    "section": "12\\. Four foundations of mindfulness: Stop guessing what is ",
    "type": "narration",
    "voice": "granny",
-   "text": "They learn to understand **how those things arise, persist and cease**\\.",
-   "directed": "They learn to understand **how those things arise, persist and cease**\\."
+   "text": "They learn to understand how those things arise, persist and cease.",
+   "directed": "They learn to understand how those things arise, persist and cease."
   },
   {
    "id": "b797",
@@ -6535,8 +6535,8 @@
    "section": "12\\. Four foundations of mindfulness: Stop guessing what is ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The problem with merely watching",
-   "directed": "### The problem with merely watching"
+   "text": "The problem with merely watching",
+   "directed": "The problem with merely watching"
   },
   {
    "id": "b817",
@@ -6623,8 +6623,8 @@
    "section": "12\\. Four foundations of mindfulness: Stop guessing what is ",
    "type": "narration",
    "voice": "granny",
-   "text": "And you announce\\:",
-   "directed": "[short pause] And you announce\\:"
+   "text": "And you announce:",
+   "directed": "[short pause] And you announce:"
   },
   {
    "id": "b828",
@@ -6695,8 +6695,8 @@
    "section": "12\\. Four foundations of mindfulness: Stop guessing what is ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Mindfulness without discernment can become an exceptionally well-lit prison cell.**",
-   "directed": "**Mindfulness without discernment can become an exceptionally well-lit prison cell.**"
+   "text": "Mindfulness without discernment can become an exceptionally well-lit prison cell.",
+   "directed": "Mindfulness without discernment can become an exceptionally well-lit prison cell."
   },
   {
    "id": "b837",
@@ -6751,8 +6751,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "title",
    "voice": "granny",
-   "text": "13\\. Four right efforts: The maintenance department of liberation",
-   "directed": "[long pause] 13\\. Four right efforts: The maintenance department of liberation"
+   "text": "13. Four right efforts: The maintenance department of liberation",
+   "directed": "[long pause] 13. Four right efforts: The maintenance department of liberation"
   },
   {
    "id": "b844",
@@ -6807,8 +6807,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "The Buddha isn't merely saying\\:",
-   "directed": "[short pause] The Buddha isn't merely saying\\:"
+   "text": "The Buddha isn't merely saying:",
+   "directed": "[short pause] The Buddha isn't merely saying:"
   },
   {
    "id": "b851",
@@ -6847,8 +6847,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "### Preventing what hasn't arisen",
-   "directed": "### Preventing what hasn't arisen"
+   "text": "Preventing what hasn't arisen",
+   "directed": "Preventing what hasn't arisen"
   },
   {
    "id": "b856",
@@ -6911,8 +6911,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "### Abandoning what has arisen",
-   "directed": "### Abandoning what has arisen"
+   "text": "Abandoning what has arisen",
+   "directed": "Abandoning what has arisen"
   },
   {
    "id": "b864",
@@ -6999,8 +6999,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "### Cultivating what hasn't arisen",
-   "directed": "### Cultivating what hasn't arisen"
+   "text": "Cultivating what hasn't arisen",
+   "directed": "Cultivating what hasn't arisen"
   },
   {
    "id": "b875",
@@ -7063,8 +7063,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "### Sustaining what has arisen",
-   "directed": "### Sustaining what has arisen"
+   "text": "Sustaining what has arisen",
+   "directed": "Sustaining what has arisen"
   },
   {
    "id": "b883",
@@ -7103,8 +7103,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "Not\\:",
-   "directed": "[short pause] Not\\:"
+   "text": "Not:",
+   "directed": "[short pause] Not:"
   },
   {
    "id": "b888",
@@ -7127,8 +7127,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "But\\:",
-   "directed": "[short pause] But\\:"
+   "text": "But:",
+   "directed": "[short pause] But:"
   },
   {
    "id": "b891",
@@ -7151,8 +7151,8 @@
    "section": "13\\. Four right efforts: The maintenance department of liber",
    "type": "narration",
    "voice": "granny",
-   "text": "**You stop treating the mind as an independent sovereign and begin examining the conditions under which its states arise.**",
-   "directed": "**You stop treating the mind as an independent sovereign and begin examining the conditions under which its states arise.**"
+   "text": "You stop treating the mind as an independent sovereign and begin examining the conditions under which its states arise.",
+   "directed": "You stop treating the mind as an independent sovereign and begin examining the conditions under which its states arise."
   },
   {
    "id": "b894",
@@ -7183,8 +7183,8 @@
    "section": "14\\. The enormous flipping rock that doesn't care how motiva",
    "type": "title",
    "voice": "granny",
-   "text": "14\\. The enormous flipping rock that doesn't care how motivated you are",
-   "directed": "[long pause] 14\\. The enormous flipping rock that doesn't care how motivated you are"
+   "text": "14. The enormous flipping rock that doesn't care how motivated you are",
+   "directed": "[long pause] 14. The enormous flipping rock that doesn't care how motivated you are"
   },
   {
    "id": "b898",
@@ -7335,8 +7335,8 @@
    "section": "14\\. The enormous flipping rock that doesn't care how motiva",
    "type": "narration",
    "voice": "granny",
-   "text": "The important point is that **desire alone doesn't move the rock**\\.",
-   "directed": "The important point is that **desire alone doesn't move the rock**\\."
+   "text": "The important point is that desire alone doesn't move the rock.",
+   "directed": "The important point is that desire alone doesn't move the rock."
   },
   {
    "id": "b917",
@@ -7495,8 +7495,8 @@
    "section": "15\\. Four bases for accomplishment: Desire isn't the enemy w",
    "type": "title",
    "voice": "granny",
-   "text": "15\\. Four bases for accomplishment: Desire isn't the enemy when it knows its job.",
-   "directed": "[long pause] 15\\. Four bases for accomplishment: Desire isn't the enemy when it knows its job."
+   "text": "15. Four bases for accomplishment: Desire isn't the enemy when it knows its job.",
+   "directed": "[long pause] 15. Four bases for accomplishment: Desire isn't the enemy when it knows its job."
   },
   {
    "id": "b937",
@@ -7615,8 +7615,8 @@
    "section": "15\\. Four bases for accomplishment: Desire isn't the enemy w",
    "type": "narration",
    "voice": "granny",
-   "text": "Now imagine a beginner announcing\\:",
-   "directed": "[short pause] Now imagine a beginner announcing\\:"
+   "text": "Now imagine a beginner announcing:",
+   "directed": "[short pause] Now imagine a beginner announcing:"
   },
   {
    "id": "b952",
@@ -7679,8 +7679,8 @@
    "section": "15\\. Four bases for accomplishment: Desire isn't the enemy w",
    "type": "narration",
    "voice": "granny",
-   "text": "**You can employ a conditioned motivation for a liberating purpose without pretending the motivation itself is the goal.**",
-   "directed": "**You can employ a conditioned motivation for a liberating purpose without pretending the motivation itself is the goal.**"
+   "text": "You can employ a conditioned motivation for a liberating purpose without pretending the motivation itself is the goal.",
+   "directed": "You can employ a conditioned motivation for a liberating purpose without pretending the motivation itself is the goal."
   },
   {
    "id": "b960",
@@ -7799,8 +7799,8 @@
    "section": "15\\. Four bases for accomplishment: Desire isn't the enemy w",
    "type": "narration",
    "voice": "granny",
-   "text": "**Do not confuse the desire for liberation with liberation itself. But do not pretend you can dispense with the path simply because liberation is the ending of desire.**",
-   "directed": "**Do not confuse the desire for liberation with liberation itself. But do not pretend you can dispense with the path simply because liberation is the ending of desire.**"
+   "text": "Do not confuse the desire for liberation with liberation itself. But do not pretend you can dispense with the path simply because liberation is the ending of desire.",
+   "directed": "Do not confuse the desire for liberation with liberation itself. But do not pretend you can dispense with the path simply because liberation is the ending of desire."
   },
   {
    "id": "b975",
@@ -7871,8 +7871,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "title",
    "voice": "granny",
-   "text": "16\\. The five faculties: Now your practice needs a balanced management team.",
-   "directed": "[long pause] 16\\. The five faculties: Now your practice needs a balanced management team."
+   "text": "16. The five faculties: Now your practice needs a balanced management team.",
+   "directed": "[long pause] 16. The five faculties: Now your practice needs a balanced management team."
   },
   {
    "id": "b984",
@@ -7975,8 +7975,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "figure",
    "voice": "none",
-   "text": "\"THIS PATH WORKS\\!\"",
-   "directed": "\"THIS PATH WORKS\\!\""
+   "text": "\"THIS PATH WORKS!\"",
+   "directed": "\"THIS PATH WORKS!\""
   },
   {
    "id": "b997",
@@ -8031,8 +8031,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Too much confidence without wisdom",
-   "directed": "### Too much confidence without wisdom"
+   "text": "Too much confidence without wisdom",
+   "directed": "Too much confidence without wisdom"
   },
   {
    "id": "b1004",
@@ -8119,8 +8119,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Too much analysis without confidence",
-   "directed": "### Too much analysis without confidence"
+   "text": "Too much analysis without confidence",
+   "directed": "Too much analysis without confidence"
   },
   {
    "id": "b1015",
@@ -8231,8 +8231,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Too much energy without concentration",
-   "directed": "### Too much energy without concentration"
+   "text": "Too much energy without concentration",
+   "directed": "Too much energy without concentration"
   },
   {
    "id": "b1029",
@@ -8319,8 +8319,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Too much concentration without energy",
-   "directed": "### Too much concentration without energy"
+   "text": "Too much concentration without energy",
+   "directed": "Too much concentration without energy"
   },
   {
    "id": "b1040",
@@ -8399,8 +8399,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "**The practice needs enough energy to investigate, enough calm to see clearly, enough confidence to proceed, and enough wisdom to know what is being done.**",
-   "directed": "**The practice needs enough energy to investigate, enough calm to see clearly, enough confidence to proceed, and enough wisdom to know what is being done.**"
+   "text": "The practice needs enough energy to investigate, enough calm to see clearly, enough confidence to proceed, and enough wisdom to know what is being done.",
+   "directed": "The practice needs enough energy to investigate, enough calm to see clearly, enough confidence to proceed, and enough wisdom to know what is being done."
   },
   {
    "id": "b1050",
@@ -8495,8 +8495,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Faith becomes something deeper",
-   "directed": "### Faith becomes something deeper"
+   "text": "Faith becomes something deeper",
+   "directed": "Faith becomes something deeper"
   },
   {
    "id": "b1062",
@@ -8519,8 +8519,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "His discussion draws upon the *Indriya Samyutta*, the collection on the spiritual faculties.",
-   "directed": "His discussion draws upon the *Indriya Samyutta*, the collection on the spiritual faculties."
+   "text": "His discussion draws upon the Indriya Samyutta, the collection on the spiritual faculties.",
+   "directed": "His discussion draws upon the Indriya Samyutta, the collection on the spiritual faculties."
   },
   {
    "id": "b1065",
@@ -8551,8 +8551,8 @@
    "section": "16\\. The five faculties: Now your practice needs a balanced ",
    "type": "narration",
    "voice": "granny",
-   "text": "It's no longer merely\\:",
-   "directed": "[short pause] It's no longer merely\\:"
+   "text": "It's no longer merely:",
+   "directed": "[short pause] It's no longer merely:"
   },
   {
    "id": "b1069",
@@ -8655,8 +8655,8 @@
    "section": "17\\. The man carrying a heavy log discovers that effort is a",
    "type": "title",
    "voice": "granny",
-   "text": "17\\. The man carrying a heavy log discovers that effort is a question of balance",
-   "directed": "[long pause] 17\\. The man carrying a heavy log discovers that effort is a question of balance"
+   "text": "17. The man carrying a heavy log discovers that effort is a question of balance",
+   "directed": "[long pause] 17. The man carrying a heavy log discovers that effort is a question of balance"
   },
   {
    "id": "b1082",
@@ -8839,8 +8839,8 @@
    "section": "17\\. The man carrying a heavy log discovers that effort is a",
    "type": "narration",
    "voice": "granny",
-   "text": "**The middle path isn't always doing the same amount of everything. It's responding intelligently to the conditions.**",
-   "directed": "**The middle path isn't always doing the same amount of everything. It's responding intelligently to the conditions.**"
+   "text": "The middle path isn't always doing the same amount of everything. It's responding intelligently to the conditions.",
+   "directed": "The middle path isn't always doing the same amount of everything. It's responding intelligently to the conditions."
   },
   {
    "id": "b1105",
@@ -8943,8 +8943,8 @@
    "section": "17\\. The man carrying a heavy log discovers that effort is a",
    "type": "narration",
    "voice": "granny",
-   "text": "### The five faculties become five powers",
-   "directed": "### The five faculties become five powers"
+   "text": "The five faculties become five powers",
+   "directed": "The five faculties become five powers"
   },
   {
    "id": "b1118",
@@ -9207,8 +9207,8 @@
    "section": "18\\. Seven awakening factors: The process begins doing some ",
    "type": "title",
    "voice": "granny",
-   "text": "18\\. Seven awakening factors: The process begins doing some of the work for you.",
-   "directed": "[long pause] 18\\. Seven awakening factors: The process begins doing some of the work for you."
+   "text": "18. Seven awakening factors: The process begins doing some of the work for you.",
+   "directed": "[long pause] 18. Seven awakening factors: The process begins doing some of the work for you."
   },
   {
    "id": "b1151",
@@ -9383,8 +9383,8 @@
    "section": "18\\. Seven awakening factors: The process begins doing some ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Dependent arising isn't merely a theory explaining how the prison gets built. It also helps explain how the conditions for leaving it can be cultivated.**",
-   "directed": "**Dependent arising isn't merely a theory explaining how the prison gets built. It also helps explain how the conditions for leaving it can be cultivated.**"
+   "text": "Dependent arising isn't merely a theory explaining how the prison gets built. It also helps explain how the conditions for leaving it can be cultivated.",
+   "directed": "Dependent arising isn't merely a theory explaining how the prison gets built. It also helps explain how the conditions for leaving it can be cultivated."
   },
   {
    "id": "b1173",
@@ -9535,8 +9535,8 @@
    "section": "18\\. Seven awakening factors: The process begins doing some ",
    "type": "narration",
    "voice": "granny",
-   "text": "**You cultivate conditions that make wisdom easier, and wisdom helps weaken the conditions that previously produced bondage.**",
-   "directed": "**You cultivate conditions that make wisdom easier, and wisdom helps weaken the conditions that previously produced bondage.**"
+   "text": "You cultivate conditions that make wisdom easier, and wisdom helps weaken the conditions that previously produced bondage.",
+   "directed": "You cultivate conditions that make wisdom easier, and wisdom helps weaken the conditions that previously produced bondage."
   },
   {
    "id": "b1192",
@@ -9615,8 +9615,8 @@
    "section": "18\\. Seven awakening factors: The process begins doing some ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The final factor: Equanimity isn't apathy.",
-   "directed": "### The final factor: Equanimity isn't apathy."
+   "text": "The final factor: Equanimity isn't apathy.",
+   "directed": "The final factor: Equanimity isn't apathy."
   },
   {
    "id": "b1202",
@@ -9783,8 +9783,8 @@
    "section": "18\\. Seven awakening factors: The process begins doing some ",
    "type": "narration",
    "voice": "granny",
-   "text": "**The purpose of effort isn't to establish an eternal identity as somebody who makes effort. It is to accomplish the work.**",
-   "directed": "**The purpose of effort isn't to establish an eternal identity as somebody who makes effort. It is to accomplish the work.**"
+   "text": "The purpose of effort isn't to establish an eternal identity as somebody who makes effort. It is to accomplish the work.",
+   "directed": "The purpose of effort isn't to establish an eternal identity as somebody who makes effort. It is to accomplish the work."
   },
   {
    "id": "b1223",
@@ -9823,8 +9823,8 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "title",
    "voice": "granny",
-   "text": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
-   "directed": "[long pause] 19\\. The Noble Eightfold Path: Eight factors, one direction."
+   "text": "19. The Noble Eightfold Path: Eight factors, one direction.",
+   "directed": "[long pause] 19. The Noble Eightfold Path: Eight factors, one direction."
   },
   {
    "id": "b1228",
@@ -9927,16 +9927,16 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "And in the *Mahacattarisaka Sutta*, MN 117, the Buddha describes noble right concentration as supported by the other seven factors.",
-   "directed": "And in the *Mahacattarisaka Sutta*, MN 117, the Buddha describes noble right concentration as supported by the other seven factors."
+   "text": "And in the Mahacattarisaka Sutta, MN 117, the Buddha describes noble right concentration as supported by the other seven factors.",
+   "directed": "And in the Mahacattarisaka Sutta, MN 117, the Buddha describes noble right concentration as supported by the other seven factors."
   },
   {
    "id": "b1241",
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "The corresponding Chinese *Madhyama-agama* passage, MA 189, likewise preserves the importance of these supporting factors.",
-   "directed": "The corresponding Chinese *Madhyama-agama* passage, MA 189, likewise preserves the importance of these supporting factors."
+   "text": "The corresponding Chinese Madhyama-agama passage, MA 189, likewise preserves the importance of these supporting factors.",
+   "directed": "The corresponding Chinese Madhyama-agama passage, MA 189, likewise preserves the importance of these supporting factors."
   },
   {
    "id": "b1242",
@@ -10007,8 +10007,8 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "### The wrong map makes every step more efficient in the wrong direction.",
-   "directed": "### The wrong map makes every step more efficient in the wrong direction."
+   "text": "The wrong map makes every step more efficient in the wrong direction.",
+   "directed": "The wrong map makes every step more efficient in the wrong direction."
   },
   {
    "id": "b1251",
@@ -10247,8 +10247,8 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "But **even the accumulation of merit is not identical with the final cessation of craving**\\.",
-   "directed": "But **even the accumulation of merit is not identical with the final cessation of craving**\\."
+   "text": "But even the accumulation of merit is not identical with the final cessation of craving.",
+   "directed": "But even the accumulation of merit is not identical with the final cessation of craving."
   },
   {
    "id": "b1281",
@@ -10263,8 +10263,8 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why the middle path isn't fifty per cent pleasure and fifty per cent self-torture",
-   "directed": "### Why the middle path isn't fifty per cent pleasure and fifty per cent self-torture"
+   "text": "Why the middle path isn't fifty per cent pleasure and fifty per cent self-torture",
+   "directed": "Why the middle path isn't fifty per cent pleasure and fifty per cent self-torture"
   },
   {
    "id": "b1283",
@@ -10375,8 +10375,8 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "**The middle path isn't an average of two bad methods. It's a method that avoids the error underlying both.**",
-   "directed": "**The middle path isn't an average of two bad methods. It's a method that avoids the error underlying both.**"
+   "text": "The middle path isn't an average of two bad methods. It's a method that avoids the error underlying both.",
+   "directed": "The middle path isn't an average of two bad methods. It's a method that avoids the error underlying both."
   },
   {
    "id": "b1297",
@@ -10487,16 +10487,16 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Eight factors become ten at completion",
-   "directed": "### Eight factors become ten at completion"
+   "text": "Eight factors become ten at completion",
+   "directed": "Eight factors become ten at completion"
   },
   {
    "id": "b1311",
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda draws attention to the *Mahacattarisaka Sutta* distinction between the eight factors of the trainee's path and the ten factors associated with completion.",
-   "directed": "Nanananda draws attention to the *Mahacattarisaka Sutta* distinction between the eight factors of the trainee's path and the ten factors associated with completion."
+   "text": "Nanananda draws attention to the Mahacattarisaka Sutta distinction between the eight factors of the trainee's path and the ten factors associated with completion.",
+   "directed": "Nanananda draws attention to the Mahacattarisaka Sutta distinction between the eight factors of the trainee's path and the ten factors associated with completion."
   },
   {
    "id": "b1312",
@@ -10583,8 +10583,8 @@
    "section": "19\\. The Noble Eightfold Path: Eight factors, one direction.",
    "type": "narration",
    "voice": "granny",
-   "text": "**The path culminates not in an infinite continuation of practice, but in the completion of its liberating function.**",
-   "directed": "**The path culminates not in an infinite continuation of practice, but in the completion of its liberating function.**"
+   "text": "The path culminates not in an infinite continuation of practice, but in the completion of its liberating function.",
+   "directed": "The path culminates not in an infinite continuation of practice, but in the completion of its liberating function."
   },
   {
    "id": "b1323",
@@ -10655,8 +10655,8 @@
    "section": "20\\. The sky through which every useful wind can blow",
    "type": "title",
    "voice": "granny",
-   "text": "20\\. The sky through which every useful wind can blow",
-   "directed": "[long pause] 20\\. The sky through which every useful wind can blow"
+   "text": "20. The sky through which every useful wind can blow",
+   "directed": "[long pause] 20. The sky through which every useful wind can blow"
   },
   {
    "id": "b1332",
@@ -10839,8 +10839,8 @@
    "section": "20\\. The sky through which every useful wind can blow",
    "type": "narration",
    "voice": "granny",
-   "text": "**The path is not a collection of spiritual abilities. It's the training of a mind towards the ending of grasping.**",
-   "directed": "**The path is not a collection of spiritual abilities. It's the training of a mind towards the ending of grasping.**"
+   "text": "The path is not a collection of spiritual abilities. It's the training of a mind towards the ending of grasping.",
+   "directed": "The path is not a collection of spiritual abilities. It's the training of a mind towards the ending of grasping."
   },
   {
    "id": "b1355",
@@ -10863,8 +10863,8 @@
    "section": "20\\. The sky through which every useful wind can blow",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda turns to the *Greater Discourse on the Six Sense Bases*, MN 149.",
-   "directed": "Nanananda turns to the *Greater Discourse on the Six Sense Bases*, MN 149."
+   "text": "Nanananda turns to the Greater Discourse on the Six Sense Bases, MN 149.",
+   "directed": "Nanananda turns to the Greater Discourse on the Six Sense Bases, MN 149."
   },
   {
    "id": "b1358",
@@ -10951,8 +10951,8 @@
    "section": "20\\. The sky through which every useful wind can blow",
    "type": "narration",
    "voice": "granny",
-   "text": "**And right where it can stop.**",
-   "directed": "**And right where it can stop.**"
+   "text": "And right where it can stop.",
+   "directed": "And right where it can stop."
   },
   {
    "id": "b1369",
@@ -10967,8 +10967,8 @@
    "section": "21\\. The Buddha finally shows you the exact place where the ",
    "type": "title",
    "voice": "granny",
-   "text": "21\\. The Buddha finally shows you the exact place where the prison is built.",
-   "directed": "[long pause] 21\\. The Buddha finally shows you the exact place where the prison is built."
+   "text": "21. The Buddha finally shows you the exact place where the prison is built.",
+   "directed": "[long pause] 21. The Buddha finally shows you the exact place where the prison is built."
   },
   {
    "id": "b1371",
@@ -10999,16 +10999,16 @@
    "section": "21\\. The Buddha finally shows you the exact place where the ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Seeing something.**",
-   "directed": "**Seeing something.**"
+   "text": "Seeing something.",
+   "directed": "Seeing something."
   },
   {
    "id": "b1375",
    "section": "21\\. The Buddha finally shows you the exact place where the ",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Greater Discourse on the Six Sense Bases*, MN 149, describes two fundamentally different ways of encountering experience.",
-   "directed": "The *Greater Discourse on the Six Sense Bases*, MN 149, describes two fundamentally different ways of encountering experience."
+   "text": "The Greater Discourse on the Six Sense Bases, MN 149, describes two fundamentally different ways of encountering experience.",
+   "directed": "The Greater Discourse on the Six Sense Bases, MN 149, describes two fundamentally different ways of encountering experience."
   },
   {
    "id": "b1376",
@@ -11199,8 +11199,8 @@
    "section": "21\\. The Buddha finally shows you the exact place where the ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The ordinary sequence",
-   "directed": "### The ordinary sequence"
+   "text": "The ordinary sequence",
+   "directed": "The ordinary sequence"
   },
   {
    "id": "b1400",
@@ -11439,8 +11439,8 @@
    "section": "21\\. The Buddha finally shows you the exact place where the ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The alternative sequence",
-   "directed": "### The alternative sequence"
+   "text": "The alternative sequence",
+   "directed": "The alternative sequence"
   },
   {
    "id": "b1430",
@@ -11607,8 +11607,8 @@
    "section": "21\\. The Buddha finally shows you the exact place where the ",
    "type": "narration",
    "voice": "granny",
-   "text": "**This is the difference between an experience becoming fuel and an experience becoming an opportunity for understanding.**",
-   "directed": "**This is the difference between an experience becoming fuel and an experience becoming an opportunity for understanding.**"
+   "text": "This is the difference between an experience becoming fuel and an experience becoming an opportunity for understanding.",
+   "directed": "This is the difference between an experience becoming fuel and an experience becoming an opportunity for understanding."
   },
   {
    "id": "b1451",
@@ -11647,8 +11647,8 @@
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "title",
    "voice": "granny",
-   "text": "22\\. The thirty-seven factors converge in the moment you stop lying to yourself about experience.",
-   "directed": "[long pause] 22\\. The thirty-seven factors converge in the moment you stop lying to yourself about experience."
+   "text": "22. The thirty-seven factors converge in the moment you stop lying to yourself about experience.",
+   "directed": "[long pause] 22. The thirty-seven factors converge in the moment you stop lying to yourself about experience."
   },
   {
    "id": "b1456",
@@ -11799,32 +11799,32 @@
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "**Understand what must be understood.**",
-   "directed": "**Understand what must be understood.**"
+   "text": "Understand what must be understood.",
+   "directed": "Understand what must be understood."
   },
   {
    "id": "b1475",
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "**Abandon what must be abandoned.**",
-   "directed": "**Abandon what must be abandoned.**"
+   "text": "Abandon what must be abandoned.",
+   "directed": "Abandon what must be abandoned."
   },
   {
    "id": "b1476",
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "**Develop what must be developed.**",
-   "directed": "**Develop what must be developed.**"
+   "text": "Develop what must be developed.",
+   "directed": "Develop what must be developed."
   },
   {
    "id": "b1477",
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "**Realise what must be realised.**",
-   "directed": "**Realise what must be realised.**"
+   "text": "Realise what must be realised.",
+   "directed": "Realise what must be realised."
   },
   {
    "id": "b1478",
@@ -11919,8 +11919,8 @@
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "**Confusing these tasks is how spiritual practice becomes an enormous flipping mess.**",
-   "directed": "**Confusing these tasks is how spiritual practice becomes an enormous flipping mess.**"
+   "text": "Confusing these tasks is how spiritual practice becomes an enormous flipping mess.",
+   "directed": "Confusing these tasks is how spiritual practice becomes an enormous flipping mess."
   },
   {
    "id": "b1490",
@@ -11975,8 +11975,8 @@
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why noticing is not enough",
-   "directed": "### Why noticing is not enough"
+   "text": "Why noticing is not enough",
+   "directed": "Why noticing is not enough"
   },
   {
    "id": "b1497",
@@ -12055,8 +12055,8 @@
    "section": "22\\. The thirty-seven factors converge in the moment you sto",
    "type": "narration",
    "voice": "granny",
-   "text": "**Mindfulness supplies an indispensable basis for understanding. It is not a magical replacement for the entire path.**",
-   "directed": "**Mindfulness supplies an indispensable basis for understanding. It is not a magical replacement for the entire path.**"
+   "text": "Mindfulness supplies an indispensable basis for understanding. It is not a magical replacement for the entire path.",
+   "directed": "Mindfulness supplies an indispensable basis for understanding. It is not a magical replacement for the entire path."
   },
   {
    "id": "b1507",
@@ -12143,8 +12143,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "title",
    "voice": "granny",
-   "text": "23\\. The seamstress of existence has been stitching you together for an eternity.",
-   "directed": "[long pause] 23\\. The seamstress of existence has been stitching you together for an eternity."
+   "text": "23. The seamstress of existence has been stitching you together for an eternity.",
+   "directed": "[long pause] 23. The seamstress of existence has been stitching you together for an eternity."
   },
   {
    "id": "b1518",
@@ -12287,8 +12287,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "narration",
    "voice": "granny",
-   "text": "**Craving is the seamstress.**",
-   "directed": "**Craving is the seamstress.**"
+   "text": "Craving is the seamstress.",
+   "directed": "Craving is the seamstress."
   },
   {
    "id": "b1536",
@@ -12319,16 +12319,16 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "narration",
    "voice": "granny",
-   "text": "There's *me*, the observer.",
-   "directed": "There's *me*, the observer."
+   "text": "There's me, the observer.",
+   "directed": "There's me, the observer."
   },
   {
    "id": "b1540",
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "narration",
    "voice": "granny",
-   "text": "And there's *the world*, observed.",
-   "directed": "And there's *the world*, observed."
+   "text": "And there's the world, observed.",
+   "directed": "And there's the world, observed."
   },
   {
    "id": "b1541",
@@ -12495,8 +12495,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "figure",
    "voice": "none",
-   "text": "**\"THIS EXPERIENCE MUST BELONG TO ME.\"**",
-   "directed": "**\"THIS EXPERIENCE MUST BELONG TO ME.\"**"
+   "text": "\"THIS EXPERIENCE MUST BELONG TO ME.\"",
+   "directed": "\"THIS EXPERIENCE MUST BELONG TO ME.\""
   },
   {
    "id": "b1562",
@@ -12511,8 +12511,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "figure",
    "voice": "none",
-   "text": "**\"THIS PLEASURE MUST CONTINUE.\"**",
-   "directed": "**\"THIS PLEASURE MUST CONTINUE.\"**"
+   "text": "\"THIS PLEASURE MUST CONTINUE.\"",
+   "directed": "\"THIS PLEASURE MUST CONTINUE.\""
   },
   {
    "id": "b1564",
@@ -12527,8 +12527,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "figure",
    "voice": "none",
-   "text": "**\"THIS INSULT THREATENS MY EXISTENCE.\"**",
-   "directed": "**\"THIS INSULT THREATENS MY EXISTENCE.\"**"
+   "text": "\"THIS INSULT THREATENS MY EXISTENCE.\"",
+   "directed": "\"THIS INSULT THREATENS MY EXISTENCE.\""
   },
   {
    "id": "b1566",
@@ -12543,8 +12543,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "figure",
    "voice": "none",
-   "text": "**\"THIS MEMORY DEFINES WHO I AM.\"**",
-   "directed": "**\"THIS MEMORY DEFINES WHO I AM.\"**"
+   "text": "\"THIS MEMORY DEFINES WHO I AM.\"",
+   "directed": "\"THIS MEMORY DEFINES WHO I AM.\""
   },
   {
    "id": "b1568",
@@ -12559,8 +12559,8 @@
    "section": "23\\. The seamstress of existence has been stitching you toge",
    "type": "figure",
    "voice": "none",
-   "text": "**\"THIS FUTURE ACHIEVEMENT WILL FINALLY COMPLETE ME.\"**",
-   "directed": "**\"THIS FUTURE ACHIEVEMENT WILL FINALLY COMPLETE ME.\"**"
+   "text": "\"THIS FUTURE ACHIEVEMENT WILL FINALLY COMPLETE ME.\"",
+   "directed": "\"THIS FUTURE ACHIEVEMENT WILL FINALLY COMPLETE ME.\""
   },
   {
    "id": "b1570",
@@ -12655,16 +12655,16 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "title",
    "voice": "granny",
-   "text": "24\\. Six enlightened monks argue about the middle, and the Buddha says they're all right.",
-   "directed": "[long pause] 24\\. Six enlightened monks argue about the middle, and the Buddha says they're all right."
+   "text": "24. Six enlightened monks argue about the middle, and the Buddha says they're all right.",
+   "directed": "[long pause] 24. Six enlightened monks argue about the middle, and the Buddha says they're all right."
   },
   {
    "id": "b1582",
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "The Buddha gives a compact instruction in the *Questions of Tissametteyya*, in the *Sutta Nipata*\\.",
-   "directed": "The Buddha gives a compact instruction in the *Questions of Tissametteyya*, in the *Sutta Nipata*\\."
+   "text": "The Buddha gives a compact instruction in the Questions of Tissametteyya, in the Sutta Nipata.",
+   "directed": "The Buddha gives a compact instruction in the Questions of Tissametteyya, in the Sutta Nipata."
   },
   {
    "id": "b1583",
@@ -12855,8 +12855,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "And the Buddha's response is effectively\\:",
-   "directed": "[short pause] And the Buddha's response is effectively\\:"
+   "text": "And the Buddha's response is effectively:",
+   "directed": "[short pause] And the Buddha's response is effectively:"
   },
   {
    "id": "b1607",
@@ -12895,8 +12895,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "**How does craving bind conditioned phenomena into the experience of an independent, continuing world?**",
-   "directed": "**How does craving bind conditioned phenomena into the experience of an independent, continuing world?**"
+   "text": "How does craving bind conditioned phenomena into the experience of an independent, continuing world?",
+   "directed": "How does craving bind conditioned phenomena into the experience of an independent, continuing world?"
   },
   {
    "id": "b1612",
@@ -12919,8 +12919,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "### First interpretation: Contact and its arising conceal cessation.",
-   "directed": "### First interpretation: Contact and its arising conceal cessation."
+   "text": "First interpretation: Contact and its arising conceal cessation.",
+   "directed": "First interpretation: Contact and its arising conceal cessation."
   },
   {
    "id": "b1615",
@@ -13079,8 +13079,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "**The desire has outlived the sensation.**",
-   "directed": "**The desire has outlived the sensation.**"
+   "text": "The desire has outlived the sensation.",
+   "directed": "The desire has outlived the sensation."
   },
   {
    "id": "b1635",
@@ -13127,8 +13127,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "### Second interpretation: The past and future become one enormous imaginary possession.",
-   "directed": "### Second interpretation: The past and future become one enormous imaginary possession."
+   "text": "Second interpretation: The past and future become one enormous imaginary possession.",
+   "directed": "Second interpretation: The past and future become one enormous imaginary possession."
   },
   {
    "id": "b1641",
@@ -13279,8 +13279,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda uses the second interpretation to emphasise the importance of examining present conditioned phenomena without being carried away by the possessive elaborations of past and future. He connects it with the *Bhaddekaratta Sutta* and its attention to present experience.",
-   "directed": "Nanananda uses the second interpretation to emphasise the importance of examining present conditioned phenomena without being carried away by the possessive elaborations of past and future. He connects it with the *Bhaddekaratta Sutta* and its attention to present experience."
+   "text": "Nanananda uses the second interpretation to emphasise the importance of examining present conditioned phenomena without being carried away by the possessive elaborations of past and future. He connects it with the Bhaddekaratta Sutta and its attention to present experience.",
+   "directed": "Nanananda uses the second interpretation to emphasise the importance of examining present conditioned phenomena without being carried away by the possessive elaborations of past and future. He connects it with the Bhaddekaratta Sutta and its attention to present experience."
   },
   {
    "id": "b1660",
@@ -13343,8 +13343,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "**The prison's story may extend across your entire lifetime. The activity of constructing it is occurring through conditions you can examine.**",
-   "directed": "**The prison's story may extend across your entire lifetime. The activity of constructing it is occurring through conditions you can examine.**"
+   "text": "The prison's story may extend across your entire lifetime. The activity of constructing it is occurring through conditions you can examine.",
+   "directed": "The prison's story may extend across your entire lifetime. The activity of constructing it is occurring through conditions you can examine."
   },
   {
    "id": "b1668",
@@ -13407,8 +13407,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "### Third interpretation: You are trapped on a seesaw and calling it happiness.",
-   "directed": "### Third interpretation: You are trapped on a seesaw and calling it happiness."
+   "text": "Third interpretation: You are trapped on a seesaw and calling it happiness.",
+   "directed": "Third interpretation: You are trapped on a seesaw and calling it happiness."
   },
   {
    "id": "b1676",
@@ -13471,16 +13471,16 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "And suppose someone announces\\:",
-   "directed": "[short pause] And suppose someone announces\\:"
+   "text": "And suppose someone announces:",
+   "directed": "[short pause] And suppose someone announces:"
   },
   {
    "id": "b1684",
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "dialogue",
    "voice": "man",
-   "text": "\"At last\\! I have discovered permanent happiness.\"",
-   "directed": "[short pause] \"At last\\! I have discovered permanent happiness.\""
+   "text": "\"At last! I have discovered permanent happiness.\"",
+   "directed": "[short pause] \"At last! I have discovered permanent happiness.\""
   },
   {
    "id": "b1685",
@@ -13607,8 +13607,8 @@
    "section": "24\\. Six enlightened monks argue about the middle, and the B",
    "type": "narration",
    "voice": "granny",
-   "text": "**The way beyond the seesaw is not simply to remain permanently on one side.**",
-   "directed": "**The way beyond the seesaw is not simply to remain permanently on one side.**"
+   "text": "The way beyond the seesaw is not simply to remain permanently on one side.",
+   "directed": "The way beyond the seesaw is not simply to remain permanently on one side."
   },
   {
    "id": "b1701",
@@ -13711,8 +13711,8 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "title",
    "voice": "granny",
-   "text": "25\\. The dog returns one final time-and still hasn't figured out the flipping reflection.",
-   "directed": "[long pause] 25\\. The dog returns one final time-and still hasn't figured out the flipping reflection."
+   "text": "25. The dog returns one final time-and still hasn't figured out the flipping reflection.",
+   "directed": "[long pause] 25. The dog returns one final time-and still hasn't figured out the flipping reflection."
   },
   {
    "id": "b1714",
@@ -13855,8 +13855,8 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "But treating consciousness as *the very discrimination* between the poles is Nanananda's philosophical reconstruction.",
-   "directed": "But treating consciousness as *the very discrimination* between the poles is Nanananda's philosophical reconstruction."
+   "text": "But treating consciousness as the very discrimination between the poles is Nanananda's philosophical reconstruction.",
+   "directed": "But treating consciousness as the very discrimination between the poles is Nanananda's philosophical reconstruction."
   },
   {
    "id": "b1732",
@@ -13887,8 +13887,8 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "**The existence of an experience does not establish the independent existence of the owner and object imagined through it.**",
-   "directed": "**The existence of an experience does not establish the independent existence of the owner and object imagined through it.**"
+   "text": "The existence of an experience does not establish the independent existence of the owner and object imagined through it.",
+   "directed": "The existence of an experience does not establish the independent existence of the owner and object imagined through it."
   },
   {
    "id": "b1736",
@@ -13951,8 +13951,8 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "### The fifth interpretation: The internal and external are joined by an imaginary ownership.",
-   "directed": "### The fifth interpretation: The internal and external are joined by an imaginary ownership."
+   "text": "The fifth interpretation: The internal and external are joined by an imaginary ownership.",
+   "directed": "The fifth interpretation: The internal and external are joined by an imaginary ownership."
   },
   {
    "id": "b1744",
@@ -13991,32 +13991,32 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "*I see that.*",
-   "directed": "*I see that.*"
+   "text": "I see that.",
+   "directed": "I see that."
   },
   {
    "id": "b1749",
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "*I want that.*",
-   "directed": "*I want that.*"
+   "text": "I want that.",
+   "directed": "I want that."
   },
   {
    "id": "b1750",
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "*That belongs to me.*",
-   "directed": "*That belongs to me.*"
+   "text": "That belongs to me.",
+   "directed": "That belongs to me."
   },
   {
    "id": "b1751",
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "*I must not lose it.*",
-   "directed": "*I must not lose it.*"
+   "text": "I must not lose it.",
+   "directed": "I must not lose it."
   },
   {
    "id": "b1752",
@@ -14135,8 +14135,8 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "### The sixth interpretation: The person is a conditioned process, not an eternal proprietor.",
-   "directed": "### The sixth interpretation: The person is a conditioned process, not an eternal proprietor."
+   "text": "The sixth interpretation: The person is a conditioned process, not an eternal proprietor.",
+   "directed": "The sixth interpretation: The person is a conditioned process, not an eternal proprietor."
   },
   {
    "id": "b1767",
@@ -14175,8 +14175,8 @@
    "section": "25\\. The dog returns one final time-and still hasn't figured",
    "type": "narration",
    "voice": "granny",
-   "text": "How does a process become somebody called *me*?",
-   "directed": "How does a process become somebody called *me*?"
+   "text": "How does a process become somebody called me?",
+   "directed": "How does a process become somebody called me?"
   },
   {
    "id": "b1772",
@@ -14367,8 +14367,8 @@
    "section": "26\\. The final stitch is not made. The whole flipping operat",
    "type": "title",
    "voice": "granny",
-   "text": "26\\. The final stitch is not made. The whole flipping operation ends.",
-   "directed": "[long pause] 26\\. The final stitch is not made. The whole flipping operation ends."
+   "text": "26. The final stitch is not made. The whole flipping operation ends.",
+   "directed": "[long pause] 26. The final stitch is not made. The whole flipping operation ends."
   },
   {
    "id": "b1796",
@@ -14671,8 +14671,8 @@
    "section": "26\\. The final stitch is not made. The whole flipping operat",
    "type": "narration",
    "voice": "granny",
-   "text": "**The absence of renewed bondage is not a new possession. It is the ending of the binding.**",
-   "directed": "**The absence of renewed bondage is not a new possession. It is the ending of the binding.**"
+   "text": "The absence of renewed bondage is not a new possession. It is the ending of the binding.",
+   "directed": "The absence of renewed bondage is not a new possession. It is the ending of the binding."
   },
   {
    "id": "b1834",
@@ -14783,8 +14783,8 @@
    "section": "26\\. The final stitch is not made. The whole flipping operat",
    "type": "narration",
    "voice": "granny",
-   "text": "**The purpose of the teaching is not to construct the ultimate correct story about yourself. It is to end the bondage sustained by the need for such a story.**",
-   "directed": "**The purpose of the teaching is not to construct the ultimate correct story about yourself. It is to end the bondage sustained by the need for such a story.**"
+   "text": "The purpose of the teaching is not to construct the ultimate correct story about yourself. It is to end the bondage sustained by the need for such a story.",
+   "directed": "The purpose of the teaching is not to construct the ultimate correct story about yourself. It is to end the bondage sustained by the need for such a story."
   },
   {
    "id": "b1848",
@@ -14951,8 +14951,8 @@
    "section": "26\\. The final stitch is not made. The whole flipping operat",
    "type": "narration",
    "voice": "granny",
-   "text": "**Why the heck should anyone actually want Nibbana?**",
-   "directed": "**Why the heck should anyone actually want Nibbana?**"
+   "text": "Why the heck should anyone actually want Nibbana?",
+   "directed": "Why the heck should anyone actually want Nibbana?"
   },
   {
    "id": "b1869",
@@ -15087,8 +15087,8 @@
    "section": "The final word - You have been trying to escape suffering by",
    "type": "narration",
    "voice": "granny",
-   "text": "**Something must happen before I can finally be secure.**",
-   "directed": "**Something must happen before I can finally be secure.**"
+   "text": "Something must happen before I can finally be secure.",
+   "directed": "Something must happen before I can finally be secure."
   },
   {
    "id": "b1886",
@@ -15335,8 +15335,8 @@
    "section": "The final word - You have been trying to escape suffering by",
    "type": "narration",
    "voice": "granny",
-   "text": "**You're trying to extract permanence from impermanence through an activity that continually makes you dependent upon what changes.**",
-   "directed": "**You're trying to extract permanence from impermanence through an activity that continually makes you dependent upon what changes.**"
+   "text": "You're trying to extract permanence from impermanence through an activity that continually makes you dependent upon what changes.",
+   "directed": "You're trying to extract permanence from impermanence through an activity that continually makes you dependent upon what changes."
   },
   {
    "id": "b1917",
@@ -15519,8 +15519,8 @@
    "section": "The final word - You have been trying to escape suffering by",
    "type": "narration",
    "voice": "granny",
-   "text": "**The end of imprisonment.**",
-   "directed": "**The end of imprisonment.**"
+   "text": "The end of imprisonment.",
+   "directed": "The end of imprisonment."
   },
   {
    "id": "b1940",
@@ -15735,8 +15735,8 @@
    "section": "Why the path is worth undertaking",
    "type": "narration",
    "voice": "granny",
-   "text": "**Less bondage through less ignorance and grasping.**",
-   "directed": "**Less bondage through less ignorance and grasping.**"
+   "text": "Less bondage through less ignorance and grasping.",
+   "directed": "Less bondage through less ignorance and grasping."
   },
   {
    "id": "b1967",
@@ -15975,8 +15975,8 @@
    "section": "The desire that puts an end to the need for desire",
    "type": "narration",
    "voice": "granny",
-   "text": "**The desire for liberation has led towards the ending of the desire that perpetuates bondage.**",
-   "directed": "**The desire for liberation has led towards the ending of the desire that perpetuates bondage.**"
+   "text": "The desire for liberation has led towards the ending of the desire that perpetuates bondage.",
+   "directed": "The desire for liberation has led towards the ending of the desire that perpetuates bondage."
   },
   {
    "id": "b1997",
@@ -16055,8 +16055,8 @@
    "section": "The desire that puts an end to the need for desire",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbana is not a prize awarded to the most successful self. It is the release from the ignorance and grasping through which the self is made into a prison.**",
-   "directed": "**Nibbana is not a prize awarded to the most successful self. It is the release from the ignorance and grasping through which the self is made into a prison.**"
+   "text": "Nibbana is not a prize awarded to the most successful self. It is the release from the ignorance and grasping through which the self is made into a prison.",
+   "directed": "Nibbana is not a prize awarded to the most successful self. It is the release from the ignorance and grasping through which the self is made into a prison."
   },
   {
    "id": "b2007",
@@ -16207,8 +16207,8 @@
    "section": "What the heck is Nibbana?",
    "type": "narration",
    "voice": "granny",
-   "text": "**It is the cessation of craving and the liberation realised when the conditions sustaining bondage have been brought to an end.**",
-   "directed": "**It is the cessation of craving and the liberation realised when the conditions sustaining bondage have been brought to an end.**"
+   "text": "It is the cessation of craving and the liberation realised when the conditions sustaining bondage have been brought to an end.",
+   "directed": "It is the cessation of craving and the liberation realised when the conditions sustaining bondage have been brought to an end."
   },
   {
    "id": "b2026",
@@ -16471,8 +16471,8 @@
    "section": "What the heck is Nibbana?",
    "type": "narration",
    "voice": "granny",
-   "text": "The next moment when an experience becomes something that must belong to *you*\\.",
-   "directed": "The next moment when an experience becomes something that must belong to *you*\\."
+   "text": "The next moment when an experience becomes something that must belong to you.",
+   "directed": "The next moment when an experience becomes something that must belong to you."
   },
   {
    "id": "b2059",
@@ -16855,8 +16855,8 @@
    "section": "What the heck is Nibbana?",
    "type": "narration",
    "voice": "granny",
-   "text": "**The ending of the fight that never needed to happen.**",
-   "directed": "**The ending of the fight that never needed to happen.**"
+   "text": "The ending of the fight that never needed to happen.",
+   "directed": "The ending of the fight that never needed to happen."
   },
   {
    "id": "b2107",
@@ -17023,8 +17023,8 @@
    "section": "What the heck is Nibbana?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nothing more needs to be made into *me*\\. Nothing more needs to be made into *mine*\\. And nothing more needs to be compulsively acquired in order to make an imagined owner complete.**",
-   "directed": "**Nothing more needs to be made into *me*\\. Nothing more needs to be made into *mine*\\. And nothing more needs to be compulsively acquired in order to make an imagined owner complete.**"
+   "text": "Nothing more needs to be made into me. Nothing more needs to be made into mine. And nothing more needs to be compulsively acquired in order to make an imagined owner complete.",
+   "directed": "Nothing more needs to be made into me. Nothing more needs to be made into mine. And nothing more needs to be compulsively acquired in order to make an imagined owner complete."
   },
   {
    "id": "b2128",
@@ -17055,8 +17055,8 @@
    "section": "What the heck is Nibbana?",
    "type": "narration",
    "voice": "granny",
-   "text": "**End of Chapter X. End of all 33 sermons.**",
-   "directed": "**End of Chapter X. End of all 33 sermons.**"
+   "text": "End of Chapter X. End of all 33 sermons.",
+   "directed": "End of Chapter X. End of all 33 sermons."
   },
   {
    "id": "b2132",
@@ -17071,8 +17071,8 @@
    "section": "Textual grounding and qualifications",
    "type": "narration",
    "voice": "granny",
-   "text": "The finale follows the actual order of Nanananda's final five sermons. The primary source is the complete text of The Mind Stilled\\. Analayo's annotated Sermon 29, Sermon 30, Sermon 31, Sermon 32 and Sermon 33 were used for comparisons.",
-   "directed": "The finale follows the actual order of Nanananda's final five sermons. The primary source is the complete text of The Mind Stilled\\. Analayo's annotated Sermon 29, Sermon 30, Sermon 31, Sermon 32 and Sermon 33 were used for comparisons."
+   "text": "The finale follows the actual order of Nanananda's final five sermons. The primary source is the complete text of The Mind Stilled. Analayo's annotated Sermon 29, Sermon 30, Sermon 31, Sermon 32 and Sermon 33 were used for comparisons.",
+   "directed": "The finale follows the actual order of Nanananda's final five sermons. The primary source is the complete text of The Mind Stilled. Analayo's annotated Sermon 29, Sermon 30, Sermon 31, Sermon 32 and Sermon 33 were used for comparisons."
   },
   {
    "id": "b2134",

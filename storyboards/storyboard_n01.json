@@ -55,8 +55,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Half the Buddhist world hears *extinction* and thinks, “Crikey, that sounds dreadful. Are we getting deleted?”",
-   "directed": "Half the Buddhist world hears *extinction* and thinks, “Crikey, that sounds dreadful. Are we getting deleted?”"
+   "text": "Half the Buddhist world hears extinction and thinks, “Crikey, that sounds dreadful. Are we getting deleted?”",
+   "directed": "Half the Buddhist world hears extinction and thinks, “Crikey, that sounds dreadful. Are we getting deleted?”"
   },
   {
    "id": "b7",
@@ -71,24 +71,24 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda is looking at both parties and thinking\\:",
-   "directed": "[short pause] Nanananda is looking at both parties and thinking\\:"
+   "text": "Nanananda is looking at both parties and thinking:",
+   "directed": "[short pause] Nanananda is looking at both parties and thinking:"
   },
   {
    "id": "b9",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*You've both misunderstood what the blimming fire was in the first place.*",
-   "directed": "*You've both misunderstood what the blimming fire was in the first place.*"
+   "text": "You've both misunderstood what the blimming fire was in the first place.",
+   "directed": "You've both misunderstood what the blimming fire was in the first place."
   },
   {
    "id": "b10",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "His opening argument is that the profound discourses on emptiness and liberation should be read as instructions in **meditative attention**, not merely as raw material for metaphysical argument. He is particularly concerned that some later exegetical conventions have obscured what the early discourses say.",
-   "directed": "His opening argument is that the profound discourses on emptiness and liberation should be read as instructions in **meditative attention**, not merely as raw material for metaphysical argument. He is particularly concerned that some later exegetical conventions have obscured what the early discourses say."
+   "text": "His opening argument is that the profound discourses on emptiness and liberation should be read as instructions in meditative attention, not merely as raw material for metaphysical argument. He is particularly concerned that some later exegetical conventions have obscured what the early discourses say.",
+   "directed": "His opening argument is that the profound discourses on emptiness and liberation should be read as instructions in meditative attention, not merely as raw material for metaphysical argument. He is particularly concerned that some later exegetical conventions have obscured what the early discourses say."
   },
   {
    "id": "b11",
@@ -103,8 +103,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### The master key",
-   "directed": "### The master key"
+   "text": "The master key",
+   "directed": "The master key"
   },
   {
    "id": "b13",
@@ -119,16 +119,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*This is peaceful. This is sublime: namely, the calming of all constructions, the relinquishment of every support for appropriation, the exhaustion of craving, dispassion, cessation - Nibbana.*",
-   "directed": "*This is peaceful. This is sublime: namely, the calming of all constructions, the relinquishment of every support for appropriation, the exhaustion of craving, dispassion, cessation - Nibbana.*"
+   "text": "This is peaceful. This is sublime: namely, the calming of all constructions, the relinquishment of every support for appropriation, the exhaustion of craving, dispassion, cessation - Nibbana.",
+   "directed": "This is peaceful. This is sublime: namely, the calming of all constructions, the relinquishment of every support for appropriation, the exhaustion of craving, dispassion, cessation - Nibbana."
   },
   {
    "id": "b15",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Compare Nanananda's translation, which speaks of preparations and assets, with the alternative translation in Analayo's course notes, which favours constructions and supports. The difference matters because it changes what the practitioner is invited to examine. \\[The Nibbana Sermons 1 to 11 by Bhikkhu K Nanananda; PRACTICAL INSTRUCTIONS / 169\\]",
-   "directed": "Compare Nanananda's translation, which speaks of preparations and assets, with the alternative translation in Analayo's course notes, which favours constructions and supports. The difference matters because it changes what the practitioner is invited to examine. \\[The Nibbana Sermons 1 to 11 by Bhikkhu K Nanananda; PRACTICAL INSTRUCTIONS / 169\\]"
+   "text": "Compare Nanananda's translation, which speaks of preparations and assets, with the alternative translation in Analayo's course notes, which favours constructions and supports. The difference matters because it changes what the practitioner is invited to examine. [The Nibbana Sermons 1 to 11 by Bhikkhu K Nanananda; PRACTICAL INSTRUCTIONS / 169]",
+   "directed": "Compare Nanananda's translation, which speaks of preparations and assets, with the alternative translation in Analayo's course notes, which favours constructions and supports. The difference matters because it changes what the practitioner is invited to examine. [The Nibbana Sermons 1 to 11 by Bhikkhu K Nanananda; PRACTICAL INSTRUCTIONS / 169]"
   },
   {
    "id": "b16",
@@ -143,48 +143,48 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Etam** - *this*\\. Neuter singular demonstrative. Not something vaguely promised in another galaxy. The contemplative subject is introduced with an immediate pointing expression.",
-   "directed": "**Etam** - *this*\\. Neuter singular demonstrative. Not something vaguely promised in another galaxy. The contemplative subject is introduced with an immediate pointing expression."
+   "text": "Etam - this. Neuter singular demonstrative. Not something vaguely promised in another galaxy. The contemplative subject is introduced with an immediate pointing expression.",
+   "directed": "Etam - this. Neuter singular demonstrative. Not something vaguely promised in another galaxy. The contemplative subject is introduced with an immediate pointing expression."
   },
   {
    "id": "b18",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Santam** - peaceful, quieted, settled; associated with the idea of calming. Do not confuse this with the Sanskrit adjective *sat*, meaning existent.",
-   "directed": "**Santam** - peaceful, quieted, settled; associated with the idea of calming. Do not confuse this with the Sanskrit adjective *sat*, meaning existent."
+   "text": "Santam - peaceful, quieted, settled; associated with the idea of calming. Do not confuse this with the Sanskrit adjective sat, meaning existent.",
+   "directed": "Santam - peaceful, quieted, settled; associated with the idea of calming. Do not confuse this with the Sanskrit adjective sat, meaning existent."
   },
   {
    "id": "b19",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Panitam** - excellent, sublime, distinguished. This is emphatically not presented as a depressing nihilistic collapse.",
-   "directed": "**Panitam** - excellent, sublime, distinguished. This is emphatically not presented as a depressing nihilistic collapse."
+   "text": "Panitam - excellent, sublime, distinguished. This is emphatically not presented as a depressing nihilistic collapse.",
+   "directed": "Panitam - excellent, sublime, distinguished. This is emphatically not presented as a depressing nihilistic collapse."
   },
   {
    "id": "b20",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Yadidam** - a formula introducing a specification: “namely” or “that is to say.” The sentence is about to tell you what constitutes this peace.",
-   "directed": "**Yadidam** - a formula introducing a specification: “namely” or “that is to say.” The sentence is about to tell you what constitutes this peace."
+   "text": "Yadidam - a formula introducing a specification: “namely” or “that is to say.” The sentence is about to tell you what constitutes this peace.",
+   "directed": "Yadidam - a formula introducing a specification: “namely” or “that is to say.” The sentence is about to tell you what constitutes this peace."
   },
   {
    "id": "b21",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Sabba-sankhara-samatho** - the calming of all formations or constructions.",
-   "directed": "**Sabba-sankhara-samatho** - the calming of all formations or constructions."
+   "text": "Sabba-sankhara-samatho - the calming of all formations or constructions.",
+   "directed": "Sabba-sankhara-samatho - the calming of all formations or constructions."
   },
   {
    "id": "b22",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "- *Sabba*\\: all.\n- *Sankhara*\\: constructions, fabrications, conditioned formations; from the verbal family of making or putting together.\n- *Samatha*\\: calming, tranquillisation.",
-   "directed": "- *Sabba*\\: all.\n- *Sankhara*\\: constructions, fabrications, conditioned formations; from the verbal family of making or putting together.\n- *Samatha*\\: calming, tranquillisation."
+   "text": "Sabba: all.\nSankhara: constructions, fabrications, conditioned formations; from the verbal family of making or putting together.\nSamatha: calming, tranquillisation.",
+   "directed": "Sabba: all.\nSankhara: constructions, fabrications, conditioned formations; from the verbal family of making or putting together.\nSamatha: calming, tranquillisation."
   },
   {
    "id": "b23",
@@ -223,24 +223,24 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Sabbupadhi-patinissaggo** - the relinquishment of all *upadhi*\\.",
-   "directed": "**Sabbupadhi-patinissaggo** - the relinquishment of all *upadhi*\\."
+   "text": "Sabbupadhi-patinissaggo - the relinquishment of all upadhi.",
+   "directed": "Sabbupadhi-patinissaggo - the relinquishment of all upadhi."
   },
   {
    "id": "b28",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Here *upadhi* can refer to acquisitions, supports, or the accumulated bases of attachment. It is not merely a fancy synonym for your bank account.",
-   "directed": "Here *upadhi* can refer to acquisitions, supports, or the accumulated bases of attachment. It is not merely a fancy synonym for your bank account."
+   "text": "Here upadhi can refer to acquisitions, supports, or the accumulated bases of attachment. It is not merely a fancy synonym for your bank account.",
+   "directed": "Here upadhi can refer to acquisitions, supports, or the accumulated bases of attachment. It is not merely a fancy synonym for your bank account."
   },
   {
    "id": "b29",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Patinissagga* means relinquishing or giving up.",
-   "directed": "*Patinissagga* means relinquishing or giving up."
+   "text": "Patinissagga means relinquishing or giving up.",
+   "directed": "Patinissagga means relinquishing or giving up."
   },
   {
    "id": "b30",
@@ -271,48 +271,48 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Tanhakkhayo** - the destruction or exhaustion of craving.",
-   "directed": "**Tanhakkhayo** - the destruction or exhaustion of craving."
+   "text": "Tanhakkhayo - the destruction or exhaustion of craving.",
+   "directed": "Tanhakkhayo - the destruction or exhaustion of craving."
   },
   {
    "id": "b34",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Tanha* \\= thirst, craving.",
-   "directed": "*Tanha* \\= thirst, craving."
+   "text": "Tanha = thirst, craving.",
+   "directed": "Tanha = thirst, craving."
   },
   {
    "id": "b35",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Khaya* \\= depletion, destruction, exhaustion.",
-   "directed": "*Khaya* \\= depletion, destruction, exhaustion."
+   "text": "Khaya = depletion, destruction, exhaustion.",
+   "directed": "Khaya = depletion, destruction, exhaustion."
   },
   {
    "id": "b36",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Virago** - dispassion, the fading of passion.",
-   "directed": "**Virago** - dispassion, the fading of passion."
+   "text": "Virago - dispassion, the fading of passion.",
+   "directed": "Virago - dispassion, the fading of passion."
   },
   {
    "id": "b37",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nirodho** - cessation.",
-   "directed": "**Nirodho** - cessation."
+   "text": "Nirodho - cessation.",
+   "directed": "Nirodho - cessation."
   },
   {
    "id": "b38",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbanam** - the extinguishing or going out.",
-   "directed": "**Nibbanam** - the extinguishing or going out."
+   "text": "Nibbanam - the extinguishing or going out.",
+   "directed": "Nibbanam - the extinguishing or going out."
   },
   {
    "id": "b39",
@@ -335,16 +335,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "It is the language of **release from a process**\\.",
-   "directed": "It is the language of **release from a process**\\."
+   "text": "It is the language of release from a process.",
+   "directed": "It is the language of release from a process."
   },
   {
    "id": "b42",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda insists that this formula is itself a meditation subject, an expression of *upasamanussati*, recollection of peace.",
-   "directed": "Nanananda insists that this formula is itself a meditation subject, an expression of *upasamanussati*, recollection of peace."
+   "text": "Nanananda insists that this formula is itself a meditation subject, an expression of upasamanussati, recollection of peace.",
+   "directed": "Nanananda insists that this formula is itself a meditation subject, an expression of upasamanussati, recollection of peace."
   },
   {
    "id": "b43",
@@ -359,8 +359,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### Sermon 1: Why the Buddha Is a Surgeon, Not an Estate Agent",
-   "directed": "### Sermon 1: Why the Buddha Is a Surgeon, Not an Estate Agent"
+   "text": "Sermon 1: Why the Buddha Is a Surgeon, Not an Estate Agent",
+   "directed": "Sermon 1: Why the Buddha Is a Surgeon, Not an Estate Agent"
   },
   {
    "id": "b45",
@@ -375,32 +375,32 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "His first target is the deceptively simple expression\\:",
-   "directed": "[short pause] His first target is the deceptively simple expression\\:"
+   "text": "His first target is the deceptively simple expression:",
+   "directed": "[short pause] His first target is the deceptively simple expression:"
   },
   {
    "id": "b47",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nama-rupa - name-and-form.**",
-   "directed": "**Nama-rupa - name-and-form.**"
+   "text": "Nama-rupa - name-and-form.",
+   "directed": "Nama-rupa - name-and-form."
   },
   {
    "id": "b48",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "If you've read enough Buddhism, you've probably encountered this translated as *mind and matter*\\.",
-   "directed": "If you've read enough Buddhism, you've probably encountered this translated as *mind and matter*\\."
+   "text": "If you've read enough Buddhism, you've probably encountered this translated as mind and matter.",
+   "directed": "If you've read enough Buddhism, you've probably encountered this translated as mind and matter."
   },
   {
    "id": "b49",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda's response is essentially\\:",
-   "directed": "[short pause] Nanananda's response is essentially\\:"
+   "text": "Nanananda's response is essentially:",
+   "directed": "[short pause] Nanananda's response is essentially:"
   },
   {
    "id": "b50",
@@ -415,8 +415,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "He turns to the *Sammaditthi Sutta*, MN 9, where Sariputta identifies five components of *nama*\\.",
-   "directed": "He turns to the *Sammaditthi Sutta*, MN 9, where Sariputta identifies five components of *nama*\\."
+   "text": "He turns to the Sammaditthi Sutta, MN 9, where Sariputta identifies five components of nama.",
+   "directed": "He turns to the Sammaditthi Sutta, MN 9, where Sariputta identifies five components of nama."
   },
   {
    "id": "b52",
@@ -431,8 +431,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "| **Vedana** | Feeling tone - pleasant, painful or neutral |\n|--------|--------|\n| **Sanna** | Perception, recognition |\n| **Cetana** | Intention, volition |\n| **Phassa** | Contact |\n| **Manasikara** | Attention, mental advertence |",
-   "directed": "| **Vedana** | Feeling tone - pleasant, painful or neutral |\n|--------|--------|\n| **Sanna** | Perception, recognition |\n| **Cetana** | Intention, volition |\n| **Phassa** | Contact |\n| **Manasikara** | Attention, mental advertence |"
+   "text": "The five aggregates. Vedana: feeling tone, pleasant, painful or neutral. Sanna: perception and recognition. Cetana: intention and volition. Phassa: contact. Manasikara: attention, mental advertence.",
+   "directed": "The five aggregates. Vedana: feeling tone, pleasant, painful or neutral. Sanna: perception and recognition. Cetana: intention and volition. Phassa: contact. Manasikara: attention, mental advertence."
   },
   {
    "id": "b54",
@@ -471,8 +471,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The child doesn't know the word *ball*\\. Yet it examines, handles, tastes and manipulates this unfamiliar object.",
-   "directed": "The child doesn't know the word *ball*\\. Yet it examines, handles, tastes and manipulates this unfamiliar object."
+   "text": "The child doesn't know the word ball. Yet it examines, handles, tastes and manipulates this unfamiliar object.",
+   "directed": "The child doesn't know the word ball. Yet it examines, handles, tastes and manipulates this unfamiliar object."
   },
   {
    "id": "b59",
@@ -487,8 +487,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "This is an illuminating analogy for the primordial functioning of *nama*\\: experience becomes recognisable and meaningful before it is organised into fully developed linguistic conventions.",
-   "directed": "This is an illuminating analogy for the primordial functioning of *nama*\\: experience becomes recognisable and meaningful before it is organised into fully developed linguistic conventions."
+   "text": "This is an illuminating analogy for the primordial functioning of nama: experience becomes recognisable and meaningful before it is organised into fully developed linguistic conventions.",
+   "directed": "This is an illuminating analogy for the primordial functioning of nama: experience becomes recognisable and meaningful before it is organised into fully developed linguistic conventions."
   },
   {
    "id": "b61",
@@ -591,16 +591,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda's crucial warning is that *nama-rupa* cannot be adequately understood by inserting a rigid metaphysical wall between an inner mind and external matter. The four great material elements remain part of the canonical definition of *rupa*; his argument concerns how these are known and designated through conditioned experience, not the simplistic claim that physical reality has been disproved.",
-   "directed": "Nanananda's crucial warning is that *nama-rupa* cannot be adequately understood by inserting a rigid metaphysical wall between an inner mind and external matter. The four great material elements remain part of the canonical definition of *rupa*; his argument concerns how these are known and designated through conditioned experience, not the simplistic claim that physical reality has been disproved."
+   "text": "Nanananda's crucial warning is that nama-rupa cannot be adequately understood by inserting a rigid metaphysical wall between an inner mind and external matter. The four great material elements remain part of the canonical definition of rupa; his argument concerns how these are known and designated through conditioned experience, not the simplistic claim that physical reality has been disproved.",
+   "directed": "Nanananda's crucial warning is that nama-rupa cannot be adequately understood by inserting a rigid metaphysical wall between an inner mind and external matter. The four great material elements remain part of the canonical definition of rupa; his argument concerns how these are known and designated through conditioned experience, not the simplistic claim that physical reality has been disproved."
   },
   {
    "id": "b74",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "#### The Buddha as surgeon",
-   "directed": "#### The Buddha as surgeon"
+   "text": "The Buddha as surgeon",
+   "directed": "The Buddha as surgeon"
   },
   {
    "id": "b75",
@@ -647,16 +647,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "What the physician actually needs to examine is **the wound and the embedded arrow**\\.",
-   "directed": "What the physician actually needs to examine is **the wound and the embedded arrow**\\."
+   "text": "What the physician actually needs to examine is the wound and the embedded arrow.",
+   "directed": "What the physician actually needs to examine is the wound and the embedded arrow."
   },
   {
    "id": "b81",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The arrow is craving, *tanha*\\.",
-   "directed": "The arrow is craving, *tanha*\\."
+   "text": "The arrow is craving, tanha.",
+   "directed": "The arrow is craving, tanha."
   },
   {
    "id": "b82",
@@ -735,8 +735,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### The fire: the most misunderstood metaphor in Buddhist philosophy",
-   "directed": "### The fire: the most misunderstood metaphor in Buddhist philosophy"
+   "text": "The fire: the most misunderstood metaphor in Buddhist philosophy",
+   "directed": "The fire: the most misunderstood metaphor in Buddhist philosophy"
   },
   {
    "id": "b92",
@@ -759,8 +759,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbana** corresponds to Sanskrit *nirvana*, conventionally associated with extinguishing, as of a flame.",
-   "directed": "**Nibbana** corresponds to Sanskrit *nirvana*, conventionally associated with extinguishing, as of a flame."
+   "text": "Nibbana corresponds to Sanskrit nirvana, conventionally associated with extinguishing, as of a flame.",
+   "directed": "Nibbana corresponds to Sanskrit nirvana, conventionally associated with extinguishing, as of a flame."
   },
   {
    "id": "b95",
@@ -815,8 +815,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Our metaphysical genius immediately rushes forward\\:",
-   "directed": "[short pause] Our metaphysical genius immediately rushes forward\\:"
+   "text": "Our metaphysical genius immediately rushes forward:",
+   "directed": "[short pause] Our metaphysical genius immediately rushes forward:"
   },
   {
    "id": "b102",
@@ -903,16 +903,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The grammatical expression *the fire* has seduced you into imagining a separate enduring entity behind that process. \\[Namo tassa bhagavato arahato sammàsambuddhassa; SN 12:67 Sheaves of Reeds \\| Nalakalapiyo Sutta\\]",
-   "directed": "The grammatical expression *the fire* has seduced you into imagining a separate enduring entity behind that process. \\[Namo tassa bhagavato arahato sammàsambuddhassa; SN 12:67 Sheaves of Reeds \\| Nalakalapiyo Sutta\\]"
+   "text": "The grammatical expression the fire has seduced you into imagining a separate enduring entity behind that process. [Namo tassa bhagavato arahato sammàsambuddhassa; SN 12:67 Sheaves of Reeds : Nalakalapiyo Sutta]",
+   "directed": "The grammatical expression the fire has seduced you into imagining a separate enduring entity behind that process. [Namo tassa bhagavato arahato sammàsambuddhassa; SN 12:67 Sheaves of Reeds : Nalakalapiyo Sutta]"
   },
   {
    "id": "b113",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "This is an example of **reification**\\: treating a designation for a conditioned activity as though it named a self-existing substance.",
-   "directed": "This is an example of **reification**\\: treating a designation for a conditioned activity as though it named a self-existing substance."
+   "text": "This is an example of reification: treating a designation for a conditioned activity as though it named a self-existing substance.",
+   "directed": "This is an example of reification: treating a designation for a conditioned activity as though it named a self-existing substance."
   },
   {
    "id": "b114",
@@ -975,8 +975,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Not every meaningful noun names an independent thing.**",
-   "directed": "**Not every meaningful noun names an independent thing.**"
+   "text": "Not every meaningful noun names an independent thing.",
+   "directed": "Not every meaningful noun names an independent thing."
   },
   {
    "id": "b122",
@@ -999,8 +999,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "#### The brilliant double meaning of upadana",
-   "directed": "#### The brilliant double meaning of upadana"
+   "text": "The brilliant double meaning of upadana",
+   "directed": "The brilliant double meaning of upadana"
   },
   {
    "id": "b125",
@@ -1015,16 +1015,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Upadana* can mean **grasping, clinging or taking up**\\.",
-   "directed": "*Upadana* can mean **grasping, clinging or taking up**\\."
+   "text": "Upadana can mean grasping, clinging or taking up.",
+   "directed": "Upadana can mean grasping, clinging or taking up."
   },
   {
    "id": "b127",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "It also has the sense of **fuel**\\.",
-   "directed": "It also has the sense of **fuel**\\."
+   "text": "It also has the sense of fuel.",
+   "directed": "It also has the sense of fuel."
   },
   {
    "id": "b128",
@@ -1039,8 +1039,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Upadana-paccaya bhavo* - with clinging as condition, becoming.",
-   "directed": "*Upadana-paccaya bhavo* - with clinging as condition, becoming."
+   "text": "Upadana-paccaya bhavo - with clinging as condition, becoming.",
+   "directed": "Upadana-paccaya bhavo - with clinging as condition, becoming."
   },
   {
    "id": "b130",
@@ -1055,8 +1055,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "You're asking\\:",
-   "directed": "[short pause] You're asking\\:"
+   "text": "You're asking:",
+   "directed": "[short pause] You're asking:"
   },
   {
    "id": "b132",
@@ -1071,8 +1071,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "And the teaching is asking\\:",
-   "directed": "[short pause] And the teaching is asking\\:"
+   "text": "And the teaching is asking:",
+   "directed": "[short pause] And the teaching is asking:"
   },
   {
    "id": "b134",
@@ -1135,8 +1135,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### Sermon 2: The Destination That Isn't at the End of Another Road",
-   "directed": "### Sermon 2: The Destination That Isn't at the End of Another Road"
+   "text": "Sermon 2: The Destination That Isn't at the End of Another Road",
+   "directed": "Sermon 2: The Destination That Isn't at the End of Another Road"
   },
   {
    "id": "b142",
@@ -1159,8 +1159,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Imagine practising with incredible dedication, finally attaining liberation, then turning to the Buddha and asking\\:",
-   "directed": "[short pause] Imagine practising with incredible dedication, finally attaining liberation, then turning to the Buddha and asking\\:"
+   "text": "Imagine practising with incredible dedication, finally attaining liberation, then turning to the Buddha and asking:",
+   "directed": "[short pause] Imagine practising with incredible dedication, finally attaining liberation, then turning to the Buddha and asking:"
   },
   {
    "id": "b145",
@@ -1239,24 +1239,24 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "#### The grammar of dependent arising",
-   "directed": "#### The grammar of dependent arising"
+   "text": "The grammar of dependent arising",
+   "directed": "The grammar of dependent arising"
   },
   {
    "id": "b155",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda then turns to what he regards as the indispensable key to understanding Nibbana\\:",
-   "directed": "[short pause] Nanananda then turns to what he regards as the indispensable key to understanding Nibbana\\:"
+   "text": "Nanananda then turns to what he regards as the indispensable key to understanding Nibbana:",
+   "directed": "[short pause] Nanananda then turns to what he regards as the indispensable key to understanding Nibbana:"
   },
   {
    "id": "b156",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Paticcasamuppada - dependent arising.**",
-   "directed": "**Paticcasamuppada - dependent arising.**"
+   "text": "Paticcasamuppada - dependent arising.",
+   "directed": "Paticcasamuppada - dependent arising."
   },
   {
    "id": "b157",
@@ -1271,40 +1271,40 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**With this present, that comes to be.**",
-   "directed": "**With this present, that comes to be.**"
+   "text": "With this present, that comes to be.",
+   "directed": "With this present, that comes to be."
   },
   {
    "id": "b159",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**From the arising of this, that arises.**",
-   "directed": "**From the arising of this, that arises.**"
+   "text": "From the arising of this, that arises.",
+   "directed": "From the arising of this, that arises."
   },
   {
    "id": "b160",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "And then the corresponding cessation\\:",
-   "directed": "[short pause] And then the corresponding cessation\\:"
+   "text": "And then the corresponding cessation:",
+   "directed": "[short pause] And then the corresponding cessation:"
   },
   {
    "id": "b161",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**With this absent, that does not come to be.**",
-   "directed": "**With this absent, that does not come to be.**"
+   "text": "With this absent, that does not come to be.",
+   "directed": "With this absent, that does not come to be."
   },
   {
    "id": "b162",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**With the cessation of this, that ceases.**",
-   "directed": "**With the cessation of this, that ceases.**"
+   "text": "With the cessation of this, that ceases.",
+   "directed": "With the cessation of this, that ceases."
   },
   {
    "id": "b163",
@@ -1327,8 +1327,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The Pali compound *idappaccayata* is useful here: *ida-* indicates “this,” *paccaya* is a condition, and *\\-ta* forms an abstract noun.",
-   "directed": "The Pali compound *idappaccayata* is useful here: *ida-* indicates “this,” *paccaya* is a condition, and *\\-ta* forms an abstract noun."
+   "text": "The Pali compound idappaccayata is useful here: ida- indicates “this,” paccaya is a condition, and -ta forms an abstract noun.",
+   "directed": "The Pali compound idappaccayata is useful here: ida- indicates “this,” paccaya is a condition, and -ta forms an abstract noun."
   },
   {
    "id": "b166",
@@ -1351,8 +1351,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "And now the familiar twelve-link pattern appears\\:",
-   "directed": "[short pause] And now the familiar twelve-link pattern appears\\:"
+   "text": "And now the familiar twelve-link pattern appears:",
+   "directed": "[short pause] And now the familiar twelve-link pattern appears:"
   },
   {
    "id": "b169",
@@ -1479,8 +1479,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "He criticises approaches that allocate the entire formula across three lifetimes in a way that can obscure its immediate practical significance. His point is not that the canonical texts never discuss rebirth - they certainly do - but that dependent arising cannot be reduced to a theory about a past life causing a future one. \\[Barre Center for Buddhist Studies; Barre Center for Buddhist Studies\\]",
-   "directed": "He criticises approaches that allocate the entire formula across three lifetimes in a way that can obscure its immediate practical significance. His point is not that the canonical texts never discuss rebirth - they certainly do - but that dependent arising cannot be reduced to a theory about a past life causing a future one. \\[Barre Center for Buddhist Studies; Barre Center for Buddhist Studies\\]"
+   "text": "He criticises approaches that allocate the entire formula across three lifetimes in a way that can obscure its immediate practical significance. His point is not that the canonical texts never discuss rebirth - they certainly do - but that dependent arising cannot be reduced to a theory about a past life causing a future one. [Barre Center for Buddhist Studies; Barre Center for Buddhist Studies]",
+   "directed": "He criticises approaches that allocate the entire formula across three lifetimes in a way that can obscure its immediate practical significance. His point is not that the canonical texts never discuss rebirth - they certainly do - but that dependent arising cannot be reduced to a theory about a past life causing a future one. [Barre Center for Buddhist Studies; Barre Center for Buddhist Studies]"
   },
   {
    "id": "b185",
@@ -1495,8 +1495,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### The whirlpool",
-   "directed": "### The whirlpool"
+   "text": "The whirlpool",
+   "directed": "The whirlpool"
   },
   {
    "id": "b187",
@@ -1631,16 +1631,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda suggests that this is an illuminating way to understand the cyclic character of *samsara*\\.",
-   "directed": "Nanananda suggests that this is an illuminating way to understand the cyclic character of *samsara*\\."
+   "text": "Nanananda suggests that this is an illuminating way to understand the cyclic character of samsara.",
+   "directed": "Nanananda suggests that this is an illuminating way to understand the cyclic character of samsara."
   },
   {
    "id": "b204",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Our ordinary experience seems to have a permanent centre: *I* am the subject of experience, and the world is what happens to *me*\\.",
-   "directed": "Our ordinary experience seems to have a permanent centre: *I* am the subject of experience, and the world is what happens to *me*\\."
+   "text": "Our ordinary experience seems to have a permanent centre: I am the subject of experience, and the world is what happens to me.",
+   "directed": "Our ordinary experience seems to have a permanent centre: I am the subject of experience, and the world is what happens to me."
   },
   {
    "id": "b205",
@@ -1687,8 +1687,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Someone disagrees with my philosophical view? **GRAB LIKE A MAN WHOSE ENTIRE BLOODLINE HAS BEEN INSULTED.**",
-   "directed": "Someone disagrees with my philosophical view? **GRAB LIKE A MAN WHOSE ENTIRE BLOODLINE HAS BEEN INSULTED.**"
+   "text": "Someone disagrees with my philosophical view? GRAB LIKE A MAN WHOSE ENTIRE BLOODLINE HAS BEEN INSULTED.",
+   "directed": "Someone disagrees with my philosophical view? GRAB LIKE A MAN WHOSE ENTIRE BLOODLINE HAS BEEN INSULTED."
   },
   {
    "id": "b211",
@@ -1775,8 +1775,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "This is why Nanananda is so concerned with the reciprocal relationship between *vinnana* and *nama-rupa*\\.",
-   "directed": "This is why Nanananda is so concerned with the reciprocal relationship between *vinnana* and *nama-rupa*\\."
+   "text": "This is why Nanananda is so concerned with the reciprocal relationship between vinnana and nama-rupa.",
+   "directed": "This is why Nanananda is so concerned with the reciprocal relationship between vinnana and nama-rupa."
   },
   {
    "id": "b222",
@@ -1815,16 +1815,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "That distinction will become explosive in Chapter III when we reach the passages on *vinnanam anidassanam*, non-manifestative consciousness.",
-   "directed": "That distinction will become explosive in Chapter III when we reach the passages on *vinnanam anidassanam*, non-manifestative consciousness."
+   "text": "That distinction will become explosive in Chapter III when we reach the passages on vinnanam anidassanam, non-manifestative consciousness.",
+   "directed": "That distinction will become explosive in Chapter III when we reach the passages on vinnanam anidassanam, non-manifestative consciousness."
   },
   {
    "id": "b227",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "For now, keep it in mind: **conditioned vinnana is not automatically the same thing as Siva's svatantra-caitanya in Pratyabhijna philosophy.**",
-   "directed": "For now, keep it in mind: **conditioned vinnana is not automatically the same thing as Siva's svatantra-caitanya in Pratyabhijna philosophy.**"
+   "text": "For now, keep it in mind: conditioned vinnana is not automatically the same thing as Siva's svatantra-caitanya in Pratyabhijna philosophy.",
+   "directed": "For now, keep it in mind: conditioned vinnana is not automatically the same thing as Siva's svatantra-caitanya in Pratyabhijna philosophy."
   },
   {
    "id": "b228",
@@ -1839,8 +1839,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### Sermon 3: The Whirlpool Gets Taken Apart",
-   "directed": "### Sermon 3: The Whirlpool Gets Taken Apart"
+   "text": "Sermon 3: The Whirlpool Gets Taken Apart",
+   "directed": "Sermon 3: The Whirlpool Gets Taken Apart"
   },
   {
    "id": "b230",
@@ -1927,24 +1927,24 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "#### The Dhamma-eye",
-   "directed": "#### The Dhamma-eye"
+   "text": "The Dhamma-eye",
+   "directed": "The Dhamma-eye"
   },
   {
    "id": "b241",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Now comes one of the central canonical formulas\\:",
-   "directed": "[short pause] Now comes one of the central canonical formulas\\:"
+   "text": "Now comes one of the central canonical formulas:",
+   "directed": "[short pause] Now comes one of the central canonical formulas:"
   },
   {
    "id": "b242",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**Whatever is subject to arising is subject to cessation.**",
-   "directed": "**Whatever is subject to arising is subject to cessation.**"
+   "text": "Whatever is subject to arising is subject to cessation.",
+   "directed": "Whatever is subject to arising is subject to cessation."
   },
   {
    "id": "b243",
@@ -1959,40 +1959,40 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Yam kinci* - whatever, anything whatsoever.",
-   "directed": "*Yam kinci* - whatever, anything whatsoever."
+   "text": "Yam kinci - whatever, anything whatsoever.",
+   "directed": "Yam kinci - whatever, anything whatsoever."
   },
   {
    "id": "b245",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Samudaya* - arising, origination.",
-   "directed": "*Samudaya* - arising, origination."
+   "text": "Samudaya - arising, origination.",
+   "directed": "Samudaya - arising, origination."
   },
   {
    "id": "b246",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Dhammam* - here expressing the nature or character of something.",
-   "directed": "*Dhammam* - here expressing the nature or character of something."
+   "text": "Dhammam - here expressing the nature or character of something.",
+   "directed": "Dhammam - here expressing the nature or character of something."
   },
   {
    "id": "b247",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Sabbam tam* - all of that.",
-   "directed": "*Sabbam tam* - all of that."
+   "text": "Sabbam tam - all of that.",
+   "directed": "Sabbam tam - all of that."
   },
   {
    "id": "b248",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "*Nirodha* - cessation.",
-   "directed": "*Nirodha* - cessation."
+   "text": "Nirodha - cessation.",
+   "directed": "Nirodha - cessation."
   },
   {
    "id": "b249",
@@ -2071,16 +2071,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "#### The reeds: a canonical image, not just Nanananda's metaphor",
-   "directed": "#### The reeds: a canonical image, not just Nanananda's metaphor"
+   "text": "The reeds: a canonical image, not just Nanananda's metaphor",
+   "directed": "The reeds: a canonical image, not just Nanananda's metaphor"
   },
   {
    "id": "b259",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "In the *Nalakalapi Sutta*, SN 12.67, Sariputta gives a wonderfully simple simile.",
-   "directed": "In the *Nalakalapi Sutta*, SN 12.67, Sariputta gives a wonderfully simple simile."
+   "text": "In the Nalakalapi Sutta, SN 12.67, Sariputta gives a wonderfully simple simile.",
+   "directed": "In the Nalakalapi Sutta, SN 12.67, Sariputta gives a wonderfully simple simile."
   },
   {
    "id": "b260",
@@ -2111,32 +2111,32 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "That is how he illustrates the reciprocal conditionality of consciousness and name-and-form. \\[SN 12:67 Sheaves of Reeds \\| Nalakalapiyo Sutta; SN 12.67 Nalakalapi sutta\\]",
-   "directed": "That is how he illustrates the reciprocal conditionality of consciousness and name-and-form. \\[SN 12:67 Sheaves of Reeds \\| Nalakalapiyo Sutta; SN 12.67 Nalakalapi sutta\\]"
+   "text": "That is how he illustrates the reciprocal conditionality of consciousness and name-and-form. [SN 12:67 Sheaves of Reeds : Nalakalapiyo Sutta; SN 12.67 Nalakalapi sutta]",
+   "directed": "That is how he illustrates the reciprocal conditionality of consciousness and name-and-form. [SN 12:67 Sheaves of Reeds : Nalakalapiyo Sutta; SN 12.67 Nalakalapi sutta]"
   },
   {
    "id": "b264",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The central Pali relationships are\\:",
-   "directed": "[short pause] The central Pali relationships are\\:"
+   "text": "The central Pali relationships are:",
+   "directed": "[short pause] The central Pali relationships are:"
   },
   {
    "id": "b265",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**With consciousness as condition, name-and-form.**",
-   "directed": "**With consciousness as condition, name-and-form.**"
+   "text": "With consciousness as condition, name-and-form.",
+   "directed": "With consciousness as condition, name-and-form."
   },
   {
    "id": "b266",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**With name-and-form as condition, consciousness.**",
-   "directed": "**With name-and-form as condition, consciousness.**"
+   "text": "With name-and-form as condition, consciousness.",
+   "directed": "With name-and-form as condition, consciousness."
   },
   {
    "id": "b267",
@@ -2183,8 +2183,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "#### Analayo's critical intervention",
-   "directed": "#### Analayo's critical intervention"
+   "text": "Analayo's critical intervention",
+   "directed": "Analayo's critical intervention"
   },
   {
    "id": "b273",
@@ -2279,8 +2279,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### The first practical experiment: Watch the whirlpool beginning",
-   "directed": "### The first practical experiment: Watch the whirlpool beginning"
+   "text": "The first practical experiment: Watch the whirlpool beginning",
+   "directed": "The first practical experiment: Watch the whirlpool beginning"
   },
   {
    "id": "b285",
@@ -2431,8 +2431,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The practice here is not to announce\\:",
-   "directed": "[short pause] The practice here is not to announce\\:"
+   "text": "The practice here is not to announce:",
+   "directed": "[short pause] The practice here is not to announce:"
   },
   {
    "id": "b304",
@@ -2447,8 +2447,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "Nor\\:",
-   "directed": "[short pause] Nor\\:"
+   "text": "Nor:",
+   "directed": "[short pause] Nor:"
   },
   {
    "id": "b306",
@@ -2463,16 +2463,16 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The more precise investigation is\\:",
-   "directed": "[short pause] The more precise investigation is\\:"
+   "text": "The more precise investigation is:",
+   "directed": "[short pause] The more precise investigation is:"
   },
   {
    "id": "b308",
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**At what moment does a conditioned experience become something I need to possess, reject, defend or perpetuate?**",
-   "directed": "**At what moment does a conditioned experience become something I need to possess, reject, defend or perpetuate?**"
+   "text": "At what moment does a conditioned experience become something I need to possess, reject, defend or perpetuate?",
+   "directed": "At what moment does a conditioned experience become something I need to possess, reject, defend or perpetuate?"
   },
   {
    "id": "b309",
@@ -2495,8 +2495,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "The question is no longer\\:",
-   "directed": "[short pause] The question is no longer\\:"
+   "text": "The question is no longer:",
+   "directed": "[short pause] The question is no longer:"
   },
   {
    "id": "b312",
@@ -2511,8 +2511,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "It is\\:",
-   "directed": "[short pause] It is\\:"
+   "text": "It is:",
+   "directed": "[short pause] It is:"
   },
   {
    "id": "b314",
@@ -2527,8 +2527,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "### Closing synthesis: You Are Not Required to Defend the Whirlpool",
-   "directed": "### Closing synthesis: You Are Not Required to Defend the Whirlpool"
+   "text": "Closing synthesis: You Are Not Required to Defend the Whirlpool",
+   "directed": "Closing synthesis: You Are Not Required to Defend the Whirlpool"
   },
   {
    "id": "b316",
@@ -2671,8 +2671,8 @@
    "section": "intro",
    "type": "narration",
    "voice": "granny",
-   "text": "**End of Chapter I - Sermons 1-3 of 33.**",
-   "directed": "**End of Chapter I - Sermons 1-3 of 33.**"
+   "text": "End of Chapter I - Sermons 1-3 of 33.",
+   "directed": "End of Chapter I - Sermons 1-3 of 33."
   },
   {
    "id": "b334",

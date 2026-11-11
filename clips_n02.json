@@ -1,0 +1,58 @@
+{
+ "b581": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/dog-water_2x15s.mp4",
+  "complete_bid": "b582",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n02 dog-water motif \u2013 dependence mistaken for stability \u2013 leaning, cinema, dog \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b583": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/dog-water_2x15s.mp4",
+  "complete_bid": "b584",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n02 dog-water motif \u2013 dependence mistaken for stability \u2013 leaning, cinema, dog \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b303": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/cinema_2x15s.mp4",
+  "complete_bid": "b304",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n02 cinema motif \u2013 dependence mistaken for stability \u2013 leaning, cinema, dog \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b304": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/cinema_2x15s.mp4",
+  "complete_bid": "b305",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n02 cinema motif \u2013 dependence mistaken for stability \u2013 leaning, cinema, dog \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b4": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/leaning-monk_2x15s.mp4",
+  "complete_bid": "b5",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n02 leaning-monk motif \u2013 dependence mistaken for stability \u2013 leaning, cinema, dog \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b5": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/leaning-monk_2x15s.mp4",
+  "complete_bid": "b6",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n02 leaning-monk motif \u2013 dependence mistaken for stability \u2013 leaning, cinema, dog \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b13": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b14",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n02 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b14": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b15",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n02 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

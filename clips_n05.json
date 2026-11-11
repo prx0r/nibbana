@@ -1,0 +1,30 @@
+{
+ "b619": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/hand-mirror_2x15s.mp4",
+  "complete_bid": "b620",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n05 hand-mirror motif \u2013 process vs person \u2013 mirror Gris, right-view engine \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b620": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/hand-mirror_2x15s.mp4",
+  "complete_bid": "b621",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n05 hand-mirror motif \u2013 process vs person \u2013 mirror Gris, right-view engine \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b4": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b5",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n05 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b25": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b26",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n05 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

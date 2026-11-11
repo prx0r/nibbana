@@ -39,8 +39,8 @@
    "section": "If craving ends, does happiness disappear too?",
    "type": "narration",
    "voice": "granny",
-   "text": "**The answer: What disappears is the dependence upon pleasurable experience for happiness.**",
-   "directed": "**The answer: What disappears is the dependence upon pleasurable experience for happiness.**"
+   "text": "The answer: What disappears is the dependence upon pleasurable experience for happiness.",
+   "directed": "The answer: What disappears is the dependence upon pleasurable experience for happiness."
   },
   {
    "id": "b5",
@@ -135,8 +135,8 @@
    "section": "If craving ends, does happiness disappear too?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbana isn't the ultimate pleasurable possession. It's freedom from the need to possess pleasure.**",
-   "directed": "**Nibbana isn't the ultimate pleasurable possession. It's freedom from the need to possess pleasure.**"
+   "text": "Nibbana isn't the ultimate pleasurable possession. It's freedom from the need to possess pleasure.",
+   "directed": "Nibbana isn't the ultimate pleasurable possession. It's freedom from the need to possess pleasure."
   },
   {
    "id": "b17",
@@ -247,8 +247,8 @@
    "section": "1\\. The arahant is free. So why is there still a body?",
    "type": "title",
    "voice": "granny",
-   "text": "1\\. The arahant is free. So why is there still a body?",
-   "directed": "[long pause] 1\\. The arahant is free. So why is there still a body?"
+   "text": "1. The arahant is free. So why is there still a body?",
+   "directed": "[long pause] 1. The arahant is free. So why is there still a body?"
   },
   {
    "id": "b31",
@@ -359,16 +359,16 @@
    "section": "1\\. The arahant is free. So why is there still a body?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbana Basic\\:** No greed, hatred or delusion, but your knees still hurt.",
-   "directed": "**Nibbana Basic\\:** No greed, hatred or delusion, but your knees still hurt."
+   "text": "Nibbana Basic: No greed, hatred or delusion, but your knees still hurt.",
+   "directed": "Nibbana Basic: No greed, hatred or delusion, but your knees still hurt."
   },
   {
    "id": "b45",
    "section": "1\\. The arahant is free. So why is there still a body?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbana Premium\\:** Available upon termination of your biological contract.",
-   "directed": "**Nibbana Premium\\:** Available upon termination of your biological contract."
+   "text": "Nibbana Premium: Available upon termination of your biological contract.",
+   "directed": "Nibbana Premium: Available upon termination of your biological contract."
   },
   {
    "id": "b46",
@@ -447,8 +447,8 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "title",
    "voice": "granny",
-   "text": "2\\. The oil lamp that knows its fuel is exhausted",
-   "directed": "[long pause] 2\\. The oil lamp that knows its fuel is exhausted"
+   "text": "2. The oil lamp that knows its fuel is exhausted",
+   "directed": "[long pause] 2. The oil lamp that knows its fuel is exhausted"
   },
   {
    "id": "b56",
@@ -551,8 +551,8 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda draws on the *Dhatuvibhanga Sutta*, MN 140, where the Buddha relates the exhaustion of a lamp's fuel to the cooling of feelings at the end of a liberated person's life. \\[Sermon 19 - Nibbana; buddhistinquiry.org\\]",
-   "directed": "Nanananda draws on the *Dhatuvibhanga Sutta*, MN 140, where the Buddha relates the exhaustion of a lamp's fuel to the cooling of feelings at the end of a liberated person's life. \\[Sermon 19 - Nibbana; buddhistinquiry.org\\]"
+   "text": "Nanananda draws on the Dhatuvibhanga Sutta, MN 140, where the Buddha relates the exhaustion of a lamp's fuel to the cooling of feelings at the end of a liberated person's life. [Sermon 19 - Nibbana; buddhistinquiry.org]",
+   "directed": "Nanananda draws on the Dhatuvibhanga Sutta, MN 140, where the Buddha relates the exhaustion of a lamp's fuel to the cooling of feelings at the end of a liberated person's life. [Sermon 19 - Nibbana; buddhistinquiry.org]"
   },
   {
    "id": "b69",
@@ -607,8 +607,8 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "**The liberated person knows the end of the process through understanding its conditions.**",
-   "directed": "**The liberated person knows the end of the process through understanding its conditions.**"
+   "text": "The liberated person knows the end of the process through understanding its conditions.",
+   "directed": "The liberated person knows the end of the process through understanding its conditions."
   },
   {
    "id": "b76",
@@ -655,8 +655,8 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "### The person who is still trying to become immortal",
-   "directed": "### The person who is still trying to become immortal"
+   "text": "The person who is still trying to become immortal",
+   "directed": "The person who is still trying to become immortal"
   },
   {
    "id": "b82",
@@ -703,8 +703,8 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "Some independently existing *me* that will somehow escape the organism's fate.",
-   "directed": "Some independently existing *me* that will somehow escape the organism's fate."
+   "text": "Some independently existing me that will somehow escape the organism's fate.",
+   "directed": "Some independently existing me that will somehow escape the organism's fate."
   },
   {
    "id": "b88",
@@ -727,8 +727,8 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "**Find something I can identify with that death cannot destroy.**",
-   "directed": "**Find something I can identify with that death cannot destroy.**"
+   "text": "Find something I can identify with that death cannot destroy.",
+   "directed": "Find something I can identify with that death cannot destroy."
   },
   {
    "id": "b91",
@@ -775,32 +775,32 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "Not\\:",
-   "directed": "[short pause] Not\\:"
+   "text": "Not:",
+   "directed": "[short pause] Not:"
   },
   {
    "id": "b97",
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "*I have discovered the eternal substance that I really am.*",
-   "directed": "*I have discovered the eternal substance that I really am.*"
+   "text": "I have discovered the eternal substance that I really am.",
+   "directed": "I have discovered the eternal substance that I really am."
   },
   {
    "id": "b98",
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "But\\:",
-   "directed": "[short pause] But\\:"
+   "text": "But:",
+   "directed": "[short pause] But:"
   },
   {
    "id": "b99",
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "*The conditions responsible for continued bondage have ceased.*",
-   "directed": "*The conditions responsible for continued bondage have ceased.*"
+   "text": "The conditions responsible for continued bondage have ceased.",
+   "directed": "The conditions responsible for continued bondage have ceased."
   },
   {
    "id": "b100",
@@ -855,24 +855,24 @@
    "section": "2\\. The oil lamp that knows its fuel is exhausted",
    "type": "narration",
    "voice": "granny",
-   "text": "**If the liberated person can still feel pleasure and pain, in what sense have feelings cooled?**",
-   "directed": "**If the liberated person can still feel pleasure and pain, in what sense have feelings cooled?**"
+   "text": "If the liberated person can still feel pleasure and pain, in what sense have feelings cooled?",
+   "directed": "If the liberated person can still feel pleasure and pain, in what sense have feelings cooled?"
   },
   {
    "id": "b107",
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "title",
    "voice": "granny",
-   "text": "3\\. The pleasure that doesn't require pleasure",
-   "directed": "[long pause] 3\\. The pleasure that doesn't require pleasure"
+   "text": "3. The pleasure that doesn't require pleasure",
+   "directed": "[long pause] 3. The pleasure that doesn't require pleasure"
   },
   {
    "id": "b108",
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda introduces an expression we can translate simply as **happiness without feeling**\\.",
-   "directed": "Nanananda introduces an expression we can translate simply as **happiness without feeling**\\."
+   "text": "Nanananda introduces an expression we can translate simply as happiness without feeling.",
+   "directed": "Nanananda introduces an expression we can translate simply as happiness without feeling."
   },
   {
    "id": "b109",
@@ -999,8 +999,8 @@
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "narration",
    "voice": "granny",
-   "text": "What remains that could possibly deserve the name *happiness*?",
-   "directed": "What remains that could possibly deserve the name *happiness*?"
+   "text": "What remains that could possibly deserve the name happiness?",
+   "directed": "What remains that could possibly deserve the name happiness?"
   },
   {
    "id": "b125",
@@ -1015,8 +1015,8 @@
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "narration",
    "voice": "granny",
-   "text": "**Happiness does not always mean the presence of a pleasurable sensation.**",
-   "directed": "**Happiness does not always mean the presence of a pleasurable sensation.**"
+   "text": "Happiness does not always mean the presence of a pleasurable sensation.",
+   "directed": "Happiness does not always mean the presence of a pleasurable sensation."
   },
   {
    "id": "b127",
@@ -1183,8 +1183,8 @@
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "narration",
    "voice": "granny",
-   "text": "### But surely the absence of pain isn't automatically happiness?",
-   "directed": "### But surely the absence of pain isn't automatically happiness?"
+   "text": "But surely the absence of pain isn't automatically happiness?",
+   "directed": "But surely the absence of pain isn't automatically happiness?"
   },
   {
    "id": "b148",
@@ -1247,8 +1247,8 @@
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda's claim concerns the **liberating realisation of cessation**, not merely a blank gap in experience.",
-   "directed": "Nanananda's claim concerns the **liberating realisation of cessation**, not merely a blank gap in experience."
+   "text": "Nanananda's claim concerns the liberating realisation of cessation, not merely a blank gap in experience.",
+   "directed": "Nanananda's claim concerns the liberating realisation of cessation, not merely a blank gap in experience."
   },
   {
    "id": "b156",
@@ -1279,8 +1279,8 @@
    "section": "3\\. The pleasure that doesn't require pleasure",
    "type": "narration",
    "voice": "granny",
-   "text": "**The value of liberation is not measured by the quantity of pleasant sensation it produces.**",
-   "directed": "**The value of liberation is not measured by the quantity of pleasant sensation it produces.**"
+   "text": "The value of liberation is not measured by the quantity of pleasant sensation it produces.",
+   "directed": "The value of liberation is not measured by the quantity of pleasant sensation it produces."
   },
   {
    "id": "b160",
@@ -1311,8 +1311,8 @@
    "section": "4\\. The terrible mistake of thinking happiness is something ",
    "type": "title",
    "voice": "granny",
-   "text": "4\\. The terrible mistake of thinking happiness is something you must continually produce",
-   "directed": "[long pause] 4\\. The terrible mistake of thinking happiness is something you must continually produce"
+   "text": "4. The terrible mistake of thinking happiness is something you must continually produce",
+   "directed": "[long pause] 4. The terrible mistake of thinking happiness is something you must continually produce"
   },
   {
    "id": "b164",
@@ -1383,8 +1383,8 @@
    "section": "4\\. The terrible mistake of thinking happiness is something ",
    "type": "narration",
    "voice": "granny",
-   "text": "Eventually he concludes\\:",
-   "directed": "[short pause] Eventually he concludes\\:"
+   "text": "Eventually he concludes:",
+   "directed": "[short pause] Eventually he concludes:"
   },
   {
    "id": "b173",
@@ -1495,8 +1495,8 @@
    "section": "4\\. The terrible mistake of thinking happiness is something ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Pleasure and freedom from bondage are different achievements.**",
-   "directed": "**Pleasure and freedom from bondage are different achievements.**"
+   "text": "Pleasure and freedom from bondage are different achievements.",
+   "directed": "Pleasure and freedom from bondage are different achievements."
   },
   {
    "id": "b187",
@@ -1647,16 +1647,16 @@
    "section": "4\\. The terrible mistake of thinking happiness is something ",
    "type": "narration",
    "voice": "granny",
-   "text": "**How does the arahant know that the freedom already realised will not be destroyed by death?**",
-   "directed": "**How does the arahant know that the freedom already realised will not be destroyed by death?**"
+   "text": "How does the arahant know that the freedom already realised will not be destroyed by death?",
+   "directed": "How does the arahant know that the freedom already realised will not be destroyed by death?"
   },
   {
    "id": "b206",
    "section": "5\\. The Buddha dies without travelling to a better address",
    "type": "title",
    "voice": "granny",
-   "text": "5\\. The Buddha dies without travelling to a better address",
-   "directed": "[long pause] 5\\. The Buddha dies without travelling to a better address"
+   "text": "5. The Buddha dies without travelling to a better address",
+   "directed": "[long pause] 5. The Buddha dies without travelling to a better address"
   },
   {
    "id": "b207",
@@ -1807,8 +1807,8 @@
    "section": "5\\. The Buddha dies without travelling to a better address",
    "type": "narration",
    "voice": "granny",
-   "text": "He dies **having already realised peace**\\.",
-   "directed": "He dies **having already realised peace**\\."
+   "text": "He dies having already realised peace.",
+   "directed": "He dies having already realised peace."
   },
   {
    "id": "b226",
@@ -1855,8 +1855,8 @@
    "section": "5\\. The Buddha dies without travelling to a better address",
    "type": "narration",
    "voice": "granny",
-   "text": "### The difference between the text and Nanananda's reading",
-   "directed": "### The difference between the text and Nanananda's reading"
+   "text": "The difference between the text and Nanananda's reading",
+   "directed": "The difference between the text and Nanananda's reading"
   },
   {
    "id": "b232",
@@ -1871,8 +1871,8 @@
    "section": "5\\. The Buddha dies without travelling to a better address",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda argues that a commentarial explanation wrongly makes the Buddha's death a movement *towards* peace.",
-   "directed": "Nanananda argues that a commentarial explanation wrongly makes the Buddha's death a movement *towards* peace."
+   "text": "Nanananda argues that a commentarial explanation wrongly makes the Buddha's death a movement towards peace.",
+   "directed": "Nanananda argues that a commentarial explanation wrongly makes the Buddha's death a movement towards peace."
   },
   {
    "id": "b234",
@@ -1935,8 +1935,8 @@
    "section": "5\\. The Buddha dies without travelling to a better address",
    "type": "narration",
    "voice": "granny",
-   "text": "**The liberated person need not wait for death to acquire freedom from death's power over becoming.**",
-   "directed": "**The liberated person need not wait for death to acquire freedom from death's power over becoming.**"
+   "text": "The liberated person need not wait for death to acquire freedom from death's power over becoming.",
+   "directed": "The liberated person need not wait for death to acquire freedom from death's power over becoming."
   },
   {
    "id": "b242",
@@ -1951,8 +1951,8 @@
    "section": "6\\. The general who knows when he is relying on faith",
    "type": "title",
    "voice": "granny",
-   "text": "6\\. The general who knows when he is relying on faith",
-   "directed": "[long pause] 6\\. The general who knows when he is relying on faith"
+   "text": "6. The general who knows when he is relying on faith",
+   "directed": "[long pause] 6. The general who knows when he is relying on faith"
   },
   {
    "id": "b244",
@@ -2143,8 +2143,8 @@
    "section": "6\\. The general who knows when he is relying on faith",
    "type": "narration",
    "voice": "granny",
-   "text": "**The text's assertion of a liberated person's direct knowledge is not an independently verified proof of rebirth or its cessation.**",
-   "directed": "**The text's assertion of a liberated person's direct knowledge is not an independently verified proof of rebirth or its cessation.**"
+   "text": "The text's assertion of a liberated person's direct knowledge is not an independently verified proof of rebirth or its cessation.",
+   "directed": "The text's assertion of a liberated person's direct knowledge is not an independently verified proof of rebirth or its cessation."
   },
   {
    "id": "b268",
@@ -2215,8 +2215,8 @@
    "section": "6\\. The general who knows when he is relying on faith",
    "type": "narration",
    "voice": "granny",
-   "text": "### The arahant who has finished the training",
-   "directed": "### The arahant who has finished the training"
+   "text": "The arahant who has finished the training",
+   "directed": "The arahant who has finished the training"
   },
   {
    "id": "b277",
@@ -2383,8 +2383,8 @@
    "section": "6\\. The general who knows when he is relying on faith",
    "type": "narration",
    "voice": "granny",
-   "text": "**The possibility of no longer needing to become anything is itself central to the peace.**",
-   "directed": "**The possibility of no longer needing to become anything is itself central to the peace.**"
+   "text": "The possibility of no longer needing to become anything is itself central to the peace.",
+   "directed": "The possibility of no longer needing to become anything is itself central to the peace."
   },
   {
    "id": "b298",
@@ -2415,8 +2415,8 @@
    "section": "7\\. The floral arrangement that dissolves when the glue is r",
    "type": "title",
    "voice": "granny",
-   "text": "7\\. The floral arrangement that dissolves when the glue is removed",
-   "directed": "[long pause] 7\\. The floral arrangement that dissolves when the glue is removed"
+   "text": "7. The floral arrangement that dissolves when the glue is removed",
+   "directed": "[long pause] 7. The floral arrangement that dissolves when the glue is removed"
   },
   {
    "id": "b302",
@@ -2567,8 +2567,8 @@
    "section": "7\\. The floral arrangement that dissolves when the glue is r",
    "type": "narration",
    "voice": "granny",
-   "text": "This is **Nanananda's distinctive account** of the unconditioned, not a universally accepted Theravada metaphysics.",
-   "directed": "This is **Nanananda's distinctive account** of the unconditioned, not a universally accepted Theravada metaphysics."
+   "text": "This is Nanananda's distinctive account of the unconditioned, not a universally accepted Theravada metaphysics.",
+   "directed": "This is Nanananda's distinctive account of the unconditioned, not a universally accepted Theravada metaphysics."
   },
   {
    "id": "b321",
@@ -2655,8 +2655,8 @@
    "section": "7\\. The floral arrangement that dissolves when the glue is r",
    "type": "narration",
    "voice": "granny",
-   "text": "**The answer isn't a stronger knot. It's the ending of the need to keep tying them.**",
-   "directed": "**The answer isn't a stronger knot. It's the ending of the need to keep tying them.**"
+   "text": "The answer isn't a stronger knot. It's the ending of the need to keep tying them.",
+   "directed": "The answer isn't a stronger knot. It's the ending of the need to keep tying them."
   },
   {
    "id": "b332",
@@ -2687,8 +2687,8 @@
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "title",
    "voice": "granny",
-   "text": "8\\. The fish who cannot imagine dry land",
-   "directed": "[long pause] 8\\. The fish who cannot imagine dry land"
+   "text": "8. The fish who cannot imagine dry land",
+   "directed": "[long pause] 8. The fish who cannot imagine dry land"
   },
   {
    "id": "b336",
@@ -2807,8 +2807,8 @@
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "narration",
    "voice": "granny",
-   "text": "**There must be some separate territory called Nibbana into which the liberated person travels.**",
-   "directed": "**There must be some separate territory called Nibbana into which the liberated person travels.**"
+   "text": "There must be some separate territory called Nibbana into which the liberated person travels.",
+   "directed": "There must be some separate territory called Nibbana into which the liberated person travels."
   },
   {
    "id": "b351",
@@ -2895,16 +2895,16 @@
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "narration",
    "voice": "granny",
-   "text": "And then the mind decides\\:",
-   "directed": "[short pause] And then the mind decides\\:"
+   "text": "And then the mind decides:",
+   "directed": "[short pause] And then the mind decides:"
   },
   {
    "id": "b362",
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "figure",
    "voice": "none",
-   "text": "**\"I WANT TO GO THERE.\"**",
-   "directed": "**\"I WANT TO GO THERE.\"**"
+   "text": "\"I WANT TO GO THERE.\"",
+   "directed": "\"I WANT TO GO THERE.\""
   },
   {
    "id": "b363",
@@ -2975,16 +2975,16 @@
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "narration",
    "voice": "granny",
-   "text": "**You can turn the ending of craving into the ultimate thing to crave.**",
-   "directed": "**You can turn the ending of craving into the ultimate thing to crave.**"
+   "text": "You can turn the ending of craving into the ultimate thing to crave.",
+   "directed": "You can turn the ending of craving into the ultimate thing to crave."
   },
   {
    "id": "b372",
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "narration",
    "voice": "granny",
-   "text": "### The arahant who left no ashes",
-   "directed": "### The arahant who left no ashes"
+   "text": "The arahant who left no ashes",
+   "directed": "The arahant who left no ashes"
   },
   {
    "id": "b373",
@@ -2999,8 +2999,8 @@
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "narration",
    "voice": "granny",
-   "text": "According to the *Udana*, at the end of his life Dabba rises into the air, enters a fire-element attainment, and his body is consumed without leaving ashes.",
-   "directed": "According to the *Udana*, at the end of his life Dabba rises into the air, enters a fire-element attainment, and his body is consumed without leaving ashes."
+   "text": "According to the Udana, at the end of his life Dabba rises into the air, enters a fire-element attainment, and his body is consumed without leaving ashes.",
+   "directed": "According to the Udana, at the end of his life Dabba rises into the air, enters a fire-element attainment, and his body is consumed without leaving ashes."
   },
   {
    "id": "b375",
@@ -3063,8 +3063,8 @@
    "section": "8\\. The fish who cannot imagine dry land",
    "type": "narration",
    "voice": "granny",
-   "text": "**Extinguishment is not the transportation of a fiery substance.**",
-   "directed": "**Extinguishment is not the transportation of a fiery substance.**"
+   "text": "Extinguishment is not the transportation of a fiery substance.",
+   "directed": "Extinguishment is not the transportation of a fiery substance."
   },
   {
    "id": "b383",
@@ -3159,8 +3159,8 @@
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "title",
    "voice": "granny",
-   "text": "9\\. What if your understanding of happiness is completely upside down?",
-   "directed": "[long pause] 9\\. What if your understanding of happiness is completely upside down?"
+   "text": "9. What if your understanding of happiness is completely upside down?",
+   "directed": "[long pause] 9. What if your understanding of happiness is completely upside down?"
   },
   {
    "id": "b395",
@@ -3199,16 +3199,16 @@
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "And the most startling phrase is **happiness without feeling**\\.",
-   "directed": "And the most startling phrase is **happiness without feeling**\\."
+   "text": "And the most startling phrase is happiness without feeling.",
+   "directed": "And the most startling phrase is happiness without feeling."
   },
   {
    "id": "b400",
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda takes this to refer to the supreme peace of cessation, which he connects with the attainment of arahant fruition. The verses he cites from the *Anguttara Nikaya* describe liberation as unshakeable, unsurpassed in happiness and free from debt. Analayo's notes compare Bhikkhu Bodhi's translation and a Chinese *Madhyama-agama* parallel, MA 125, which similarly associates Nibbana with freedom from affliction and unshakeable peace. \\[Sermon 20 - Nibbana; buddhistinquiry.org\\]",
-   "directed": "Nanananda takes this to refer to the supreme peace of cessation, which he connects with the attainment of arahant fruition. The verses he cites from the *Anguttara Nikaya* describe liberation as unshakeable, unsurpassed in happiness and free from debt. Analayo's notes compare Bhikkhu Bodhi's translation and a Chinese *Madhyama-agama* parallel, MA 125, which similarly associates Nibbana with freedom from affliction and unshakeable peace. \\[Sermon 20 - Nibbana; buddhistinquiry.org\\]"
+   "text": "Nanananda takes this to refer to the supreme peace of cessation, which he connects with the attainment of arahant fruition. The verses he cites from the Anguttara Nikaya describe liberation as unshakeable, unsurpassed in happiness and free from debt. Analayo's notes compare Bhikkhu Bodhi's translation and a Chinese Madhyama-agama parallel, MA 125, which similarly associates Nibbana with freedom from affliction and unshakeable peace. [Sermon 20 - Nibbana; buddhistinquiry.org]",
+   "directed": "Nanananda takes this to refer to the supreme peace of cessation, which he connects with the attainment of arahant fruition. The verses he cites from the Anguttara Nikaya describe liberation as unshakeable, unsurpassed in happiness and free from debt. Analayo's notes compare Bhikkhu Bodhi's translation and a Chinese Madhyama-agama parallel, MA 125, which similarly associates Nibbana with freedom from affliction and unshakeable peace. [Sermon 20 - Nibbana; buddhistinquiry.org]"
   },
   {
    "id": "b401",
@@ -3399,8 +3399,8 @@
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "**Can you guarantee that none of it will change?**",
-   "directed": "**Can you guarantee that none of it will change?**"
+   "text": "Can you guarantee that none of it will change?",
+   "directed": "Can you guarantee that none of it will change?"
   },
   {
    "id": "b425",
@@ -3471,8 +3471,8 @@
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "### The happiness that doesn't have to be maintained",
-   "directed": "### The happiness that doesn't have to be maintained"
+   "text": "The happiness that doesn't have to be maintained",
+   "directed": "The happiness that doesn't have to be maintained"
   },
   {
    "id": "b434",
@@ -3575,8 +3575,8 @@
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "**The mind no longer has to purchase peace from a world incapable of guaranteeing it.**",
-   "directed": "**The mind no longer has to purchase peace from a world incapable of guaranteeing it.**"
+   "text": "The mind no longer has to purchase peace from a world incapable of guaranteeing it.",
+   "directed": "The mind no longer has to purchase peace from a world incapable of guaranteeing it."
   },
   {
    "id": "b447",
@@ -3663,16 +3663,16 @@
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "But the common point is sufficiently sharp\\:",
-   "directed": "[short pause] But the common point is sufficiently sharp\\:"
+   "text": "But the common point is sufficiently sharp:",
+   "directed": "[short pause] But the common point is sufficiently sharp:"
   },
   {
    "id": "b458",
    "section": "9\\. What if your understanding of happiness is completely up",
    "type": "narration",
    "voice": "granny",
-   "text": "**The highest happiness is not defined by possessing the greatest possible quantity of pleasurable feeling.**",
-   "directed": "**The highest happiness is not defined by possessing the greatest possible quantity of pleasurable feeling.**"
+   "text": "The highest happiness is not defined by possessing the greatest possible quantity of pleasurable feeling.",
+   "directed": "The highest happiness is not defined by possessing the greatest possible quantity of pleasurable feeling."
   },
   {
    "id": "b459",
@@ -3703,8 +3703,8 @@
    "section": "10\\. The karmic debt collector has been put out of business",
    "type": "title",
    "voice": "granny",
-   "text": "10\\. The karmic debt collector has been put out of business",
-   "directed": "[long pause] 10\\. The karmic debt collector has been put out of business"
+   "text": "10. The karmic debt collector has been put out of business",
+   "directed": "[long pause] 10. The karmic debt collector has been put out of business"
   },
   {
    "id": "b463",
@@ -3855,8 +3855,8 @@
    "section": "10\\. The karmic debt collector has been put out of business",
    "type": "narration",
    "voice": "granny",
-   "text": "**Gone.**",
-   "directed": "**Gone.**"
+   "text": "Gone.",
+   "directed": "Gone."
   },
   {
    "id": "b482",
@@ -3959,8 +3959,8 @@
    "section": "10\\. The karmic debt collector has been put out of business",
    "type": "narration",
    "voice": "granny",
-   "text": "### The most important detail: nobody needs to keep paying",
-   "directed": "### The most important detail: nobody needs to keep paying"
+   "text": "The most important detail: nobody needs to keep paying",
+   "directed": "The most important detail: nobody needs to keep paying"
   },
   {
    "id": "b495",
@@ -3983,8 +3983,8 @@
    "section": "10\\. The karmic debt collector has been put out of business",
    "type": "narration",
    "voice": "granny",
-   "text": "Every month\\:",
-   "directed": "[short pause] Every month\\:"
+   "text": "Every month:",
+   "directed": "[short pause] Every month:"
   },
   {
    "id": "b498",
@@ -4087,8 +4087,8 @@
    "section": "10\\. The karmic debt collector has been put out of business",
    "type": "narration",
    "voice": "granny",
-   "text": "**The value lies in what no longer has to be done.**",
-   "directed": "**The value lies in what no longer has to be done.**"
+   "text": "The value lies in what no longer has to be done.",
+   "directed": "The value lies in what no longer has to be done."
   },
   {
    "id": "b511",
@@ -4151,8 +4151,8 @@
    "section": "11\\. The fire that cannot be found on Google Maps",
    "type": "title",
    "voice": "granny",
-   "text": "11\\. The fire that cannot be found on Google Maps",
-   "directed": "[long pause] 11\\. The fire that cannot be found on Google Maps"
+   "text": "11. The fire that cannot be found on Google Maps",
+   "directed": "[long pause] 11. The fire that cannot be found on Google Maps"
   },
   {
    "id": "b519",
@@ -4191,8 +4191,8 @@
    "section": "11\\. The fire that cannot be found on Google Maps",
    "type": "narration",
    "voice": "granny",
-   "text": "And now somebody asks\\:",
-   "directed": "[short pause] And now somebody asks\\:"
+   "text": "And now somebody asks:",
+   "directed": "[short pause] And now somebody asks:"
   },
   {
    "id": "b524",
@@ -4343,8 +4343,8 @@
    "section": "11\\. The fire that cannot be found on Google Maps",
    "type": "narration",
    "voice": "granny",
-   "text": "So the options aren't\\:",
-   "directed": "[short pause] So the options aren't\\:"
+   "text": "So the options aren't:",
+   "directed": "[short pause] So the options aren't:"
   },
   {
    "id": "b543",
@@ -4391,8 +4391,8 @@
    "section": "11\\. The fire that cannot be found on Google Maps",
    "type": "narration",
    "voice": "granny",
-   "text": "**The fire wasn't a hidden object travelling through its own flames.**",
-   "directed": "**The fire wasn't a hidden object travelling through its own flames.**"
+   "text": "The fire wasn't a hidden object travelling through its own flames.",
+   "directed": "The fire wasn't a hidden object travelling through its own flames."
   },
   {
    "id": "b549",
@@ -4463,8 +4463,8 @@
    "section": "11\\. The fire that cannot be found on Google Maps",
    "type": "narration",
    "voice": "granny",
-   "text": "### Does that prove the classical Theravada interpretation wrong?",
-   "directed": "### Does that prove the classical Theravada interpretation wrong?"
+   "text": "Does that prove the classical Theravada interpretation wrong?",
+   "directed": "Does that prove the classical Theravada interpretation wrong?"
   },
   {
    "id": "b558",
@@ -4551,8 +4551,8 @@
    "section": "11\\. The fire that cannot be found on Google Maps",
    "type": "narration",
    "voice": "granny",
-   "text": "**If a liberated person doesn't possess an independent eternal self, what exactly continues from one life to another before liberation?**",
-   "directed": "**If a liberated person doesn't possess an independent eternal self, what exactly continues from one life to another before liberation?**"
+   "text": "If a liberated person doesn't possess an independent eternal self, what exactly continues from one life to another before liberation?",
+   "directed": "If a liberated person doesn't possess an independent eternal self, what exactly continues from one life to another before liberation?"
   },
   {
    "id": "b569",
@@ -4567,8 +4567,8 @@
    "section": "12\\. The flame carried by the wind",
    "type": "title",
    "voice": "granny",
-   "text": "12\\. The flame carried by the wind",
-   "directed": "[long pause] 12\\. The flame carried by the wind"
+   "text": "12. The flame carried by the wind",
+   "directed": "[long pause] 12. The flame carried by the wind"
   },
   {
    "id": "b571",
@@ -4727,8 +4727,8 @@
    "section": "12\\. The flame carried by the wind",
    "type": "narration",
    "voice": "granny",
-   "text": "### The rebirth passage that doesn't say exactly the same thing in every version",
-   "directed": "### The rebirth passage that doesn't say exactly the same thing in every version"
+   "text": "The rebirth passage that doesn't say exactly the same thing in every version",
+   "directed": "The rebirth passage that doesn't say exactly the same thing in every version"
   },
   {
    "id": "b591",
@@ -4783,8 +4783,8 @@
    "section": "12\\. The flame carried by the wind",
    "type": "narration",
    "voice": "granny",
-   "text": "And the Chinese parallel, SA 957, describes a being travelling by means of a **mind-made body**\\.",
-   "directed": "And the Chinese parallel, SA 957, describes a being travelling by means of a **mind-made body**\\."
+   "text": "And the Chinese parallel, SA 957, describes a being travelling by means of a mind-made body.",
+   "directed": "And the Chinese parallel, SA 957, describes a being travelling by means of a mind-made body."
   },
   {
    "id": "b598",
@@ -4855,8 +4855,8 @@
    "section": "12\\. The flame carried by the wind",
    "type": "narration",
    "voice": "granny",
-   "text": "**Within the Buddhist account, craving is not merely a source of psychological dissatisfaction. It is implicated in the continuation of becoming itself.**",
-   "directed": "**Within the Buddhist account, craving is not merely a source of psychological dissatisfaction. It is implicated in the continuation of becoming itself.**"
+   "text": "Within the Buddhist account, craving is not merely a source of psychological dissatisfaction. It is implicated in the continuation of becoming itself.",
+   "directed": "Within the Buddhist account, craving is not merely a source of psychological dissatisfaction. It is implicated in the continuation of becoming itself."
   },
   {
    "id": "b607",
@@ -4903,8 +4903,8 @@
    "section": "13\\. Four answers. Every single one wrong.",
    "type": "title",
    "voice": "granny",
-   "text": "13\\. Four answers. Every single one wrong.",
-   "directed": "[long pause] 13\\. Four answers. Every single one wrong."
+   "text": "13. Four answers. Every single one wrong.",
+   "directed": "[long pause] 13. Four answers. Every single one wrong."
   },
   {
    "id": "b613",
@@ -5055,8 +5055,8 @@
    "section": "13\\. Four answers. Every single one wrong.",
    "type": "narration",
    "voice": "granny",
-   "text": "The metaphysical equivalent of being told that a legal form is invalid and desperately attempting to tick the box marked *None of the Above*\\.",
-   "directed": "The metaphysical equivalent of being told that a legal form is invalid and desperately attempting to tick the box marked *None of the Above*\\."
+   "text": "The metaphysical equivalent of being told that a legal form is invalid and desperately attempting to tick the box marked None of the Above.",
+   "directed": "The metaphysical equivalent of being told that a legal form is invalid and desperately attempting to tick the box marked None of the Above."
   },
   {
    "id": "b632",
@@ -5087,16 +5087,16 @@
    "section": "13\\. Four answers. Every single one wrong.",
    "type": "narration",
    "voice": "granny",
-   "text": "### The loaded question",
-   "directed": "### The loaded question"
+   "text": "The loaded question",
+   "directed": "The loaded question"
   },
   {
    "id": "b636",
    "section": "13\\. Four answers. Every single one wrong.",
    "type": "narration",
    "voice": "granny",
-   "text": "Imagine somebody asks\\:",
-   "directed": "[short pause] Imagine somebody asks\\:"
+   "text": "Imagine somebody asks:",
+   "directed": "[short pause] Imagine somebody asks:"
   },
   {
    "id": "b637",
@@ -5271,8 +5271,8 @@
    "section": "13\\. Four answers. Every single one wrong.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Craving has been cut off. The fetters have been severed. The conceit of independent selfhood has been understood. Suffering has ended.**",
-   "directed": "**Craving has been cut off. The fetters have been severed. The conceit of independent selfhood has been understood. Suffering has ended.**"
+   "text": "Craving has been cut off. The fetters have been severed. The conceit of independent selfhood has been understood. Suffering has ended.",
+   "directed": "Craving has been cut off. The fetters have been severed. The conceit of independent selfhood has been understood. Suffering has ended."
   },
   {
    "id": "b659",
@@ -5319,8 +5319,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "title",
    "voice": "granny",
-   "text": "14\\. The Buddha's answer is not hidden in a fifth box",
-   "directed": "[long pause] 14\\. The Buddha's answer is not hidden in a fifth box"
+   "text": "14. The Buddha's answer is not hidden in a fifth box",
+   "directed": "[long pause] 14. The Buddha's answer is not hidden in a fifth box"
   },
   {
    "id": "b665",
@@ -5351,8 +5351,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "narration",
    "voice": "granny",
-   "text": "He isn't saying\\:",
-   "directed": "[short pause] He isn't saying\\:"
+   "text": "He isn't saying:",
+   "directed": "[short pause] He isn't saying:"
   },
   {
    "id": "b669",
@@ -5407,8 +5407,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "narration",
    "voice": "granny",
-   "text": "The Buddha's freedom from being identified through the aggregates is already relevant **while he is alive**\\.",
-   "directed": "The Buddha's freedom from being identified through the aggregates is already relevant **while he is alive**\\."
+   "text": "The Buddha's freedom from being identified through the aggregates is already relevant while he is alive.",
+   "directed": "The Buddha's freedom from being identified through the aggregates is already relevant while he is alive."
   },
   {
    "id": "b676",
@@ -5471,8 +5471,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "narration",
    "voice": "granny",
-   "text": "And Nanananda asks\\:",
-   "directed": "[short pause] And Nanananda asks\\:"
+   "text": "And Nanananda asks:",
+   "directed": "[short pause] And Nanananda asks:"
   },
   {
    "id": "b684",
@@ -5487,8 +5487,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "narration",
    "voice": "granny",
-   "text": "### The uprooted palm tree",
-   "directed": "### The uprooted palm tree"
+   "text": "The uprooted palm tree",
+   "directed": "The uprooted palm tree"
   },
   {
    "id": "b686",
@@ -5639,8 +5639,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "dialogue",
    "voice": "granny",
-   "text": "\"Ah\\! A fine healthy palm\\!\"",
-   "directed": "[short pause] \"Ah\\! A fine healthy palm\\!\""
+   "text": "\"Ah! A fine healthy palm!\"",
+   "directed": "[short pause] \"Ah! A fine healthy palm!\""
   },
   {
    "id": "b705",
@@ -5679,8 +5679,8 @@
    "section": "14\\. The Buddha's answer is not hidden in a fifth box",
    "type": "narration",
    "voice": "granny",
-   "text": "**The organism remains. The bondage that sustained becoming has ceased.**",
-   "directed": "**The organism remains. The bondage that sustained becoming has ceased.**"
+   "text": "The organism remains. The bondage that sustained becoming has ceased.",
+   "directed": "The organism remains. The bondage that sustained becoming has ceased."
   },
   {
    "id": "b710",
@@ -5727,8 +5727,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "title",
    "voice": "granny",
-   "text": "15\\. The whirlpool that mistook itself for an ocean separate from the ocean",
-   "directed": "[long pause] 15\\. The whirlpool that mistook itself for an ocean separate from the ocean"
+   "text": "15. The whirlpool that mistook itself for an ocean separate from the ocean",
+   "directed": "[long pause] 15. The whirlpool that mistook itself for an ocean separate from the ocean"
   },
   {
    "id": "b716",
@@ -5839,16 +5839,16 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "It begins announcing\\:",
-   "directed": "[short pause] It begins announcing\\:"
+   "text": "It begins announcing:",
+   "directed": "[short pause] It begins announcing:"
   },
   {
    "id": "b730",
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "figure",
    "voice": "none",
-   "text": "**\"I AM A SEPARATE, INDEPENDENT WHIRLPOOL.\"**",
-   "directed": "**\"I AM A SEPARATE, INDEPENDENT WHIRLPOOL.\"**"
+   "text": "\"I AM A SEPARATE, INDEPENDENT WHIRLPOOL.\"",
+   "directed": "\"I AM A SEPARATE, INDEPENDENT WHIRLPOOL.\""
   },
   {
    "id": "b731",
@@ -5935,8 +5935,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "And somebody asks\\:",
-   "directed": "[short pause] And somebody asks\\:"
+   "text": "And somebody asks:",
+   "directed": "[short pause] And somebody asks:"
   },
   {
    "id": "b742",
@@ -5991,8 +5991,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "**The whirlpool was never a separate substance that needed to travel somewhere or merge with something else.**",
-   "directed": "**The whirlpool was never a separate substance that needed to travel somewhere or merge with something else.**"
+   "text": "The whirlpool was never a separate substance that needed to travel somewhere or merge with something else.",
+   "directed": "The whirlpool was never a separate substance that needed to travel somewhere or merge with something else."
   },
   {
    "id": "b749",
@@ -6023,8 +6023,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why this is not secretly Vedanta",
-   "directed": "### Why this is not secretly Vedanta"
+   "text": "Why this is not secretly Vedanta",
+   "directed": "Why this is not secretly Vedanta"
   },
   {
    "id": "b753",
@@ -6039,24 +6039,24 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "When people hear that the whirlpool was never separate from the ocean, they may immediately conclude\\:",
-   "directed": "[short pause] When people hear that the whirlpool was never separate from the ocean, they may immediately conclude\\:"
+   "text": "When people hear that the whirlpool was never separate from the ocean, they may immediately conclude:",
+   "directed": "[short pause] When people hear that the whirlpool was never separate from the ocean, they may immediately conclude:"
   },
   {
    "id": "b755",
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "dialogue",
    "voice": "granny",
-   "text": "\"Ah\\! So the individual soul merges into universal consciousness.\"",
-   "directed": "[short pause] \"Ah\\! So the individual soul merges into universal consciousness.\""
+   "text": "\"Ah! So the individual soul merges into universal consciousness.\"",
+   "directed": "[short pause] \"Ah! So the individual soul merges into universal consciousness.\""
   },
   {
    "id": "b756",
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "Or\\:",
-   "directed": "[short pause] Or\\:"
+   "text": "Or:",
+   "directed": "[short pause] Or:"
   },
   {
    "id": "b757",
@@ -6071,8 +6071,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "Or\\:",
-   "directed": "[short pause] Or\\:"
+   "text": "Or:",
+   "directed": "[short pause] Or:"
   },
   {
    "id": "b759",
@@ -6095,8 +6095,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "Nanananda explicitly warns that saying the vortex has *merged* with the ocean is only a manner of speaking.",
-   "directed": "Nanananda explicitly warns that saying the vortex has *merged* with the ocean is only a manner of speaking."
+   "text": "Nanananda explicitly warns that saying the vortex has merged with the ocean is only a manner of speaking.",
+   "directed": "Nanananda explicitly warns that saying the vortex has merged with the ocean is only a manner of speaking."
   },
   {
    "id": "b762",
@@ -6143,8 +6143,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "**Non-separateness in an analogy does not automatically establish an eternal universal Self.**",
-   "directed": "**Non-separateness in an analogy does not automatically establish an eternal universal Self.**"
+   "text": "Non-separateness in an analogy does not automatically establish an eternal universal Self.",
+   "directed": "Non-separateness in an analogy does not automatically establish an eternal universal Self."
   },
   {
    "id": "b768",
@@ -6167,8 +6167,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "### The whirlpool is an act of resistance",
-   "directed": "### The whirlpool is an act of resistance"
+   "text": "The whirlpool is an act of resistance",
+   "directed": "The whirlpool is an act of resistance"
   },
   {
    "id": "b771",
@@ -6263,8 +6263,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "**The struggle to obtain something impossible becomes the very mechanism that sustains the struggle.**",
-   "directed": "**The struggle to obtain something impossible becomes the very mechanism that sustains the struggle.**"
+   "text": "The struggle to obtain something impossible becomes the very mechanism that sustains the struggle.",
+   "directed": "The struggle to obtain something impossible becomes the very mechanism that sustains the struggle."
   },
   {
    "id": "b783",
@@ -6407,8 +6407,8 @@
    "section": "15\\. The whirlpool that mistook itself for an ocean separate",
    "type": "narration",
    "voice": "granny",
-   "text": "**Perhaps the freedom you're seeking isn't a superior movement of the vortex. It's the cessation of the vortex itself.**",
-   "directed": "**Perhaps the freedom you're seeking isn't a superior movement of the vortex. It's the cessation of the vortex itself.**"
+   "text": "Perhaps the freedom you're seeking isn't a superior movement of the vortex. It's the cessation of the vortex itself.",
+   "directed": "Perhaps the freedom you're seeking isn't a superior movement of the vortex. It's the cessation of the vortex itself."
   },
   {
    "id": "b801",
@@ -6487,8 +6487,8 @@
    "section": "16\\. The ocean doesn't get more enlightened every time a mon",
    "type": "title",
    "voice": "granny",
-   "text": "16\\. The ocean doesn't get more enlightened every time a monk dies",
-   "directed": "[long pause] 16\\. The ocean doesn't get more enlightened every time a monk dies"
+   "text": "16. The ocean doesn't get more enlightened every time a monk dies",
+   "directed": "[long pause] 16. The ocean doesn't get more enlightened every time a monk dies"
   },
   {
    "id": "b811",
@@ -6639,16 +6639,16 @@
    "section": "16\\. The ocean doesn't get more enlightened every time a mon",
    "type": "narration",
    "voice": "granny",
-   "text": "The ocean comparison appears in the Pali *Paharada Sutta* and other textual witnesses.",
-   "directed": "The ocean comparison appears in the Pali *Paharada Sutta* and other textual witnesses."
+   "text": "The ocean comparison appears in the Pali Paharada Sutta and other textual witnesses.",
+   "directed": "The ocean comparison appears in the Pali Paharada Sutta and other textual witnesses."
   },
   {
    "id": "b830",
    "section": "16\\. The ocean doesn't get more enlightened every time a mon",
    "type": "narration",
    "voice": "granny",
-   "text": "But the corresponding fifth quality is **absent from the Chinese Madhyama-agama parallel, MA 35**\\.",
-   "directed": "But the corresponding fifth quality is **absent from the Chinese Madhyama-agama parallel, MA 35**\\."
+   "text": "But the corresponding fifth quality is absent from the Chinese Madhyama-agama parallel, MA 35.",
+   "directed": "But the corresponding fifth quality is absent from the Chinese Madhyama-agama parallel, MA 35."
   },
   {
    "id": "b831",
@@ -6703,8 +6703,8 @@
    "section": "16\\. The ocean doesn't get more enlightened every time a mon",
    "type": "narration",
    "voice": "granny",
-   "text": "**If the whirlpool was never an independent entity, how far can we meaningfully speak of the person who has attained liberation?**",
-   "directed": "**If the whirlpool was never an independent entity, how far can we meaningfully speak of the person who has attained liberation?**"
+   "text": "If the whirlpool was never an independent entity, how far can we meaningfully speak of the person who has attained liberation?",
+   "directed": "If the whirlpool was never an independent entity, how far can we meaningfully speak of the person who has attained liberation?"
   },
   {
    "id": "b838",
@@ -6719,8 +6719,8 @@
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "title",
    "voice": "granny",
-   "text": "17\\. The monk who tried to save the Tathagata from non-existence",
-   "directed": "[long pause] 17\\. The monk who tried to save the Tathagata from non-existence"
+   "text": "17. The monk who tried to save the Tathagata from non-existence",
+   "directed": "[long pause] 17. The monk who tried to save the Tathagata from non-existence"
   },
   {
    "id": "b840",
@@ -6887,16 +6887,16 @@
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "This is the *Anuradha Sutta*, SN 22.86, which forms a central part of Sermon 21.",
-   "directed": "This is the *Anuradha Sutta*, SN 22.86, which forms a central part of Sermon 21."
+   "text": "This is the Anuradha Sutta, SN 22.86, which forms a central part of Sermon 21.",
+   "directed": "This is the Anuradha Sutta, SN 22.86, which forms a central part of Sermon 21."
   },
   {
    "id": "b861",
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "### The interrogation",
-   "directed": "### The interrogation"
+   "text": "The interrogation",
+   "directed": "The interrogation"
   },
   {
    "id": "b862",
@@ -7087,8 +7087,8 @@
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "**The problem isn't that the liberated individual has escaped the four categories. The problem is that the independent individual presupposed by the question cannot be established.**",
-   "directed": "**The problem isn't that the liberated individual has escaped the four categories. The problem is that the independent individual presupposed by the question cannot be established.**"
+   "text": "The problem isn't that the liberated individual has escaped the four categories. The problem is that the independent individual presupposed by the question cannot be established.",
+   "directed": "The problem isn't that the liberated individual has escaped the four categories. The problem is that the independent individual presupposed by the question cannot be established."
   },
   {
    "id": "b886",
@@ -7151,40 +7151,40 @@
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "### The philosophical difference",
-   "directed": "### The philosophical difference"
+   "text": "The philosophical difference",
+   "directed": "The philosophical difference"
   },
   {
    "id": "b894",
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "There is a crucial distinction between saying\\:",
-   "directed": "[short pause] There is a crucial distinction between saying\\:"
+   "text": "There is a crucial distinction between saying:",
+   "directed": "[short pause] There is a crucial distinction between saying:"
   },
   {
    "id": "b895",
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "*The Buddha exists in a manner too mysterious for language.*",
-   "directed": "*The Buddha exists in a manner too mysterious for language.*"
+   "text": "The Buddha exists in a manner too mysterious for language.",
+   "directed": "The Buddha exists in a manner too mysterious for language."
   },
   {
    "id": "b896",
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "And saying\\:",
-   "directed": "[short pause] And saying\\:"
+   "text": "And saying:",
+   "directed": "[short pause] And saying:"
   },
   {
    "id": "b897",
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "*The assumption of an independently existing Buddha is not established by analysis of the aggregates.*",
-   "directed": "*The assumption of an independently existing Buddha is not established by analysis of the aggregates.*"
+   "text": "The assumption of an independently existing Buddha is not established by analysis of the aggregates.",
+   "directed": "The assumption of an independently existing Buddha is not established by analysis of the aggregates."
   },
   {
    "id": "b898",
@@ -7287,8 +7287,8 @@
    "section": "17\\. The monk who tried to save the Tathagata from non-exist",
    "type": "narration",
    "voice": "granny",
-   "text": "**The Buddha is conventionally identifiable without being metaphysically reducible to an eternal owner of the aggregates.**",
-   "directed": "**The Buddha is conventionally identifiable without being metaphysically reducible to an eternal owner of the aggregates.**"
+   "text": "The Buddha is conventionally identifiable without being metaphysically reducible to an eternal owner of the aggregates.",
+   "directed": "The Buddha is conventionally identifiable without being metaphysically reducible to an eternal owner of the aggregates."
   },
   {
    "id": "b911",
@@ -7391,8 +7391,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "title",
    "voice": "granny",
-   "text": "18\\. The children who destroyed their sandcastles without becoming miserable",
-   "directed": "[long pause] 18\\. The children who destroyed their sandcastles without becoming miserable"
+   "text": "18. The children who destroyed their sandcastles without becoming miserable",
+   "directed": "[long pause] 18. The children who destroyed their sandcastles without becoming miserable"
   },
   {
    "id": "b924",
@@ -7703,8 +7703,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "This is the Buddha's simile in the *Radha Samyutta*, which Nanananda uses as the climax of Sermon 21.",
-   "directed": "This is the Buddha's simile in the *Radha Samyutta*, which Nanananda uses as the climax of Sermon 21."
+   "text": "This is the Buddha's simile in the Radha Samyutta, which Nanananda uses as the climax of Sermon 21.",
+   "directed": "This is the Buddha's simile in the Radha Samyutta, which Nanananda uses as the climax of Sermon 21."
   },
   {
    "id": "b963",
@@ -7775,8 +7775,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "**The relationship of ownership had changed.**",
-   "directed": "**The relationship of ownership had changed.**"
+   "text": "The relationship of ownership had changed.",
+   "directed": "The relationship of ownership had changed."
   },
   {
    "id": "b972",
@@ -7839,8 +7839,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "The mind says\\:",
-   "directed": "[short pause] The mind says\\:"
+   "text": "The mind says:",
+   "directed": "[short pause] The mind says:"
   },
   {
    "id": "b980",
@@ -7911,8 +7911,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why the Buddha says a being is someone caught",
-   "directed": "### Why the Buddha says a being is someone caught"
+   "text": "Why the Buddha says a being is someone caught",
+   "directed": "Why the Buddha says a being is someone caught"
   },
   {
    "id": "b989",
@@ -7927,16 +7927,16 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "The Buddha explains that what makes someone a *being*, in the relevant sense, is their attachment to the aggregates.",
-   "directed": "The Buddha explains that what makes someone a *being*, in the relevant sense, is their attachment to the aggregates."
+   "text": "The Buddha explains that what makes someone a being, in the relevant sense, is their attachment to the aggregates.",
+   "directed": "The Buddha explains that what makes someone a being, in the relevant sense, is their attachment to the aggregates."
   },
   {
    "id": "b991",
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "The living process becomes a being *caught up* in what it desires and identifies with.",
-   "directed": "The living process becomes a being *caught up* in what it desires and identifies with."
+   "text": "The living process becomes a being caught up in what it desires and identifies with.",
+   "directed": "The living process becomes a being caught up in what it desires and identifies with."
   },
   {
    "id": "b992",
@@ -7959,8 +7959,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "**The being is characterised by being caught.**",
-   "directed": "**The being is characterised by being caught.**"
+   "text": "The being is characterised by being caught.",
+   "directed": "The being is characterised by being caught."
   },
   {
    "id": "b995",
@@ -8087,8 +8087,8 @@
    "section": "18\\. The children who destroyed their sandcastles without be",
    "type": "narration",
    "voice": "granny",
-   "text": "The Buddha's answer to Radha identifies Nibbana with **the destruction of craving**\\.",
-   "directed": "The Buddha's answer to Radha identifies Nibbana with **the destruction of craving**\\."
+   "text": "The Buddha's answer to Radha identifies Nibbana with the destruction of craving.",
+   "directed": "The Buddha's answer to Radha identifies Nibbana with the destruction of craving."
   },
   {
    "id": "b1011",
@@ -8151,8 +8151,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**Sermon 19 asks whether liberation must wait until death to be complete.**",
-   "directed": "**Sermon 19 asks whether liberation must wait until death to be complete.**"
+   "text": "Sermon 19 asks whether liberation must wait until death to be complete.",
+   "directed": "Sermon 19 asks whether liberation must wait until death to be complete."
   },
   {
    "id": "b1019",
@@ -8231,8 +8231,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**Sermon 20 asks what makes Nibbana the supreme happiness.**",
-   "directed": "**Sermon 20 asks what makes Nibbana the supreme happiness.**"
+   "text": "Sermon 20 asks what makes Nibbana the supreme happiness.",
+   "directed": "Sermon 20 asks what makes Nibbana the supreme happiness."
   },
   {
    "id": "b1029",
@@ -8327,8 +8327,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**Sermon 21 asks whether the liberated person can be established as an independent entity even during life.**",
-   "directed": "**Sermon 21 asks whether the liberated person can be established as an independent entity even during life.**"
+   "text": "Sermon 21 asks whether the liberated person can be established as an independent entity even during life.",
+   "directed": "Sermon 21 asks whether the liberated person can be established as an independent entity even during life."
   },
   {
    "id": "b1041",
@@ -8415,8 +8415,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nibbana is not the ultimate success of the project of becoming happy. It is the ending of the compulsion through which the project continually reproduces unhappiness.**",
-   "directed": "**Nibbana is not the ultimate success of the project of becoming happy. It is the ending of the compulsion through which the project continually reproduces unhappiness.**"
+   "text": "Nibbana is not the ultimate success of the project of becoming happy. It is the ending of the compulsion through which the project continually reproduces unhappiness.",
+   "directed": "Nibbana is not the ultimate success of the project of becoming happy. It is the ending of the compulsion through which the project continually reproduces unhappiness."
   },
   {
    "id": "b1052",
@@ -8583,8 +8583,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**The problem is the assumption that possession can provide the freedom you're looking for.**",
-   "directed": "**The problem is the assumption that possession can provide the freedom you're looking for.**"
+   "text": "The problem is the assumption that possession can provide the freedom you're looking for.",
+   "directed": "The problem is the assumption that possession can provide the freedom you're looking for."
   },
   {
    "id": "b1073",
@@ -8655,8 +8655,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**If craving ends, does happiness disappear too?**",
-   "directed": "**If craving ends, does happiness disappear too?**"
+   "text": "If craving ends, does happiness disappear too?",
+   "directed": "If craving ends, does happiness disappear too?"
   },
   {
    "id": "b1082",
@@ -8679,32 +8679,32 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "There is a profound difference between\\:",
-   "directed": "[short pause] There is a profound difference between\\:"
+   "text": "There is a profound difference between:",
+   "directed": "[short pause] There is a profound difference between:"
   },
   {
    "id": "b1085",
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "*I am happy because this experience is happening.*",
-   "directed": "*I am happy because this experience is happening.*"
+   "text": "I am happy because this experience is happening.",
+   "directed": "I am happy because this experience is happening."
   },
   {
    "id": "b1086",
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "And\\:",
-   "directed": "[short pause] And\\:"
+   "text": "And:",
+   "directed": "[short pause] And:"
   },
   {
    "id": "b1087",
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "*My freedom does not depend upon securing any particular experience.*",
-   "directed": "*My freedom does not depend upon securing any particular experience.*"
+   "text": "My freedom does not depend upon securing any particular experience.",
+   "directed": "My freedom does not depend upon securing any particular experience."
   },
   {
    "id": "b1088",
@@ -8847,8 +8847,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**The liberation you were seeking is the ending of the very activity through which you were trying to possess liberation.**",
-   "directed": "**The liberation you were seeking is the ending of the very activity through which you were trying to possess liberation.**"
+   "text": "The liberation you were seeking is the ending of the very activity through which you were trying to possess liberation.",
+   "directed": "The liberation you were seeking is the ending of the very activity through which you were trying to possess liberation."
   },
   {
    "id": "b1106",
@@ -8959,8 +8959,8 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**What actually happens to someone who is liberated and dies-and why does the Buddha refuse to tell us in the way we expect?**",
-   "directed": "**What actually happens to someone who is liberated and dies-and why does the Buddha refuse to tell us in the way we expect?**"
+   "text": "What actually happens to someone who is liberated and dies-and why does the Buddha refuse to tell us in the way we expect?",
+   "directed": "What actually happens to someone who is liberated and dies-and why does the Buddha refuse to tell us in the way we expect?"
   },
   {
    "id": "b1120",
@@ -8983,16 +8983,16 @@
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "**End of Chapter VII - Sermons 19-21 of 33.**",
-   "directed": "**End of Chapter VII - Sermons 19-21 of 33.**"
+   "text": "End of Chapter VII - Sermons 19-21 of 33.",
+   "directed": "End of Chapter VII - Sermons 19-21 of 33."
   },
   {
    "id": "b1123",
    "section": "The final cut - The supreme happiness is not something you g",
    "type": "narration",
    "voice": "granny",
-   "text": "Primary sources: Nanananda Sermon 19 · Sermon 20 · Complete text, including Sermon 21\\. Comparative notes: Analayo 19 · Analayo 20 · Analayo 21\\.",
-   "directed": "Primary sources: Nanananda Sermon 19 · Sermon 20 · Complete text, including Sermon 21\\. Comparative notes: Analayo 19 · Analayo 20 · Analayo 21\\."
+   "text": "Primary sources: Nanananda Sermon 19 · Sermon 20 · Complete text, including Sermon 21. Comparative notes: Analayo 19 · Analayo 20 · Analayo 21.",
+   "directed": "Primary sources: Nanananda Sermon 19 · Sermon 20 · Complete text, including Sermon 21. Comparative notes: Analayo 19 · Analayo 20 · Analayo 21."
   }
  ],
  "totals": {

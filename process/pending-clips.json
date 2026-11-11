@@ -1,0 +1,1029 @@
+{
+ "lane": "nibbana",
+ "pending_wanted": [
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n01",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n02",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n03",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "jewel-pond",
+   "unit": "n03",
+   "bids": [
+    "b103",
+    "b402"
+   ],
+   "est_total_s": 5.8,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 48.8,
+    "wps_used": 2.6,
+    "method": "words/wps",
+    "etch_s": 31.7,
+    "play_s": 17.1,
+    "mid_bid": "b116",
+    "per_block": [
+     [
+      "b103",
+      4.2
+     ],
+     [
+      "b104",
+      2.7
+     ],
+     [
+      "b105",
+      6.2
+     ],
+     [
+      "b106",
+      1.5
+     ],
+     [
+      "b107",
+      3.1
+     ],
+     [
+      "b108",
+      4.2
+     ],
+     [
+      "b109",
+      2.3
+     ],
+     [
+      "b110",
+      1.5
+     ],
+     [
+      "b111",
+      1.2
+     ],
+     [
+      "b112",
+      0.8
+     ],
+     [
+      "b113",
+      0.8
+     ],
+     [
+      "b114",
+      0.8
+     ],
+     [
+      "b115",
+      0.8
+     ],
+     [
+      "b116",
+      3.8
+     ],
+     [
+      "b117",
+      1.5
+     ],
+     [
+      "b118",
+      1.9
+     ],
+     [
+      "b119",
+      6.9
+     ],
+     [
+      "b120",
+      4.6
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b103",
+      "complete": "b116"
+     },
+     "clip": {
+      "start": "b116",
+      "complete": "b121"
+     }
+    },
+    "note": ""
+   }
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n04",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "jewel-pond",
+   "unit": "n04",
+   "bids": [
+    "b28",
+    "b29"
+   ],
+   "est_total_s": 6.9,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 1738.5,
+    "wps_used": 0.07,
+    "method": "visual-plan+words",
+    "etch_s": 1130.0,
+    "play_s": 608.5,
+    "mid_bid": "b43",
+    "per_block": [
+     [
+      "b28",
+      171.0
+     ],
+     [
+      "b29",
+      85.5
+     ],
+     [
+      "b30",
+      71.2
+     ],
+     [
+      "b31",
+      114.0
+     ],
+     [
+      "b32",
+      57.0
+     ],
+     [
+      "b33",
+      85.5
+     ],
+     [
+      "b34",
+      42.8
+     ],
+     [
+      "b35",
+      14.2
+     ],
+     [
+      "b36",
+      42.8
+     ],
+     [
+      "b37",
+      14.2
+     ],
+     [
+      "b38",
+      85.5
+     ],
+     [
+      "b39",
+      71.2
+     ],
+     [
+      "b40",
+      28.5
+     ],
+     [
+      "b41",
+      85.5
+     ],
+     [
+      "b42",
+      42.8
+     ],
+     [
+      "b43",
+      384.8
+     ],
+     [
+      "b44",
+      71.2
+     ],
+     [
+      "b45",
+      142.5
+     ],
+     [
+      "b46",
+      128.2
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b28",
+      "complete": "b43"
+     },
+     "clip": {
+      "start": "b43",
+      "complete": "b47"
+     }
+    },
+    "note": "passage 1738s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  },
+  {
+   "gif_id": "carpenter-tools",
+   "unit": "n04",
+   "bids": [
+    "b254",
+    "b255"
+   ],
+   "est_total_s": 5.8,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 6396.0,
+    "wps_used": 0.02,
+    "method": "visual-plan+words",
+    "etch_s": 4157.4,
+    "play_s": 2238.6,
+    "mid_bid": "b268",
+    "per_block": [
+     [
+      "b254",
+      442.8
+     ],
+     [
+      "b255",
+      295.2
+     ],
+     [
+      "b256",
+      246.0
+     ],
+     [
+      "b257",
+      98.4
+     ],
+     [
+      "b258",
+      246.0
+     ],
+     [
+      "b259",
+      147.6
+     ],
+     [
+      "b260",
+      295.2
+     ],
+     [
+      "b261",
+      295.2
+     ],
+     [
+      "b262",
+      246.0
+     ],
+     [
+      "b263",
+      196.8
+     ],
+     [
+      "b264",
+      196.8
+     ],
+     [
+      "b265",
+      344.4
+     ],
+     [
+      "b266",
+      639.6
+     ],
+     [
+      "b267",
+      393.6
+     ],
+     [
+      "b268",
+      984.0
+     ],
+     [
+      "b269",
+      295.2
+     ],
+     [
+      "b270",
+      1033.2
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b254",
+      "complete": "b268"
+     },
+     "clip": {
+      "start": "b268",
+      "complete": "b271"
+     }
+    },
+    "note": "passage 6396s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n05",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n06",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "passbook",
+   "unit": "n06",
+   "bids": [
+    "b79",
+    "b297"
+   ],
+   "est_total_s": 6.9,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 2031.5,
+    "wps_used": 0.06,
+    "method": "visual-plan+words",
+    "etch_s": 1320.5,
+    "play_s": 711.0,
+    "mid_bid": "b93",
+    "per_block": [
+     [
+      "b79",
+      191.0
+     ],
+     [
+      "b80",
+      138.9
+     ],
+     [
+      "b81",
+      52.1
+     ],
+     [
+      "b82",
+      52.1
+     ],
+     [
+      "b83",
+      121.5
+     ],
+     [
+      "b84",
+      243.1
+     ],
+     [
+      "b85",
+      34.7
+     ],
+     [
+      "b86",
+      34.7
+     ],
+     [
+      "b87",
+      34.7
+     ],
+     [
+      "b88",
+      34.7
+     ],
+     [
+      "b89",
+      34.7
+     ],
+     [
+      "b90",
+      34.7
+     ],
+     [
+      "b91",
+      86.8
+     ],
+     [
+      "b92",
+      173.6
+     ],
+     [
+      "b93",
+      104.2
+     ],
+     [
+      "b94",
+      138.9
+     ],
+     [
+      "b95",
+      156.3
+     ],
+     [
+      "b96",
+      69.5
+     ],
+     [
+      "b97",
+      17.4
+     ],
+     [
+      "b98",
+      69.5
+     ],
+     [
+      "b99",
+      17.4
+     ],
+     [
+      "b100",
+      52.1
+     ],
+     [
+      "b101",
+      86.8
+     ],
+     [
+      "b102",
+      52.1
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b79",
+      "complete": "b93"
+     },
+     "clip": {
+      "start": "b93",
+      "complete": "b103"
+     }
+    },
+    "note": "passage 2032s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n07",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n08",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "passbook",
+   "unit": "n08",
+   "bids": [
+    "b588"
+   ],
+   "est_total_s": 1.5,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 46.5,
+    "wps_used": 2.6,
+    "method": "words/wps",
+    "etch_s": 30.2,
+    "play_s": 16.3,
+    "mid_bid": "b594",
+    "per_block": [
+     [
+      "b588",
+      1.5
+     ],
+     [
+      "b589",
+      6.5
+     ],
+     [
+      "b590",
+      5.0
+     ],
+     [
+      "b591",
+      11.5
+     ],
+     [
+      "b592",
+      1.2
+     ],
+     [
+      "b593",
+      3.8
+     ],
+     [
+      "b594",
+      3.8
+     ],
+     [
+      "b595",
+      3.8
+     ],
+     [
+      "b596",
+      6.2
+     ],
+     [
+      "b597",
+      3.1
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b588",
+      "complete": "b594"
+     },
+     "clip": {
+      "start": "b594",
+      "complete": "b598"
+     }
+    },
+    "note": ""
+   }
+  },
+  {
+   "gif_id": "mara-army",
+   "unit": "n08",
+   "bids": [
+    "b626",
+    "b627"
+   ],
+   "est_total_s": 13.8,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 1534.0,
+    "wps_used": 0.08,
+    "method": "visual-plan+words",
+    "etch_s": 997.1,
+    "play_s": 536.9,
+    "mid_bid": "b630",
+    "per_block": [
+     [
+      "b626",
+      260.0
+     ],
+     [
+      "b627",
+      208.0
+     ],
+     [
+      "b628",
+      130.0
+     ],
+     [
+      "b629",
+      91.0
+     ],
+     [
+      "b630",
+      312.0
+     ],
+     [
+      "b631",
+      91.0
+     ],
+     [
+      "b632",
+      130.0
+     ],
+     [
+      "b633",
+      78.0
+     ],
+     [
+      "b634",
+      26.0
+     ],
+     [
+      "b635",
+      208.0
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b626",
+      "complete": "b630"
+     },
+     "clip": {
+      "start": "b630",
+      "complete": "b636"
+     }
+    },
+    "note": "passage 1534s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n09",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "grasping-hand",
+   "unit": "n10",
+   "bids": [],
+   "est_total_s": 0.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "note": "lane-wide: map to unit beats on arrival",
+   "passage": null
+  },
+  {
+   "gif_id": "carpenter-tools",
+   "unit": "n10",
+   "bids": [
+    "b52",
+    "b55"
+   ],
+   "est_total_s": 7.3,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 1300.0,
+    "wps_used": 0.11,
+    "method": "visual-plan+words",
+    "etch_s": 845.0,
+    "play_s": 455.0,
+    "mid_bid": "b63",
+    "per_block": [
+     [
+      "b52",
+      46.4
+     ],
+     [
+      "b53",
+      18.6
+     ],
+     [
+      "b54",
+      55.7
+     ],
+     [
+      "b55",
+      130.0
+     ],
+     [
+      "b56",
+      130.0
+     ],
+     [
+      "b57",
+      74.3
+     ],
+     [
+      "b58",
+      241.4
+     ],
+     [
+      "b59",
+      55.7
+     ],
+     [
+      "b60",
+      18.6
+     ],
+     [
+      "b61",
+      18.6
+     ],
+     [
+      "b62",
+      18.6
+     ],
+     [
+      "b63",
+      111.4
+     ],
+     [
+      "b64",
+      148.6
+     ],
+     [
+      "b65",
+      232.1
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b52",
+      "complete": "b63"
+     },
+     "clip": {
+      "start": "b63",
+      "complete": "b66"
+     }
+    },
+    "note": "passage 1300s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  },
+  {
+   "gif_id": "chariot-team",
+   "unit": "n10",
+   "bids": [
+    "b231",
+    "b587"
+   ],
+   "est_total_s": 10.0,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 45.4,
+    "wps_used": 2.6,
+    "method": "words/wps",
+    "etch_s": 29.5,
+    "play_s": 15.9,
+    "mid_bid": "b240",
+    "per_block": [
+     [
+      "b231",
+      5.0
+     ],
+     [
+      "b232",
+      2.7
+     ],
+     [
+      "b233",
+      3.5
+     ],
+     [
+      "b234",
+      3.5
+     ],
+     [
+      "b235",
+      4.2
+     ],
+     [
+      "b236",
+      4.2
+     ],
+     [
+      "b237",
+      1.9
+     ],
+     [
+      "b238",
+      2.7
+     ],
+     [
+      "b239",
+      1.2
+     ],
+     [
+      "b240",
+      1.9
+     ],
+     [
+      "b241",
+      1.9
+     ],
+     [
+      "b242",
+      1.5
+     ],
+     [
+      "b243",
+      2.7
+     ],
+     [
+      "b244",
+      2.7
+     ],
+     [
+      "b245",
+      3.8
+     ],
+     [
+      "b246",
+      1.9
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b231",
+      "complete": "b240"
+     },
+     "clip": {
+      "start": "b240",
+      "complete": "b247"
+     }
+    },
+    "note": ""
+   }
+  },
+  {
+   "gif_id": "relay-runner",
+   "unit": "n10",
+   "bids": [
+    "b209",
+    "b231"
+   ],
+   "est_total_s": 10.8,
+   "status": "wanted",
+   "lanes": [
+    "nibbana"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 2775.5,
+    "wps_used": 0.04,
+    "method": "visual-plan+words",
+    "etch_s": 1804.1,
+    "play_s": 971.4,
+    "mid_bid": "b221",
+    "per_block": [
+     [
+      "b209",
+      341.2
+     ],
+     [
+      "b210",
+      68.2
+     ],
+     [
+      "b211",
+      227.5
+     ],
+     [
+      "b212",
+      182.0
+     ],
+     [
+      "b213",
+      22.8
+     ],
+     [
+      "b214",
+      68.2
+     ],
+     [
+      "b215",
+      68.2
+     ],
+     [
+      "b216",
+      113.7
+     ],
+     [
+      "b217",
+      45.5
+     ],
+     [
+      "b218",
+      68.2
+     ],
+     [
+      "b219",
+      136.5
+     ],
+     [
+      "b220",
+      250.2
+     ],
+     [
+      "b221",
+      250.2
+     ],
+     [
+      "b222",
+      227.5
+     ],
+     [
+      "b223",
+      204.7
+     ],
+     [
+      "b224",
+      227.5
+     ],
+     [
+      "b225",
+      273.0
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b209",
+      "complete": "b221"
+     },
+     "clip": {
+      "start": "b221",
+      "complete": "b226"
+     }
+    },
+    "note": "passage 2776s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  }
+ ],
+ "banked_unplaced": [
+  "book-cup",
+  "dawn-ray",
+  "knotted-thread",
+  "leaning-wall",
+  "palm-reading",
+  "seed-soil",
+  "star-field",
+  "watermill"
+ ]
+}

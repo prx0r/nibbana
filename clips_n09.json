@@ -1,0 +1,65 @@
+{
+ "b14": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/dog-water_2x15s.mp4",
+  "complete_bid": "b15",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n09 dog-water motif \u2013 magic show \u2013 dog + magician + mirror, recognition misfiring \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b127": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/dog-water_2x15s.mp4",
+  "complete_bid": "b128",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n09 dog-water motif \u2013 magic show \u2013 dog + magician + mirror, recognition misfiring \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b2": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/magician_2x15s.mp4",
+  "complete_bid": "b3",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n09 magician motif \u2013 magic show \u2013 dog + magician + mirror, recognition misfiring \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b4": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/magician_2x15s.mp4",
+  "complete_bid": "b5",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "n09 magician motif \u2013 magic show \u2013 dog + magician + mirror, recognition misfiring \u2013 2x primary loop 15s (~4-5 passes, even-delay clean) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b177": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/knot-heart_2x15s.mp4",
+  "complete_bid": "b178",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n09 knotted-thread motif \u2014 text-matched self-tie beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b401": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/knot-heart_2x15s.mp4",
+  "complete_bid": "b402",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n09 knotted-thread motif \u2014 text-matched self-tie beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b450": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/knotted-thread_2x15s.mp4",
+  "complete_bid": "b451",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n09 knotted-thread rope-tangle \u2014 placement evidence \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b12": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b13",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n09 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b18": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/motion-2x/grasping-hand_2x15s.mp4",
+  "complete_bid": "b19",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "n09 grasping-hand \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}
