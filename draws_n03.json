@@ -41,13 +41,6 @@
   "fade": 3.0,
   "why": "n03 Why the liberated mind cannot be tracked \u2013 consciousness constructing world \u2013 cinema trick, mirror inventing owner"
  },
- "b266": {
-  "asset": "/home/ubuntu/nibbana/process/image-bank/em-mirror.jpg",
-  "complete_bid": "b267",
-  "clear": "fade",
-  "fade": 3.0,
-  "why": "n03 God himself has fallen for the trick -> SPLIT x7 (~85s each, subdivide by sub-heads) \u2013 consciousness constructing world \u2013 cinema trick, mirror inventing owner"
- },
  "b438": {
   "asset": "/home/ubuntu/nibbana/process/image-bank/mirror-empty.png",
   "complete_bid": "b439",
@@ -139,13 +132,6 @@
   "fade": 3.0,
   "why": "n03 etch lead-in for pond-water clip at b103 \u2013 first frame etches from white, then motion takes over seamless"
  },
- "b401": {
-  "asset": "/home/ubuntu/nibbana/process/image-bank/em-pond-water-first.png",
-  "complete_bid": "b402",
-  "clear": "fade",
-  "fade": 3.0,
-  "why": "n03 etch lead-in for pond-water clip at b402 \u2013 first frame etches from white, then motion takes over seamless"
- },
  "b96": {
   "asset": "/home/ubuntu/nibbana/process/image-bank/em-hand-mirror-first.png",
   "complete_bid": "b97",
@@ -181,18 +167,67 @@
   "fade": 3.0,
   "why": "n03 etch lead-in for knotted-thread clip at b189 \u2014 first frame etches from white, then motion takes over seamless"
  },
- "b274": {
-  "asset": "/home/ubuntu/nibbana/process/image-bank/em-knotted-thread-first.png",
-  "complete_bid": "b275",
-  "clear": "fade",
-  "fade": 3.0,
-  "why": "n03 etch lead-in for knotted-thread clip at b275 \u2014 first frame etches from white, then motion takes over seamless"
- },
  "b12": {
   "asset": "/home/ubuntu/nibbana/process/image-bank/em-grasping-hand-first.png",
   "complete_bid": "b13",
   "clear": "fade",
   "fade": 3.0,
   "why": "n03 etch lead-in for grasping-hand clip at b13 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b266": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-mirror.jpg",
+  "complete_bid": "b293",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: trick: God fallen for it, mirror inventing owner"
+ },
+ "b293": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-carpenter-tools-first.png",
+  "complete_bid": "b323",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: 10. chair becomes chair: designation through conditions, construction made object"
+ },
+ "b323": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-jewel-pond-first.png",
+  "complete_bid": "b346",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: 11. stone becomes treasure: recognition shift, jewel glinting"
+ },
+ "b346": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b364",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: next stage: what changed in experience, mirror in hand"
+ },
+ "b364": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-knotted-thread-first.png",
+  "complete_bid": "b378",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: 12. sewing machine still moves: stitches, binding, self-tie"
+ },
+ "b378": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-hands-sand-first.png",
+  "complete_bid": "b396",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: stitches don't hold, no binding: release, sand running through"
+ },
+ "b396": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-calm-sea-first.png",
+  "complete_bid": "b414",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: no compulsive identification: settled water, non-appropriation"
+ },
+ "b414": {
+  "asset": "/home/ubuntu/nibbana/process/image-bank/em-lotus-rain-first.png",
+  "complete_bid": "b438",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "n03 b266-span content beat: 13. arahant captured by robbers, composed: contact without ownership, lotus non-stick"
  }
 }
